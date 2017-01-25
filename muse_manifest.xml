@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485386511324">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485387163674">
   <folder name="assets">
     <file name="ender-s-game-review.docx" crc="407018635" seo="true" mt="1481507406000"/>
     <file name="battlefield-1-campaign.docx" crc="264145101" seo="true" mt="1481507708000"/>
@@ -27,7 +27,7 @@
     <file name="school.css" crc="82669099" ref="school"/>
     <file name="english-cheats.css" crc="3914827380" ref="english-cheats"/>
     <file name="index.css" crc="3985316043" ref="index"/>
-    <file name="spanish-cheats.css" crc="4051898467" ref="spanish-cheats"/>
+    <file name="spanish-cheats.css" crc="251843732" ref="spanish-cheats"/>
     <file name="other-cheats.css" crc="264866236" ref="other-cheats"/>
     <file name="autohotkey-scripts.css" crc="4152545740" ref="autohotkey-scripts"/>
     <file name="pirating.css" crc="4269067006" ref="pirating"/>
@@ -59,7 +59,7 @@
   </folder>
   <file name="index.html" crc="134330691" seo="true" mt="1485383899476" redirect="true"/>
   <file name="school.html" crc="338087204" seo="true" mt="1483759319849" redirect="true"/>
-  <file name="spanish-cheats.html" crc="446560759" seo="true" mt="1485386344366" redirect="true"/>
+  <file name="spanish-cheats.html" crc="3813687435" seo="true" mt="1485387151167" redirect="true"/>
   <file name="other-cheats.html" crc="4042828510" seo="true" mt="1485383920297" redirect="true"/>
   <file name="english-cheats.html" crc="483553184" seo="true" mt="1485383926242" redirect="true"/>
   <file name="misc.html" crc="3776724280" seo="true" mt="1483759332169" redirect="true"/>
