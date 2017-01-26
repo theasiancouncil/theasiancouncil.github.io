@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485397037669">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485397452930">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3954009462" ref="phone>secret:phone>other-cheats:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>pokemon"/>
       <file name="secret.css" crc="4040414042" ref="phone>secret"/>
-      <file name="other-cheats.css" crc="380352344" ref="phone>other-cheats"/>
-      <file name="games.css" crc="4085910601" ref="phone>games"/>
+      <file name="other-cheats.css" crc="4150504222" ref="phone>other-cheats"/>
+      <file name="games.css" crc="4239784101" ref="phone>games"/>
       <file name="combat.css" crc="4040414042" ref="phone>combat"/>
       <file name="guns.css" crc="4040414042" ref="phone>guns"/>
-      <file name="index.css" crc="39018494" ref="phone>index"/>
+      <file name="index.css" crc="4121738291" ref="phone>index"/>
       <file name="airplane-guide.css" crc="4040414042" ref="phone>airplane-guide"/>
       <file name="scout.css" crc="4040414042" ref="phone>scout"/>
       <file name="tier-list.css" crc="4040414042" ref="phone>tier-list"/>
@@ -17,18 +17,18 @@
       <file name="infantry-guides.css" crc="4040414042" ref="phone>infantry-guides"/>
       <file name="vehicle-guides.css" crc="4040414042" ref="phone>vehicle-guides"/>
       <file name="civilization.css" crc="4040414042" ref="phone>civilization"/>
-      <file name="spanish-cheats.css" crc="3909957061" ref="phone>spanish-cheats"/>
-      <file name="english-cheats.css" crc="4006222381" ref="phone>english-cheats"/>
+      <file name="spanish-cheats.css" crc="4247408625" ref="phone>spanish-cheats"/>
+      <file name="english-cheats.css" crc="310138281" ref="phone>english-cheats"/>
       <file name="cavalry.css" crc="4040414042" ref="phone>cavalry"/>
       <file name="pokemon.css" crc="4040414042" ref="phone>pokemon"/>
     </folder>
-    <file name="index.html" crc="165730134" seo="true" mt="1485393852967" redirect="true"/>
+    <file name="index.html" crc="4103058250" seo="true" mt="1485397326020" redirect="true"/>
     <file name="secret.html" crc="4281021504" seo="true" mt="1485393852967" redirect="true"/>
     <file name="school.html" crc="503589956" seo="true" mt="1485394942358" redirect="true"/>
-    <file name="spanish-cheats.html" crc="101002681" seo="true" mt="1485394858470" redirect="true"/>
-    <file name="other-cheats.html" crc="4052746049" seo="true" mt="1485394879068" redirect="true"/>
-    <file name="english-cheats.html" crc="4280268862" seo="true" mt="1485394970353" redirect="true"/>
-    <file name="games.html" crc="4039141758" seo="true" mt="1485394258514" redirect="true"/>
+    <file name="spanish-cheats.html" crc="178492025" seo="true" mt="1485397226931" redirect="true"/>
+    <file name="other-cheats.html" crc="4208279213" seo="true" mt="1485397246133" redirect="true"/>
+    <file name="english-cheats.html" crc="4025931233" seo="true" mt="1485397192355" redirect="true"/>
+    <file name="games.html" crc="297423862" seo="true" mt="1485397286348" redirect="true"/>
     <file name="battlefield.html" crc="368030621" seo="true" mt="1485393852967" redirect="true"/>
     <file name="scout.html" crc="4227150106" seo="true" mt="1485393852967" redirect="true"/>
     <file name="tanker.html" crc="3939445485" seo="true" mt="1485393852967" redirect="true"/>
@@ -69,7 +69,7 @@
     <file name="master_a-master.css" crc="3998544108" ref="school:english-cheats:index:spanish-cheats:other-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns:infantry-guides:airplane-guide:vehicle-guides:cavalry:civilization:secret:combat:tier-list"/>
     <file name="school.css" crc="82669099" ref="school"/>
     <file name="english-cheats.css" crc="3914827380" ref="english-cheats"/>
-    <file name="index.css" crc="143794713" ref="index"/>
+    <file name="index.css" crc="4235472421" ref="index"/>
     <file name="spanish-cheats.css" crc="251843732" ref="spanish-cheats"/>
     <file name="other-cheats.css" crc="264866236" ref="other-cheats"/>
     <file name="autohotkey-scripts.css" crc="4152545740" ref="autohotkey-scripts"/>
@@ -100,7 +100,7 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:secret:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>pokemon:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list"/>
     <file name="require.js" crc="244322403" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:secret:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>pokemon:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list"/>
   </folder>
-  <file name="index.html" crc="4032747971" seo="true" mt="1485397031861" redirect="true"/>
+  <file name="index.html" crc="3783270558" seo="true" mt="1485397431978" redirect="true"/>
   <file name="school.html" crc="173696342" seo="true" mt="1485393358781" redirect="true"/>
   <file name="spanish-cheats.html" crc="53101082" seo="true" mt="1485393358823" redirect="true"/>
   <file name="other-cheats.html" crc="389597446" seo="true" mt="1485393358864" redirect="true"/>
