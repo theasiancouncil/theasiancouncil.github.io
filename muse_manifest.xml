@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485485489401">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485485749433">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3778918425" ref="phone>secret:phone>other-cheats:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry"/>
@@ -60,33 +60,33 @@
     <file name="support weaponss.jpg" crc="3926442828" seo="true" ref="guns"/>
     <file name="all gun variants meaningss.jpg" crc="4158992555" seo="true" ref="guns"/>
     <file name="scout weaponss.jpg" crc="3930396014" seo="true" ref="guns"/>
-    <file name="logomakr_2hkmcf.png" crc="4140978180" seo="true" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list"/>
+    <file name="logomakr_2hkmcf.png" crc="4101696920" seo="true" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list"/>
     <file name="logomakr_9a9qwa.png" crc="203387318" seo="true" ref="phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="3931713968" ref="school:english-cheats:index:spanish-cheats:other-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns:infantry-guides:airplane-guide:vehicle-guides:cavalry:civilization:combat:tier-list"/>
-    <file name="school.css" crc="4017236898" ref="school"/>
-    <file name="english-cheats.css" crc="4192840336" ref="english-cheats"/>
-    <file name="index.css" crc="4291932941" ref="index"/>
-    <file name="spanish-cheats.css" crc="214926187" ref="spanish-cheats"/>
-    <file name="other-cheats.css" crc="126399757" ref="other-cheats"/>
-    <file name="autohotkey-scripts.css" crc="3970104448" ref="autohotkey-scripts"/>
-    <file name="pirating.css" crc="3836405239" ref="pirating"/>
-    <file name="misc.css" crc="3936118680" ref="misc"/>
-    <file name="games.css" crc="3819091952" ref="games"/>
-    <file name="battlefield.css" crc="3906001379" ref="battlefield"/>
-    <file name="pokemon.css" crc="15098861" ref="pokemon"/>
-    <file name="scout.css" crc="3900301694" ref="scout"/>
-    <file name="tanker.css" crc="368556612" ref="tanker"/>
-    <file name="guns.css" crc="314964248" ref="guns"/>
-    <file name="infantry-guides.css" crc="306205906" ref="infantry-guides"/>
-    <file name="airplane-guide.css" crc="4040195915" ref="airplane-guide"/>
-    <file name="vehicle-guides.css" crc="4083371282" ref="vehicle-guides"/>
-    <file name="cavalry.css" crc="334838231" ref="cavalry"/>
-    <file name="civilization.css" crc="3914083676" ref="civilization"/>
-    <file name="combat.css" crc="3784701450" ref="combat"/>
-    <file name="tier-list.css" crc="4280029347" ref="tier-list"/>
+    <file name="school.css" crc="4086144080" ref="school"/>
+    <file name="english-cheats.css" crc="4048802251" ref="english-cheats"/>
+    <file name="index.css" crc="4164597829" ref="index"/>
+    <file name="spanish-cheats.css" crc="4235480099" ref="spanish-cheats"/>
+    <file name="other-cheats.css" crc="3815976867" ref="other-cheats"/>
+    <file name="autohotkey-scripts.css" crc="424702963" ref="autohotkey-scripts"/>
+    <file name="pirating.css" crc="253273853" ref="pirating"/>
+    <file name="misc.css" crc="179407798" ref="misc"/>
+    <file name="games.css" crc="147063947" ref="games"/>
+    <file name="battlefield.css" crc="4127424636" ref="battlefield"/>
+    <file name="pokemon.css" crc="83445457" ref="pokemon"/>
+    <file name="scout.css" crc="271911501" ref="scout"/>
+    <file name="tanker.css" crc="132462928" ref="tanker"/>
+    <file name="guns.css" crc="4100752847" ref="guns"/>
+    <file name="infantry-guides.css" crc="149265065" ref="infantry-guides"/>
+    <file name="airplane-guide.css" crc="4276706950" ref="airplane-guide"/>
+    <file name="vehicle-guides.css" crc="3891952501" ref="vehicle-guides"/>
+    <file name="cavalry.css" crc="4218549243" ref="cavalry"/>
+    <file name="civilization.css" crc="490953860" ref="civilization"/>
+    <file name="combat.css" crc="50979552" ref="combat"/>
+    <file name="tier-list.css" crc="141755787" ref="tier-list"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list"/>
@@ -98,25 +98,25 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list"/>
     <file name="require.js" crc="244322403" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list"/>
   </folder>
-  <file name="index.html" crc="3927479841" seo="true" mt="1485484504159" redirect="true"/>
-  <file name="school.html" crc="3899353171" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="spanish-cheats.html" crc="97254749" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="other-cheats.html" crc="458350164" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="english-cheats.html" crc="55102758" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="misc.html" crc="143582218" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="autohotkey-scripts.html" crc="3769456332" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="pirating.html" crc="4169520020" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="games.html" crc="320438653" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="battlefield.html" crc="325285028" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="pokemon.html" crc="3760686627" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="scout.html" crc="3944618419" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="tanker.html" crc="4201945044" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="guns.html" crc="3998805737" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="cavalry.html" crc="4100115666" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="airplane-guide.html" crc="3979104089" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="infantry-guides.html" crc="3841985790" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="vehicle-guides.html" crc="65846399" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="civilization.html" crc="4242915249" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="combat.html" crc="4266072822" seo="true" mt="1485484335127" redirect="true"/>
-  <file name="tier-list.html" crc="3786784204" seo="true" mt="1485484335127" redirect="true"/>
+  <file name="index.html" crc="30364440" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="school.html" crc="3819109646" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="spanish-cheats.html" crc="4073755741" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="other-cheats.html" crc="119847605" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="english-cheats.html" crc="3900083761" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="misc.html" crc="443062275" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="autohotkey-scripts.html" crc="398603226" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="pirating.html" crc="3939871637" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="games.html" crc="456054241" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="battlefield.html" crc="3771447937" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="pokemon.html" crc="3808435044" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="scout.html" crc="202031985" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="tanker.html" crc="62218861" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="guns.html" crc="276708215" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="cavalry.html" crc="4191460716" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="airplane-guide.html" crc="4202664921" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="infantry-guides.html" crc="499032653" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="vehicle-guides.html" crc="452613070" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="civilization.html" crc="198915630" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="combat.html" crc="4282725778" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="tier-list.html" crc="3778023837" seo="true" mt="1485485728442" redirect="true"/>
 </manifest>
