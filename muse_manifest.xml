@@ -1,15 +1,15 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485484719900">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485485489401">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3778918425" ref="phone>secret:phone>other-cheats:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry"/>
-      <file name="secret.css" crc="522089439" ref="phone>secret"/>
-      <file name="other-cheats.css" crc="29700804" ref="phone>other-cheats"/>
+      <file name="secret.css" crc="133446161" ref="phone>secret"/>
+      <file name="other-cheats.css" crc="4093664696" ref="phone>other-cheats"/>
       <file name="games.css" crc="29999146" ref="phone>games"/>
       <file name="combat.css" crc="522089439" ref="phone>combat"/>
-      <file name="guns.css" crc="522089439" ref="phone>guns"/>
-      <file name="index.css" crc="275609659" ref="phone>index"/>
+      <file name="guns.css" crc="4257419945" ref="phone>guns"/>
+      <file name="index.css" crc="3928920845" ref="phone>index"/>
       <file name="airplane-guide.css" crc="522089439" ref="phone>airplane-guide"/>
-      <file name="scout.css" crc="522089439" ref="phone>scout"/>
+      <file name="scout.css" crc="4170106634" ref="phone>scout"/>
       <file name="tier-list.css" crc="522089439" ref="phone>tier-list"/>
       <file name="battlefield.css" crc="389440189" ref="phone>battlefield"/>
       <file name="school.css" crc="258954627" ref="phone>school"/>
@@ -21,19 +21,19 @@
       <file name="english-cheats.css" crc="300783352" ref="phone>english-cheats"/>
       <file name="cavalry.css" crc="522089439" ref="phone>cavalry"/>
     </folder>
-    <file name="index.html" crc="3765548660" seo="true" mt="1485484705467" redirect="true"/>
-    <file name="secret.html" crc="3789942127" seo="true" mt="1485484705467" redirect="true"/>
+    <file name="index.html" crc="3946743315" seo="true" mt="1485485065320" redirect="true"/>
+    <file name="secret.html" crc="5986876" seo="true" mt="1485485210193" redirect="true"/>
     <file name="school.html" crc="286989888" seo="true" mt="1485484705467" redirect="true"/>
     <file name="spanish-cheats.html" crc="3944561911" seo="true" mt="1485484705467" redirect="true"/>
-    <file name="other-cheats.html" crc="238661457" seo="true" mt="1485484705467" redirect="true"/>
-    <file name="english-cheats.html" crc="236346555" seo="true" mt="1485484705467" redirect="true"/>
+    <file name="other-cheats.html" crc="254008727" seo="true" mt="1485485147490" redirect="true"/>
+    <file name="english-cheats.html" crc="3871719863" seo="true" mt="1485485101005" redirect="true"/>
     <file name="games.html" crc="445540299" seo="true" mt="1485484705467" redirect="true"/>
     <file name="battlefield.html" crc="3940384944" seo="true" mt="1485484705467" redirect="true"/>
-    <file name="scout.html" crc="514056450" seo="true" mt="1485484705467" redirect="true"/>
+    <file name="scout.html" crc="527876363" seo="true" mt="1485485336905" redirect="true"/>
     <file name="tanker.html" crc="433112530" seo="true" mt="1485484705467" redirect="true"/>
     <file name="cavalry.html" crc="3992098816" seo="true" mt="1485484705467" redirect="true"/>
     <file name="airplane-guide.html" crc="3775124313" seo="true" mt="1485484705467" redirect="true"/>
-    <file name="guns.html" crc="346594504" seo="true" mt="1485484705467" redirect="true"/>
+    <file name="guns.html" crc="4083197289" seo="true" mt="1485485483779" redirect="true"/>
     <file name="infantry-guides.html" crc="439883804" seo="true" mt="1485484705467" redirect="true"/>
     <file name="vehicle-guides.html" crc="3980746491" seo="true" mt="1485484705467" redirect="true"/>
     <file name="civilization.html" crc="3865171936" seo="true" mt="1485484705467" redirect="true"/>
