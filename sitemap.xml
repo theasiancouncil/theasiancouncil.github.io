@@ -15,15 +15,8 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://theasiancouncil.github.io/phone/school.html"/>
   </url>
   <url>
-    <loc>http://theasiancouncil.github.io/spanish-cheats.html</loc>
-    <lastmod>2017-01-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://theasiancouncil.github.io/phone/spanish-cheats.html"/>
-  </url>
-  <url>
     <loc>http://theasiancouncil.github.io/phone/secret.html</loc>
-    <lastmod>2017-01-25</lastmod>
+    <lastmod>2017-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -130,13 +123,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://theasiancouncil.github.io/other-cheats.html</loc>
-    <lastmod>2017-01-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://theasiancouncil.github.io/phone/other-cheats.html"/>
-  </url>
-  <url>
     <loc>http://theasiancouncil.github.io/misc.html</loc>
     <lastmod>2017-01-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -150,8 +136,22 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://theasiancouncil.github.io/phone/english-cheats.html"/>
   </url>
   <url>
-    <loc>http://theasiancouncil.github.io/assets/ender-s-game-review.docx</loc>
-    <lastmod>2016-12-11</lastmod>
+    <loc>http://theasiancouncil.github.io/other-cheats.html</loc>
+    <lastmod>2017-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://theasiancouncil.github.io/phone/other-cheats.html"/>
+  </url>
+  <url>
+    <loc>http://theasiancouncil.github.io/spanish-cheats.html</loc>
+    <lastmod>2017-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://theasiancouncil.github.io/phone/spanish-cheats.html"/>
+  </url>
+  <url>
+    <loc>http://theasiancouncil.github.io/images/logomakr_9a9qwa.png</loc>
+    <lastmod>2017-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -253,6 +253,12 @@
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/assets/battlefield-1-campaign.docx</loc>
+    <lastmod>2016-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://theasiancouncil.github.io/assets/ender-s-game-review.docx</loc>
     <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
