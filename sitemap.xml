@@ -2,17 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://theasiancouncil.github.io/index.html</loc>
-    <lastmod>2017-01-29</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://theasiancouncil.github.io/phone/index.html"/>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/school.html</loc>
-    <lastmod>2017-01-28</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://theasiancouncil.github.io/phone/school.html"/>
+  </url>
+  <url>
+    <loc>http://theasiancouncil.github.io/spanish-cheats.html</loc>
+    <lastmod>2017-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://theasiancouncil.github.io/phone/spanish-cheats.html"/>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/phone/secret.html</loc>
@@ -22,7 +29,7 @@
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/tier-list.html</loc>
-    <lastmod>2017-01-26</lastmod>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://theasiancouncil.github.io/phone/tier-list.html"/>
@@ -123,6 +130,13 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://theasiancouncil.github.io/other-cheats.html</loc>
+    <lastmod>2017-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://theasiancouncil.github.io/phone/other-cheats.html"/>
+  </url>
+  <url>
     <loc>http://theasiancouncil.github.io/misc.html</loc>
     <lastmod>2017-01-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -130,100 +144,92 @@
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/english-cheats.html</loc>
-    <lastmod>2017-01-28</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://theasiancouncil.github.io/phone/english-cheats.html"/>
   </url>
   <url>
-    <loc>http://theasiancouncil.github.io/other-cheats.html</loc>
-    <lastmod>2017-01-26</lastmod>
+    <loc>http://theasiancouncil.github.io/assets/ender-s-game-review.docx</loc>
+    <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://theasiancouncil.github.io/phone/other-cheats.html"/>
-  </url>
-  <url>
-    <loc>http://theasiancouncil.github.io/spanish-cheats.html</loc>
-    <lastmod>2017-01-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://theasiancouncil.github.io/phone/spanish-cheats.html"/>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/images/logomakr_9a9qwa.png</loc>
-    <lastmod>2017-01-29</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/images/logomakr_2hkmcf.png</loc>
-    <lastmod>2017-01-29</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/images/scout%20weaponss.jpg</loc>
-    <lastmod>2017-01-29</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/images/all%20gun%20variants%20meaningss.jpg</loc>
-    <lastmod>2017-01-29</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/images/support%20weaponss.jpg</loc>
-    <lastmod>2017-01-29</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/images/medic%20weapons.jpg</loc>
-    <lastmod>2017-01-29</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/images/assult%20weapons.jpg</loc>
-    <lastmod>2017-01-29</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/images/symbols%20on%20screen.jpg</loc>
-    <lastmod>2017-01-29</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/images/martini%20henry%20and%20sutf.jpg</loc>
-    <lastmod>2017-01-29</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/images/scopes.jpg</loc>
-    <lastmod>2017-01-29</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/images/marksman%20and%20sniper%20optics.jpg</loc>
-    <lastmod>2017-01-29</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/images/carbine%20scope.jpg</loc>
-    <lastmod>2017-01-29</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/images/rice%20man.jpg</loc>
-    <lastmod>2017-01-29</lastmod>
+    <lastmod>2017-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -240,12 +246,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://theasiancouncil.github.io/assets/pok.cci</loc>
-    <lastmod>2016-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://theasiancouncil.github.io/assets/citra-zip.zip</loc>
     <lastmod>2016-12-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -253,12 +253,6 @@
   </url>
   <url>
     <loc>http://theasiancouncil.github.io/assets/battlefield-1-campaign.docx</loc>
-    <lastmod>2016-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://theasiancouncil.github.io/assets/ender-s-game-review.docx</loc>
     <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
