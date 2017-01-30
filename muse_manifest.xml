@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485742261227">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485744765381">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3778918425" ref="phone>secret:phone>other-cheats:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry"/>
@@ -84,8 +84,8 @@
     <file name="airplane-guide.css" crc="4276706950" ref="airplane-guide"/>
     <file name="vehicle-guides.css" crc="3891952501" ref="vehicle-guides"/>
     <file name="cavalry.css" crc="4218549243" ref="cavalry"/>
-    <file name="civilization.css" crc="490953860" ref="civilization"/>
-    <file name="combat.css" crc="50979552" ref="combat"/>
+    <file name="civilization.css" crc="3923981641" ref="civilization"/>
+    <file name="combat.css" crc="3904273831" ref="combat"/>
     <file name="tier-list.css" crc="141755787" ref="tier-list"/>
   </folder>
   <folder name="scripts">
@@ -116,7 +116,7 @@
   <file name="airplane-guide.html" crc="4202664921" seo="true" mt="1485485728442" redirect="true"/>
   <file name="infantry-guides.html" crc="499032653" seo="true" mt="1485485728442" redirect="true"/>
   <file name="vehicle-guides.html" crc="452613070" seo="true" mt="1485485728442" redirect="true"/>
-  <file name="civilization.html" crc="198915630" seo="true" mt="1485485728442" redirect="true"/>
-  <file name="combat.html" crc="4282725778" seo="true" mt="1485485728442" redirect="true"/>
+  <file name="civilization.html" crc="4288797960" seo="true" mt="1485744701067" redirect="true"/>
+  <file name="combat.html" crc="75463597" seo="true" mt="1485744754093" redirect="true"/>
   <file name="tier-list.html" crc="3778023837" seo="true" mt="1485485728442" redirect="true"/>
 </manifest>
