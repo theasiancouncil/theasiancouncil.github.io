@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485821743481">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485821980283">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3778918425" ref="phone>secret:phone>other-cheats:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry"/>
@@ -69,7 +69,7 @@
     <file name="english-cheats.css" crc="111182035" ref="english-cheats"/>
     <file name="index.css" crc="446411992" ref="index"/>
     <file name="spanish-cheats.css" crc="337844634" ref="spanish-cheats"/>
-    <file name="other-cheats.css" crc="515889987" ref="other-cheats"/>
+    <file name="other-cheats.css" crc="430855640" ref="other-cheats"/>
     <file name="autohotkey-scripts.css" crc="424702963" ref="autohotkey-scripts"/>
     <file name="pirating.css" crc="253273853" ref="pirating"/>
     <file name="misc.css" crc="179407798" ref="misc"/>
@@ -100,7 +100,7 @@
   <file name="index.html" crc="166291446" seo="true" mt="1485818295036" redirect="true"/>
   <file name="school.html" crc="4120857946" seo="true" mt="1485821533977" redirect="true"/>
   <file name="spanish-cheats.html" crc="4087672382" seo="true" mt="1485821549627" redirect="true"/>
-  <file name="other-cheats.html" crc="218552254" seo="true" mt="1485821606770" redirect="true"/>
+  <file name="other-cheats.html" crc="4092384804" seo="true" mt="1485821972993" redirect="true"/>
   <file name="english-cheats.html" crc="3933065644" seo="true" mt="1485821637434" redirect="true"/>
   <file name="misc.html" crc="443062275" seo="true" mt="1485485728442" redirect="true"/>
   <file name="autohotkey-scripts.html" crc="398603226" seo="true" mt="1485485728442" redirect="true"/>
