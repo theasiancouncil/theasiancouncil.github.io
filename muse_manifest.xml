@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485906976943">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485907118029">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3778918425" ref="phone>secret:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>gt-biology:phone>aphg"/>
@@ -16,8 +16,8 @@
       <file name="infantry-guides.css" crc="522089439" ref="phone>infantry-guides"/>
       <file name="vehicle-guides.css" crc="522089439" ref="phone>vehicle-guides"/>
       <file name="civilization.css" crc="4140165018" ref="phone>civilization"/>
-      <file name="spanish-cheats.css" crc="4001030237" ref="phone>spanish-cheats"/>
-      <file name="english-cheats.css" crc="4110535412" ref="phone>english-cheats"/>
+      <file name="spanish-cheats.css" crc="58024887" ref="phone>spanish-cheats"/>
+      <file name="english-cheats.css" crc="4262867011" ref="phone>english-cheats"/>
       <file name="cavalry.css" crc="522089439" ref="phone>cavalry"/>
       <file name="gt-biology.css" crc="3857993357" ref="phone>gt-biology"/>
       <file name="aphg.css" crc="148957384" ref="phone>aphg"/>
@@ -25,8 +25,8 @@
     <file name="index.html" crc="59395845" seo="true" mt="1485818270804" redirect="true"/>
     <file name="secret.html" crc="5986876" seo="true" mt="1485485210193" redirect="true"/>
     <file name="school.html" crc="491576094" seo="true" mt="1485906589869" redirect="true"/>
-    <file name="spanish-cheats.html" crc="3993690180" seo="true" mt="1485906939768" redirect="true"/>
-    <file name="english-cheats.html" crc="4158769728" seo="true" mt="1485906943767" redirect="true"/>
+    <file name="spanish-cheats.html" crc="355136421" seo="true" mt="1485907106471" redirect="true"/>
+    <file name="english-cheats.html" crc="52898476" seo="true" mt="1485907111352" redirect="true"/>
     <file name="games.html" crc="445540299" seo="true" mt="1485484705467" redirect="true"/>
     <file name="battlefield.html" crc="3940384944" seo="true" mt="1485484705467" redirect="true"/>
     <file name="scout.html" crc="527876363" seo="true" mt="1485485336905" redirect="true"/>
