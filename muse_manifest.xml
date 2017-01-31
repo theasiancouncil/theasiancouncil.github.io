@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485906297155">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485906466042">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3778918425" ref="phone>secret:phone>other-cheats:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry"/>
@@ -69,9 +69,9 @@
     <file name="site_global.css" crc="205954113"/>
     <file name="master_a-master.css" crc="4145986242" ref="school:english-cheats:index:spanish-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns:infantry-guides:airplane-guide:vehicle-guides:cavalry:civilization:combat:tier-list:gt-biology:aphg"/>
     <file name="school.css" crc="4017502728" ref="school"/>
-    <file name="english-cheats.css" crc="99421762" ref="english-cheats"/>
+    <file name="english-cheats.css" crc="4253354727" ref="english-cheats"/>
     <file name="index.css" crc="4187140431" ref="index"/>
-    <file name="spanish-cheats.css" crc="451194445" ref="spanish-cheats"/>
+    <file name="spanish-cheats.css" crc="3773004639" ref="spanish-cheats"/>
     <file name="autohotkey-scripts.css" crc="4158683430" ref="autohotkey-scripts"/>
     <file name="pirating.css" crc="3935963034" ref="pirating"/>
     <file name="misc.css" crc="168031303" ref="misc"/>
@@ -107,8 +107,8 @@
   </folder>
   <file name="index.html" crc="4246788581" seo="true" mt="1485905013234" redirect="true"/>
   <file name="school.html" crc="3936309041" seo="true" mt="1485905699560" redirect="true"/>
-  <file name="spanish-cheats.html" crc="4002443814" seo="true" mt="1485906241098" redirect="true"/>
-  <file name="english-cheats.html" crc="199261730" seo="true" mt="1485906248921" redirect="true"/>
+  <file name="spanish-cheats.html" crc="3901340801" seo="true" mt="1485906446719" redirect="true"/>
+  <file name="english-cheats.html" crc="196685965" seo="true" mt="1485906456518" redirect="true"/>
   <file name="misc.html" crc="4035269098" seo="true" mt="1485904809079" redirect="true"/>
   <file name="autohotkey-scripts.html" crc="4212064605" seo="true" mt="1485904809079" redirect="true"/>
   <file name="pirating.html" crc="3871278073" seo="true" mt="1485904809079" redirect="true"/>
