@@ -1,9 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485906466042">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1485906976943">
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3778918425" ref="phone>secret:phone>other-cheats:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry"/>
+      <file name="master_a-master.css" crc="3778918425" ref="phone>secret:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>gt-biology:phone>aphg"/>
       <file name="secret.css" crc="133446161" ref="phone>secret"/>
-      <file name="other-cheats.css" crc="271066996" ref="phone>other-cheats"/>
       <file name="games.css" crc="29999146" ref="phone>games"/>
       <file name="combat.css" crc="522089439" ref="phone>combat"/>
       <file name="guns.css" crc="4257419945" ref="phone>guns"/>
@@ -12,21 +11,22 @@
       <file name="scout.css" crc="4170106634" ref="phone>scout"/>
       <file name="tier-list.css" crc="522089439" ref="phone>tier-list"/>
       <file name="battlefield.css" crc="389440189" ref="phone>battlefield"/>
-      <file name="school.css" crc="4142625868" ref="phone>school"/>
+      <file name="school.css" crc="3928642727" ref="phone>school"/>
       <file name="tanker.css" crc="522089439" ref="phone>tanker"/>
       <file name="infantry-guides.css" crc="522089439" ref="phone>infantry-guides"/>
       <file name="vehicle-guides.css" crc="522089439" ref="phone>vehicle-guides"/>
       <file name="civilization.css" crc="4140165018" ref="phone>civilization"/>
-      <file name="spanish-cheats.css" crc="3938399768" ref="phone>spanish-cheats"/>
-      <file name="english-cheats.css" crc="4165572811" ref="phone>english-cheats"/>
+      <file name="spanish-cheats.css" crc="4001030237" ref="phone>spanish-cheats"/>
+      <file name="english-cheats.css" crc="4110535412" ref="phone>english-cheats"/>
       <file name="cavalry.css" crc="522089439" ref="phone>cavalry"/>
+      <file name="gt-biology.css" crc="3857993357" ref="phone>gt-biology"/>
+      <file name="aphg.css" crc="148957384" ref="phone>aphg"/>
     </folder>
     <file name="index.html" crc="59395845" seo="true" mt="1485818270804" redirect="true"/>
     <file name="secret.html" crc="5986876" seo="true" mt="1485485210193" redirect="true"/>
-    <file name="school.html" crc="494484155" seo="true" mt="1485658914149" redirect="true"/>
-    <file name="spanish-cheats.html" crc="4237988358" seo="true" mt="1485906197994" redirect="true"/>
-    <file name="other-cheats.html" crc="3925340591" seo="true" mt="1485906198015" redirect="true"/>
-    <file name="english-cheats.html" crc="210436185" seo="true" mt="1485821520018" redirect="true"/>
+    <file name="school.html" crc="491576094" seo="true" mt="1485906589869" redirect="true"/>
+    <file name="spanish-cheats.html" crc="3993690180" seo="true" mt="1485906939768" redirect="true"/>
+    <file name="english-cheats.html" crc="4158769728" seo="true" mt="1485906943767" redirect="true"/>
     <file name="games.html" crc="445540299" seo="true" mt="1485484705467" redirect="true"/>
     <file name="battlefield.html" crc="3940384944" seo="true" mt="1485484705467" redirect="true"/>
     <file name="scout.html" crc="527876363" seo="true" mt="1485485336905" redirect="true"/>
@@ -39,6 +39,8 @@
     <file name="civilization.html" crc="3865171936" seo="true" mt="1485484705467" redirect="true"/>
     <file name="combat.html" crc="3822429653" seo="true" mt="1485484705467" redirect="true"/>
     <file name="tier-list.html" crc="3872900096" seo="true" mt="1485484705467" redirect="true"/>
+    <file name="gt-biology.html" crc="4224779712" seo="true" mt="1485906960531" redirect="true"/>
+    <file name="aphg.html" crc="4022190771" seo="true" mt="1485906951597" redirect="true"/>
   </folder>
   <folder name="assets">
     <file name="ender-s-game-review.docx" crc="407018635" seo="true" mt="1481507406000"/>
@@ -60,7 +62,7 @@
     <file name="all gun variants meaningss.jpg" crc="4158992555" seo="true" ref="guns"/>
     <file name="scout weaponss.jpg" crc="3930396014" seo="true" ref="guns"/>
     <file name="logomakr_2hkmcf.png" crc="4101696920" seo="true" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:gt-biology"/>
-    <file name="logomakr_9a9qwa.png" crc="203387318" seo="true" ref="phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list"/>
+    <file name="logomakr_9a9qwa.png" crc="203387318" seo="true" ref="phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:phone>gt-biology:phone>aphg"/>
     <file name="pointer.png" crc="3760686964" seo="true" ref="index:school:misc:games:spanish-cheats:english-cheats:autohotkey-scripts:pirating:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:gt-biology"/>
     <file name="close_light.png" crc="126613487" seo="true" ref="index:school:misc:games:spanish-cheats:english-cheats:autohotkey-scripts:pirating:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:gt-biology"/>
     <file name="menu_icon_04_white_3line-crop-u8209.png" crc="4113681886" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:gt-biology"/>
@@ -92,14 +94,14 @@
     <file name="aphg.css" crc="69733865" ref="aphg"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology"/>
-    <file name="museutils.js" crc="163421577" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology"/>
-    <file name="whatinput.js" crc="86476730" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology"/>
-    <file name="museconfig.js" crc="168988563" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology"/>
-    <file name="require.js" crc="244322403" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>other-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology:phone>gt-biology:phone>aphg"/>
+    <file name="museutils.js" crc="163421577" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology:phone>gt-biology:phone>aphg"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology:phone>gt-biology:phone>aphg"/>
+    <file name="museconfig.js" crc="168988563" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology:phone>gt-biology:phone>aphg"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology:phone>gt-biology:phone>aphg"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology:phone>gt-biology:phone>aphg"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology:phone>gt-biology:phone>aphg"/>
+    <file name="require.js" crc="244322403" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:gt-biology:phone>gt-biology:phone>aphg"/>
     <file name="webpro.js" crc="3848665353" ref="index:school:misc:games:spanish-cheats:english-cheats:autohotkey-scripts:pirating:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:gt-biology"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="index:school:misc:games:spanish-cheats:english-cheats:autohotkey-scripts:pirating:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:gt-biology"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="index:school:misc:games:spanish-cheats:english-cheats:autohotkey-scripts:pirating:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:gt-biology"/>
@@ -125,6 +127,6 @@
   <file name="civilization.html" crc="179374981" seo="true" mt="1485904809079" redirect="true"/>
   <file name="combat.html" crc="223100798" seo="true" mt="1485904809079" redirect="true"/>
   <file name="tier-list.html" crc="3976822560" seo="true" mt="1485904809079" redirect="true"/>
-  <file name="aphg.html" crc="268797581" seo="true" mt="1485906266097" redirect="true"/>
-  <file name="gt-biology.html" crc="3796123010" seo="true" mt="1485906271814" redirect="true"/>
+  <file name="aphg.html" crc="21587669" seo="true" mt="1485906521714" redirect="true"/>
+  <file name="gt-biology.html" crc="3888805112" seo="true" mt="1485906529627" redirect="true"/>
 </manifest>
