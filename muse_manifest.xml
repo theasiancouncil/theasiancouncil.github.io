@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1486084224624">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1486090955108">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3778918425" ref="phone>secret:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>gt-biology:phone>aphg"/>
@@ -71,7 +71,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="205954113"/>
-    <file name="master_a-master.css" crc="3765947545" ref="school:english-cheats:index:spanish-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns:infantry-guides:airplane-guide:vehicle-guides:cavalry:civilization:combat:tier-list:gt-biology:aphg"/>
+    <file name="master_a-master.css" crc="236541069" ref="school:english-cheats:index:spanish-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns:infantry-guides:airplane-guide:vehicle-guides:cavalry:civilization:combat:tier-list:gt-biology:aphg"/>
     <file name="school.css" crc="4092731633" ref="school"/>
     <file name="english-cheats.css" crc="4253354727" ref="english-cheats"/>
     <file name="index.css" crc="4187140431" ref="index"/>
@@ -109,7 +109,7 @@
     <file name="jquery.museoverlay.js" crc="36492500" ref="index:school:misc:games:spanish-cheats:english-cheats:autohotkey-scripts:pirating:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:gt-biology"/>
     <file name="touchswipe.js" crc="404375771" ref="index:school:misc:games:spanish-cheats:english-cheats:autohotkey-scripts:pirating:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:gt-biology"/>
   </folder>
-  <file name="index.html" crc="4246788581" seo="true" mt="1485905013234" redirect="true"/>
+  <file name="index.html" crc="187493652" seo="true" mt="1486090949589" redirect="true"/>
   <file name="school.html" crc="279571678" seo="true" mt="1486006395859" redirect="true"/>
   <file name="spanish-cheats.html" crc="3901340801" seo="true" mt="1485906446719" redirect="true"/>
   <file name="english-cheats.html" crc="196685965" seo="true" mt="1485906456518" redirect="true"/>
