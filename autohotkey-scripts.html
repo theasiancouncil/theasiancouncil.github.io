@@ -11,14 +11,14 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "autohotkey-scripts.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "require.js", "autohotkey-scripts.css"], "outOfDate":[]};
 </script>
   
   <title>Autohotkey scripts</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=215612431"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4107415599"/>
-  <link rel="stylesheet" type="text/css" href="css/autohotkey-scripts.css?crc=3784781688" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=230580144"/>
+  <link rel="stylesheet" type="text/css" href="css/autohotkey-scripts.css?crc=4045635774" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -49,8 +49,159 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u1718" href="games.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u1719-4"><!-- content --><p>Games</p></div></a>
      </div>
     </nav>
-    <div class="clearfix colelem" id="u710-51"><!-- content -->
-     <p>Welcome to my autohotkey scripts. You can make an spam bot with them to even stuff like game macros.</p>
+    <div class="clearfix colelem" id="u710-274"><!-- content -->
+     <p>Welcome to my autohotkey script. I made this guide by myself they may be a few errors.</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>So, you need a simple guide to help you start making your first scripts. First off, download Autohotkey (use google). In order to create a script, you can just right click on your desktop, or wherever you want the script to go, and then select New -&gt; Autohotkey Script.</p>
+     <p>If that doesn't work, then just make a notpad file, and when you are done, rename it with a .ahk at the end.</p>
+     <p>&nbsp;</p>
+     <p>Autohotkey scripts are very easy to make, because the code that you need to learn is very simple. For example, if you wanted to send &quot;hello world&quot; just put in:</p>
+     <p>&nbsp;</p>
+     <p>Send Hello World</p>
+     <p>&nbsp;</p>
+     <p>However, that command will not be able to do anything by itself, since it won't ever send itself. You need to assign it to a hotkey first.</p>
+     <p>^ means the control key</p>
+     <p>+ means the shift key</p>
+     <p># means the windows key</p>
+     <p>! means the alt key</p>
+     <p>&nbsp;</p>
+     <p>With this knowledge, you can now make a command that looks like:</p>
+     <p>&nbsp;</p>
+     <p>^+d::Send Hello World&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ; you can comment something out using a semi colon. Also, you can have as many spaces as you want between lines of code.</p>
+     <p>&nbsp;</p>
+     <p>This will Type out &quot;Hello World&quot; when you do control shift d.</p>
+     <p>Now, save your command of whatever you want to send. You can now open the hotkey up, and do whatever hotkey you made to send the message.</p>
+     <p>&nbsp;</p>
+     <p>You might want to pause your script for a bit.</p>
+     <p>Sleep</p>
+     <p>&nbsp;</p>
+     <p>If you wanted to pause for just one second, than you would put</p>
+     <p>Sleep 1000</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p><span id="u710-61">Mouse Movements</span></p>
+     <p>If you are done with that, lets go visit what other stuff we can do.</p>
+     <p>&nbsp;</p>
+     <p>If you installed AHK correctly, there should have been a program that comes up when you type &quot;spy&quot; into the windows search bar.</p>
+     <p>Open it up.</p>
+     <p>&nbsp;</p>
+     <p>This program tells you where your mouse is. This is EXTREMELY important if you want a macro that can do stuff for you.</p>
+     <p>The location of your cursor is told by the Mouse Position tab thingy. Use the recommended number.</p>
+     <p>&nbsp;</p>
+     <p>Now you can do a command like:</p>
+     <p>&nbsp;</p>
+     <p>Click 500, 500</p>
+     <p>&nbsp;</p>
+     <p>This will move your cursor to the location and left click.</p>
+     <p>If you wanted to right click:</p>
+     <p>Click 500, 500 right</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>If you want to move the mouse to a location without clicking:</p>
+     <p>Mousemove, 500, 500</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>Then if you wanted to hold down the left mouse button.</p>
+     <p>Click down</p>
+     <p>&nbsp;</p>
+     <p>Now you can move the mouse somewhere to drag the object with a</p>
+     <p>Mousemove, 750, 750</p>
+     <p>&nbsp;</p>
+     <p>Now you want to stop clicking since you don't want to hold your mouse down forever:</p>
+     <p>Click up</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>If you had wanted to do anything like that with the right mouse key, then it would've been like.</p>
+     <p>Click down right</p>
+     <p>Click up right</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p><span id="u710-121">So you wanted to spam?</span></p>
+     <p>&nbsp;</p>
+     <p>In order to spam something, you will need a label at the beginning, and a Goto command at the end of your script to direct it back up to the beginning.</p>
+     <p>Yeah, that was sorta confusing, so here's an example: (yes yes there are a few commands that i didn't cover)</p>
+     <p>&nbsp;</p>
+     <p>Labelone:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ; this is the label</p>
+     <p>&nbsp;</p>
+     <p>Send This is Spam</p>
+     <p>Sleep 30</p>
+     <p>Send {ENTER}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ; well i mean you want to send it, and thats you hit the enter command on your keyboard.</p>
+     <p>&nbsp;</p>
+     <p>Goto, Labelone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ; This brings the command back up to the &quot;labelone&quot; at the top. The label can be anything that you want it to be called. Just make sure you have the &quot; : &quot;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>That could be your first spam bot, but however, there will be a few problems with it. for example, as soon as you start the bot, it will start spamming. Well, that would be really annoying because obviously you don't need it running as soon as you start the script.</p>
+     <p>You can fix this with a</p>
+     <p>&nbsp;</p>
+     <p>Pause On</p>
+     <p>&nbsp;</p>
+     <p>At the beginning of it all. This will start the script paused. Now, you've opened where ever you want to spam, so then you need to somehow start the command.</p>
+     <p>Just put a:</p>
+     <p>&nbsp;</p>
+     <p>^+s::Pause&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ; remember, all there is to see here is a command that pauses the script. Since the script was already paused, it will unpause it. Rocket Science, huh</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>That is pretty much all you needa know about spamming for now. If your internet is slow or anything, than you might lag out after a bit, as your internet won't be able to spam all the messages fast enough, and soon your script will be a lot faster than what you are sending. This will make it so that your spam gets all &quot;jumbled up&quot;, ruining your message. There is a pretty simple fix to solve this problem.</p>
+     <p>&nbsp;</p>
+     <p>You will need a variable to how much you want your script to pause everytime you finish spamming. This varies of how long your spam is. For example, I had a script that was about 300 lines long. To prevent that from lagging out, I just made a variable at the beginning of my script:</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>var = 1500&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ; the number here is like the sleep thingy, just make it as long as you want your command to sleep and load in the current messages.</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>At the end of your command, you want the command to apply. An example script</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>Var = 100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ; the program will wait a tenth of a second to spam.</p>
+     <p>Labelone:</p>
+     <p>&nbsp;</p>
+     <p>Send This is Spam</p>
+     <p>Sleep 30</p>
+     <p>Send {ENTER}</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>Sleep %var%</p>
+     <p>var+=10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ; You want this here to add time to your script everytime, as everytime you need to wait longer to spam again (unless you have really good internet)</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>Goto, Labelone</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
      <p>&nbsp;</p>
      <p>&nbsp;</p>
      <p>&nbsp;</p>
@@ -64,6 +215,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <p>&nbsp;</p>
      <p>&nbsp;</p>
      <p>For example, if you wanted to spam the le lenny face then:</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
      <p>&nbsp;</p>
      <p>&nbsp;</p>
      <p>&nbsp;</p>
@@ -149,7 +307,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
     </nav>
    </div>
-   <div class="verticalspacer" data-offset-top="726" data-content-above-spacer="926" data-content-below-spacer="61"></div>
+   <div class="verticalspacer" data-offset-top="3497" data-content-above-spacer="3697" data-content-below-spacer="61"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">

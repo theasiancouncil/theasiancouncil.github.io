@@ -1,7 +1,7 @@
 .version.autohotkey_scripts /* version checker */
 {
-	color: #0000E1;
-	background-color: #972F78;
+	color: #0000F1;
+	background-color: #2380BE;
 }
 
 #muse_css_mq
@@ -275,7 +275,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u710-51
+#u710-274
 {
 	z-index: 80;
 	min-height: 320px;
@@ -284,6 +284,12 @@
 	position: relative;
 	width: 99.92%;
 	margin-left: 0.09%;
+}
+
+#u710-61,#u710-121
+{
+	text-decoration: underline;
+	font-weight: bold;
 }
 
 #pamphletu8180
@@ -697,7 +703,7 @@
 
 #menuu2290
 {
-	z-index: 131;
+	z-index: 354;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -843,7 +849,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 987px);
+	height: calc(100vh - 3758px);
 }
 
 .html
@@ -862,4 +868,5 @@ body
 {
 	width: 100%;
 }
+
 
