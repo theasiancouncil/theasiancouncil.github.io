@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EB;
-	background-color: #17B443;
+	color: #000001;
+	background-color: #933534;
 }
 
 #muse_css_mq
@@ -283,7 +283,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u94-64
+#u94-63
 {
 	z-index: 80;
 	min-height: 314px;
@@ -294,7 +294,7 @@
 	margin-left: 0.09%;
 }
 
-#u94-5,#u94-17,#u94-25
+#u94-5,#u94-17,#u94-24
 {
 	font-weight: bold;
 }

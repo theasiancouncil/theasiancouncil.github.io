@@ -1,7 +1,7 @@
 .version.aphg /* version checker */
 {
-	color: #0000F0;
-	background-color: #60DF5D;
+	color: #0000E7;
+	background-color: #1FFF4B;
 }
 
 #muse_css_mq
@@ -268,7 +268,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#pu8305-59
+#pu8305-62
 {
 	z-index: 80;
 	margin-top: 10px;
@@ -276,7 +276,7 @@
 	margin-left: 0.09%;
 }
 
-#u8305-59
+#u8305-62
 {
 	z-index: 80;
 	min-height: 701px;
@@ -288,7 +288,7 @@
 
 #u8308
 {
-	z-index: 139;
+	z-index: 142;
 	width: 378px;
 	min-height: 147px;
 	border-width: 0px;
@@ -302,7 +302,7 @@
 
 #menuu8658
 {
-	z-index: 140;
+	z-index: 143;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -338,8 +338,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 18px;
 	color: #FFFFFF;
+	line-height: 18px;
 	font-size: 15px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -393,8 +393,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 18px;
 	color: #FFFFFF;
+	line-height: 18px;
 	font-size: 15px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -447,8 +447,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 18px;
 	color: #FFFFFF;
+	line-height: 18px;
 	font-size: 15px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -517,8 +517,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 18px;
 	color: #FFFFFF;
+	line-height: 18px;
 	font-size: 15px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -971,7 +971,7 @@
 
 #pu9310
 {
-	z-index: 165;
+	z-index: 168;
 	margin-top: 309px;
 	width: 47.3%;
 	margin-left: 52.71%;
@@ -979,7 +979,7 @@
 
 #u9310
 {
-	z-index: 165;
+	z-index: 168;
 	width: 380px;
 	min-height: 450px;
 	border-width: 0px;
@@ -992,7 +992,7 @@
 
 #menuu9318
 {
-	z-index: 166;
+	z-index: 169;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -1052,7 +1052,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1148px);
+	height: calc(100vh - 1165px);
 }
 
 .html
@@ -1071,4 +1071,5 @@ body
 {
 	width: 100%;
 }
+
 
