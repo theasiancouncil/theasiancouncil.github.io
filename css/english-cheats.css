@@ -1,7 +1,7 @@
 .version.english_cheats /* version checker */
 {
-	color: #0000FE;
-	background-color: #F27BA3;
+	color: #0000F7;
+	background-color: #90D47B;
 }
 
 #muse_css_mq
@@ -284,7 +284,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u713-282
+#u713-305
 {
 	z-index: 80;
 	min-height: 503px;
@@ -299,7 +299,21 @@
 	font-weight: bold;
 }
 
-#u713-22,#u713-52,#u713-91
+#u713-54
+{
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u713-52
+{
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 17px;
+}
+
+#u713-22,#u713-50,#u713-51,#u713-93
 {
 	font-size: 16px;
 	line-height: 19px;
@@ -717,7 +731,7 @@
 
 #menuu8484
 {
-	z-index: 362;
+	z-index: 385;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -759,9 +773,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 18px;
-	color: #FFFFFF;
-	font-size: 15px;
 	text-align: center;
+	font-size: 15px;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -813,9 +827,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 18px;
-	color: #FFFFFF;
-	font-size: 15px;
 	text-align: center;
+	font-size: 15px;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -861,9 +875,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 18px;
-	color: #FFFFFF;
-	font-size: 15px;
 	text-align: center;
+	font-size: 15px;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -932,9 +946,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 18px;
-	color: #FFFFFF;
-	font-size: 15px;
 	text-align: center;
+	font-size: 15px;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -977,7 +991,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 3296px);
+	height: calc(100vh - 3485px);
 }
 
 .html
@@ -996,4 +1010,5 @@ body
 {
 	width: 100%;
 }
+
 

@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1486784476974">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1487028366357">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="187990196" ref="phone>secret:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>gt-biology:phone>aphg"/>
@@ -17,7 +17,7 @@
       <file name="vehicle-guides.css" crc="3770200233" ref="phone>vehicle-guides"/>
       <file name="civilization.css" crc="288642586" ref="phone>civilization"/>
       <file name="spanish-cheats.css" crc="52942506" ref="phone>spanish-cheats"/>
-      <file name="english-cheats.css" crc="3890910020" ref="phone>english-cheats"/>
+      <file name="english-cheats.css" crc="3820625205" ref="phone>english-cheats"/>
       <file name="cavalry.css" crc="3770200233" ref="phone>cavalry"/>
       <file name="gt-biology.css" crc="4209081806" ref="phone>gt-biology"/>
       <file name="aphg.css" crc="4167318032" ref="phone>aphg"/>
@@ -26,7 +26,7 @@
     <file name="secret.html" crc="209722721" seo="true" mt="1486517505783" redirect="true"/>
     <file name="school.html" crc="519176652" seo="true" mt="1486517505784" redirect="true"/>
     <file name="spanish-cheats.html" crc="3894556884" seo="true" mt="1486517505784" redirect="true"/>
-    <file name="english-cheats.html" crc="4147060477" seo="true" mt="1486518541899" redirect="true"/>
+    <file name="english-cheats.html" crc="437336569" seo="true" mt="1487028333225" redirect="true"/>
     <file name="games.html" crc="4147938763" seo="true" mt="1486517505784" redirect="true"/>
     <file name="battlefield.html" crc="4155523266" seo="true" mt="1486517505785" redirect="true"/>
     <file name="scout.html" crc="4001796796" seo="true" mt="1486517505785" redirect="true"/>
@@ -72,9 +72,9 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="215612431"/>
-    <file name="master_a-master.css" crc="90670427" ref="school:english-cheats:index:spanish-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns:infantry-guides:airplane-guide:vehicle-guides:cavalry:civilization:combat:tier-list:gt-biology:aphg"/>
+    <file name="master_a-master.css" crc="4036577665" ref="school:english-cheats:index:spanish-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns:infantry-guides:airplane-guide:vehicle-guides:cavalry:civilization:combat:tier-list:gt-biology:aphg"/>
     <file name="school.css" crc="4022020750" ref="school"/>
-    <file name="english-cheats.css" crc="4277304227" ref="english-cheats"/>
+    <file name="english-cheats.css" crc="4153463931" ref="english-cheats"/>
     <file name="index.css" crc="26424628" ref="index"/>
     <file name="spanish-cheats.css" crc="519999319" ref="spanish-cheats"/>
     <file name="autohotkey-scripts.css" crc="4045635774" ref="autohotkey-scripts"/>
@@ -113,7 +113,7 @@
   <file name="index.html" crc="445907583" seo="true" mt="1486784357254" redirect="true"/>
   <file name="school.html" crc="308053609" seo="true" mt="1486517615791" redirect="true"/>
   <file name="spanish-cheats.html" crc="118175869" seo="true" mt="1486517627845" redirect="true"/>
-  <file name="english-cheats.html" crc="4028349100" seo="true" mt="1486518375917" redirect="true"/>
+  <file name="english-cheats.html" crc="536705128" seo="true" mt="1487027960652" redirect="true"/>
   <file name="misc.html" crc="29987360" seo="true" mt="1486517725852" redirect="true"/>
   <file name="autohotkey-scripts.html" crc="3778360952" seo="true" mt="1486597765353" redirect="true"/>
   <file name="pirating.html" crc="3766231684" seo="true" mt="1486517745055" redirect="true"/>

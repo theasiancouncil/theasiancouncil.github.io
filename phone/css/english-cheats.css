@@ -1,7 +1,7 @@
 .version.english_cheats /* version checker */
 {
-	color: #0000E7;
-	background-color: #EA9344;
+	color: #0000E3;
+	background-color: #BA1D35;
 }
 
 #muse_css_mq
@@ -236,14 +236,14 @@
 	margin-top: 35px;
 }
 
-#pu5007-210
+#pu5007-229
 {
 	z-index: 23;
 	margin-top: 16px;
 	width: 100%;
 }
 
-#u5007-210
+#u5007-229
 {
 	z-index: 23;
 	min-height: 457px;
@@ -254,30 +254,41 @@
 	left: 1.32%;
 }
 
-#u5007-62
+#u5007-27
+{
+	font-weight: bold;
+}
+
+#u5007-58
 {
 	font-size: 16px;
 	font-weight: bold;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u5007-60
+#u5007-56
 {
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 17px;
 }
 
-#u5007-27,#u5007-57,#u5007-58,#u5007-59,#u5007-99
+#u5007-26,#u5007-54,#u5007-55,#u5007-97
 {
 	font-size: 16px;
 	line-height: 19px;
 	font-weight: bold;
 }
 
+#u5007-118
+{
+	font-size: 14px;
+	font-weight: normal;
+}
+
 #menuu9034
 {
-	z-index: 233;
+	z-index: 252;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -319,8 +330,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -371,8 +382,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -425,8 +436,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -494,8 +505,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -538,7 +549,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 2675px);
+	height: calc(100vh - 2775px);
 }
 
 .html
