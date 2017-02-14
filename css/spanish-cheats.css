@@ -1,7 +1,7 @@
 .version.spanish_cheats /* version checker */
 {
-	color: #00001E;
-	background-color: #FE8F57;
+	color: #000016;
+	background-color: #58A3C6;
 }
 
 #muse_css_mq
@@ -695,6 +695,7 @@
 #pu6144
 {
 	z-index: 27;
+	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: -195px;
 	width: 34.12%;
@@ -708,62 +709,54 @@
 	width: 100%;
 }
 
-#menuu8397
+#menuu9444
 {
 	z-index: 379;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
 	margin-top: 262px;
 	position: relative;
 	width: 96.26%;
-	margin-left: 0.82%;
+	margin-left: 1.47%;
 }
 
-#u8419
+#u9452
 {
-	background-color: transparent;
 	position: relative;
 	width: 100%;
 }
 
-#u8422
+#u9455
 {
 	min-height: 18px;
-	background-color: #5B8EFF;
 	padding-bottom: 25px;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
 }
 
-#u8422:hover
+#u9455:hover
 {
-	background-color: #999999;
 	min-height: 18px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
 }
 
-#u8423-4
+#u9455:active
 {
 	min-height: 18px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 18px;
-	color: #FFFFFF;
-	font-size: 15px;
-	text-align: center;
-	font-family: dosis, sans-serif;
-	font-weight: 300;
+	width: 100%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u9458-4
+{
+	min-height: 18px;
 	position: relative;
 	margin-right: -10000px;
 	top: 12px;
 	width: 100%;
 }
 
-#u8422:hover #u8423-4
+#u9455:hover #u9458-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -772,7 +765,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u8422:active #u8423-4
+#u9455:active #u9458-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -781,43 +774,39 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u8413
+#u9460
 {
 	min-height: 18px;
-	background-color: #5B8EFF;
 	padding-bottom: 25px;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
 }
 
-#u8413:hover
+#u9455.MuseMenuActive,#u9460:hover
 {
-	background-color: #999999;
 	min-height: 18px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
 }
 
-#u8416-4
+#u9460:active
 {
 	min-height: 18px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 18px;
-	color: #FFFFFF;
-	font-size: 15px;
-	text-align: center;
-	font-family: dosis, sans-serif;
-	font-weight: 300;
+	width: 100%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u9463-4
+{
+	min-height: 18px;
 	position: relative;
 	margin-right: -10000px;
 	top: 12px;
 	width: 100%;
 }
 
-#u8422.MuseMenuActive #u8423-4,#u8413:hover #u8416-4
+#u9455.MuseMenuActive #u9458-4,#u9460:hover #u9463-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -826,7 +815,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u8413:active #u8416-4
+#u9460:active #u9463-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -835,51 +824,39 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u8406
+#u9467
 {
 	min-height: 18px;
-	background-color: #5B8EFF;
 	padding-bottom: 25px;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
 }
 
-#u8406:hover
+#u9460.MuseMenuActive,#u9467:hover
 {
-	background-color: #999999;
 	min-height: 18px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
 }
 
-#u8422:active,#u8413:active,#u8406:active
+#u9467:active
 {
-	background-color: #6B6B6B;
 	min-height: 18px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
 }
 
-#u8408-4
+#u9469-4
 {
 	min-height: 18px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 18px;
-	color: #FFFFFF;
-	font-size: 15px;
-	text-align: center;
-	font-family: dosis, sans-serif;
-	font-weight: 300;
 	position: relative;
 	margin-right: -10000px;
 	top: 12px;
 	width: 100%;
 }
 
-#u8413.MuseMenuActive #u8416-4,#u8406:hover #u8408-4
+#u9460.MuseMenuActive #u9463-4,#u9467:hover #u9469-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -888,7 +865,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u8406:active #u8408-4
+#u9467:active #u9469-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -897,54 +874,53 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u8412,#u8405,#u8398
+#u9459,#u9466,#u9445
 {
-	background-color: transparent;
 	margin-top: 2px;
 	position: relative;
 	width: 100%;
 }
 
-#u8399
+#u9446
 {
 	min-height: 18px;
-	background-color: #5B8EFF;
 	padding-bottom: 25px;
 	position: relative;
 	margin-right: -10000px;
-	top: 0px;
 	width: 100%;
-	left: 0%;
 }
 
-#u8399.MuseMenuActive
+#u9467.MuseMenuActive,#u9446:hover
 {
-	background-color: #999999;
 	min-height: 18px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
 }
 
-#u8402-4
+#u9446:active
 {
 	min-height: 18px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 18px;
-	color: #FFFFFF;
-	font-size: 15px;
-	text-align: center;
-	font-family: dosis, sans-serif;
-	font-weight: 300;
+	width: 100%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u9446.MuseMenuActive
+{
+	min-height: 18px;
+	width: 100%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u9447-4
+{
+	min-height: 18px;
 	position: relative;
 	margin-right: -10000px;
 	top: 12px;
 	width: 100%;
-	left: 0%;
 }
 
-#u8406.MuseMenuActive #u8408-4,#u8399:hover #u8402-4
+#u9467.MuseMenuActive #u9469-4,#u9446:hover #u9447-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -953,7 +929,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u8399:active #u8402-4
+#u9446:active #u9447-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -962,18 +938,13 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u8399.MuseMenuActive #u8402-4
+#u9446.MuseMenuActive #u9447-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 18px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
-}
-
-.MenuItem /* unifiedNavBar */
-{
-	cursor: pointer;
 }
 
 .css_verticalspacer .verticalspacer
