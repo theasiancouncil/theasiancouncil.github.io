@@ -1,7 +1,7 @@
 .version.pirating /* version checker */
 {
-	color: #0000E8;
-	background-color: #7235B5;
+	color: #00001E;
+	background-color: #2397C4;
 }
 
 #muse_css_mq
@@ -277,10 +277,10 @@
 
 #u2266-53
 {
-	z-index: 80;
+	z-index: 93;
 	min-height: 442px;
 	background-color: transparent;
-	margin-top: 26px;
+	margin-top: 23px;
 	position: relative;
 	width: 99.84%;
 }
@@ -693,67 +693,54 @@
 	width: 100%;
 }
 
-#menuu2383
+#menuu9547
 {
-	z-index: 133;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	margin-top: 214px;
+	z-index: 80;
+	margin-top: 211px;
 	position: relative;
 	width: 93.98%;
-	margin-left: 2.12%;
+	margin-left: 2.77%;
 }
 
-#u2391
+#u9555
 {
-	background-color: transparent;
 	position: relative;
 	width: 100%;
 }
 
-#u2392
+#u9556
 {
 	min-height: 17px;
-	background-color: #8C6DFF;
 	padding-bottom: 34px;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
 }
 
-#u2392:hover
+#u9556:hover
 {
-	background-color: #999999;
 	min-height: 17px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
 }
 
-#u2392:active
+#u9556:active
 {
-	background-color: #6B6B6B;
 	min-height: 17px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
 }
 
-#u2393-4
+#u9557-4
 {
 	min-height: 17px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	color: #FFFFFF;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	top: 17px;
 	width: 100%;
 }
 
-#u1718.MuseMenuActive #u1719-4,#u2392:hover #u2393-4
+#u1718.MuseMenuActive #u1719-4,#u9556:hover #u9557-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -762,7 +749,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u2392:active #u2393-4
+#u9556:active #u9557-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -771,51 +758,53 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u2384
+#u9548
 {
-	background-color: transparent;
 	margin-top: 2px;
 	position: relative;
 	width: 100%;
 }
 
-#u2385
+#u9551
 {
 	min-height: 17px;
-	background-color: #8C6DFF;
 	padding-bottom: 34px;
 	position: relative;
 	margin-right: -10000px;
-	top: 0px;
 	width: 100%;
-	left: 0%;
 }
 
-#u2385.MuseMenuActive
+#u9556.MuseMenuActive,#u9551:hover
 {
-	background-color: #999999;
 	min-height: 17px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
 }
 
-#u2386-4
+#u9551:active
 {
 	min-height: 17px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	color: #FFFFFF;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	width: 100%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u9551.MuseMenuActive
+{
+	min-height: 17px;
+	width: 100%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u9552-4
+{
+	min-height: 17px;
 	position: relative;
 	margin-right: -10000px;
 	top: 17px;
 	width: 100%;
-	left: 0%;
 }
 
-#u2392.MuseMenuActive #u2393-4,#u2385:hover #u2386-4
+#u9556.MuseMenuActive #u9557-4,#u9551:hover #u9552-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -824,7 +813,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u2385:active #u2386-4
+#u9551:active #u9552-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -833,23 +822,18 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u2385.MuseMenuActive #u2386-4
+#u9551.MuseMenuActive #u9552-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
-}
-
-.MenuItem /* unifiedNavBar */
-{
-	cursor: pointer;
 }
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1061px);
+	height: calc(100vh - 1058px);
 }
 
 .html
