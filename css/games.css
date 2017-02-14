@@ -1,7 +1,7 @@
 .version.games /* version checker */
 {
-	color: #0000E0;
-	background-color: #EE320F;
+	color: #0000F0;
+	background-color: #F60AEC;
 }
 
 #muse_css_mq
@@ -286,10 +286,10 @@
 
 #u1779-6
 {
-	z-index: 99;
+	z-index: 80;
 	min-height: 476px;
 	background-color: transparent;
-	margin-top: 12px;
+	margin-top: 15px;
 	position: relative;
 	width: 99.84%;
 }
@@ -702,54 +702,59 @@
 	width: 100%;
 }
 
-#menuu9608
+#menuu1851
 {
-	z-index: 80;
+	z-index: 86;
 	width: 591px;
-	margin-top: 212px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 209px;
 	position: relative;
-	margin-left: 1.63%;
+	margin-left: 1.15%;
 }
 
-#u9609
+#u1866
 {
 	width: 591px;
+	background-color: transparent;
 	position: relative;
 }
 
-#u9610
+#u1867
 {
 	width: 591px;
 	min-height: 17px;
+	background-color: #5B8EFF;
 	padding-bottom: 39px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u9610:hover
+#u1867:hover
 {
+	background-color: #999999;
 	width: 591px;
 	min-height: 17px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9610:active
+#u1870-4
 {
 	width: 591px;
 	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9612-4
-{
-	width: 591px;
-	min-height: 17px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	top: 19px;
 }
 
-#u9610:hover #u9612-4
+#u1867:hover #u1870-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -758,7 +763,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9610:active #u9612-4
+#u1867:active #u1870-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -767,39 +772,40 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9624
+#u2156
 {
 	width: 591px;
 	min-height: 17px;
+	background-color: #5B8EFF;
 	padding-bottom: 39px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u9610.MuseMenuActive,#u9624:hover
+#u2156:hover
 {
+	background-color: #999999;
 	width: 591px;
 	min-height: 17px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9624:active
+#u2158-4
 {
 	width: 591px;
 	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9626-4
-{
-	width: 591px;
-	min-height: 17px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	top: 19px;
 }
 
-#u9610.MuseMenuActive #u9612-4,#u9624:hover #u9626-4
+#u1867.MuseMenuActive #u1870-4,#u2156:hover #u2158-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -808,7 +814,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9624:active #u9626-4
+#u2156:active #u2158-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -817,53 +823,56 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9623,#u9616
+#u2153,#u3705
 {
 	width: 591px;
+	background-color: transparent;
 	margin-top: 2px;
 	position: relative;
 }
 
-#u9617
+#u3706
 {
 	width: 591px;
 	min-height: 17px;
+	background-color: #5B8EFF;
 	padding-bottom: 40px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u9624.MuseMenuActive,#u9617:hover
+#u3706:hover
 {
+	background-color: #999999;
 	width: 591px;
 	min-height: 17px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9617:active
+#u1867:active,#u2156:active,#u3706:active
 {
+	background-color: #6B6B6B;
 	width: 591px;
 	min-height: 17px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9617.MuseMenuActive
+#u3707-4
 {
 	width: 591px;
 	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9618-4
-{
-	width: 591px;
-	min-height: 17px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	top: 20px;
 }
 
-#u9624.MuseMenuActive #u9626-4,#u9617:hover #u9618-4
+#u2156.MuseMenuActive #u2158-4,#u3706:hover #u3707-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -872,7 +881,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9617:active #u9618-4
+#u3706:active #u3707-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -881,18 +890,23 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9617.MuseMenuActive #u9618-4
+#u3706.MuseMenuActive #u3707-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
 	width: 591px;
 	margin: 0px -10000px 0px 0px;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
 }
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 843px);
+	height: calc(100vh - 846px);
 }
 
 .html

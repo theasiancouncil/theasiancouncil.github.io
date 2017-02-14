@@ -1,7 +1,7 @@
 .version.autohotkey_scripts /* version checker */
 {
-	color: #000011;
-	background-color: #46648C;
+	color: #0000F1;
+	background-color: #2380BE;
 }
 
 #muse_css_mq
@@ -277,10 +277,10 @@
 
 #u710-274
 {
-	z-index: 93;
+	z-index: 80;
 	min-height: 320px;
 	background-color: transparent;
-	margin-top: 16px;
+	margin-top: 19px;
 	position: relative;
 	width: 99.92%;
 	margin-left: 0.09%;
@@ -687,6 +687,7 @@
 #pu6144
 {
 	z-index: 27;
+	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: -195px;
 	width: 34.12%;
@@ -700,54 +701,54 @@
 	width: 100%;
 }
 
-#menuu9547
+#menuu2290
 {
-	z-index: 80;
+	z-index: 354;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
 	margin-top: 211px;
 	position: relative;
 	width: 93.98%;
-	margin-left: 2.77%;
+	margin-left: 2.12%;
 }
 
-#u9555
+#u2298
 {
+	background-color: transparent;
 	position: relative;
 	width: 100%;
 }
 
-#u9556
+#u2299
 {
 	min-height: 17px;
+	background-color: #8C6DFF;
 	padding-bottom: 34px;
 	position: relative;
 	margin-right: -10000px;
+	top: 0px;
 	width: 100%;
+	left: 0%;
 }
 
-#u9556:hover
+#u2300-4
 {
 	min-height: 17px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u9556:active
-{
-	min-height: 17px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u9557-4
-{
-	min-height: 17px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	top: 17px;
 	width: 100%;
+	left: 0%;
 }
 
-#u1718.MuseMenuActive #u1719-4,#u9556:hover #u9557-4
+#u1718.MuseMenuActive #u1719-4,#u2299:hover #u2300-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -756,7 +757,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u9556:active #u9557-4
+#u2299:active #u2300-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -765,53 +766,56 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u9548
+#u2291
 {
+	background-color: transparent;
 	margin-top: 2px;
 	position: relative;
 	width: 100%;
 }
 
-#u9551
+#u2292
 {
 	min-height: 17px;
+	background-color: #8C6DFF;
 	padding-bottom: 34px;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
 }
 
-#u9556.MuseMenuActive,#u9551:hover
+#u2299.MuseMenuActive,#u2292:hover
 {
+	background-color: #999999;
 	min-height: 17px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
 }
 
-#u9551:active
+#u2292:active
 {
+	background-color: #6B6B6B;
 	min-height: 17px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
 }
 
-#u9551.MuseMenuActive
+#u2293-4
 {
 	min-height: 17px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u9552-4
-{
-	min-height: 17px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	top: 17px;
 	width: 100%;
 }
 
-#u9556.MuseMenuActive #u9557-4,#u9551:hover #u9552-4
+#u2299.MuseMenuActive #u2300-4,#u2292:hover #u2293-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -820,7 +824,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u9551:active #u9552-4
+#u2292:active #u2293-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -829,18 +833,23 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u9551.MuseMenuActive #u9552-4
+#u2292.MuseMenuActive #u2293-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
 }
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 3755px);
+	height: calc(100vh - 3758px);
 }
 
 .html
@@ -859,4 +868,5 @@ body
 {
 	width: 100%;
 }
+
 

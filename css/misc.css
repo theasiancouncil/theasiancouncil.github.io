@@ -1,7 +1,7 @@
 .version.misc /* version checker */
 {
-	color: #0000F3;
-	background-color: #6123AB;
+	color: #0000EB;
+	background-color: #B80991;
 }
 
 #muse_css_mq
@@ -276,10 +276,10 @@
 
 #u594-22
 {
-	z-index: 93;
+	z-index: 80;
 	min-height: 347px;
 	background-color: transparent;
-	margin-top: 10px;
+	margin-top: 13px;
 	position: relative;
 	width: 100%;
 }
@@ -692,54 +692,59 @@
 	width: 100%;
 }
 
-#menuu9547
+#menuu598
 {
-	z-index: 80;
-	margin-top: 211px;
+	z-index: 102;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 212px;
 	position: relative;
 	width: 93.98%;
-	margin-left: 2.77%;
+	margin-left: 5.54%;
 }
 
-#u9555
+#u599
 {
+	background-color: transparent;
 	position: relative;
 	width: 100%;
 }
 
-#u9556
+#u600
 {
 	min-height: 17px;
+	background-color: #8C6DFF;
 	padding-bottom: 34px;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
 }
 
-#u9556:hover
+#u600:hover
 {
+	background-color: #999999;
 	min-height: 17px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
 }
 
-#u9556:active
+#u602-4
 {
 	min-height: 17px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u9557-4
-{
-	min-height: 17px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	top: 17px;
 	width: 100%;
 }
 
-#u1718.MuseMenuActive #u1719-4,#u9556:hover #u9557-4
+#u1718.MuseMenuActive #u1719-4,#u600:hover #u602-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -748,7 +753,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u9556:active #u9557-4
+#u600:active #u602-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -757,53 +762,56 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u9548
+#u2269
 {
+	background-color: transparent;
 	margin-top: 2px;
 	position: relative;
 	width: 100%;
 }
 
-#u9551
+#u2270
 {
 	min-height: 17px;
+	background-color: #8C6DFF;
 	padding-bottom: 34px;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
 }
 
-#u9556.MuseMenuActive,#u9551:hover
+#u2270:hover
 {
+	background-color: #999999;
 	min-height: 17px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
 }
 
-#u9551:active
+#u600:active,#u2270:active
 {
+	background-color: #6B6B6B;
 	min-height: 17px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
 }
 
-#u9551.MuseMenuActive
+#u2271-4
 {
 	min-height: 17px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u9552-4
-{
-	min-height: 17px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	top: 17px;
 	width: 100%;
 }
 
-#u9556.MuseMenuActive #u9557-4,#u9551:hover #u9552-4
+#u600.MuseMenuActive #u602-4,#u2270:hover #u2271-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -812,7 +820,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u9551:active #u9552-4
+#u2270:active #u2271-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -821,18 +829,23 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u9551.MuseMenuActive #u9552-4
+#u2270.MuseMenuActive #u2271-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
 }
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 712px);
+	height: calc(100vh - 715px);
 }
 
 .html
