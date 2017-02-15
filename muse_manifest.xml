@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1487125969927">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1487198230176">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="187990196" ref="phone>secret:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>gt-biology:phone>aphg"/>
@@ -76,7 +76,7 @@
     <file name="school.css" crc="369405784" ref="school"/>
     <file name="english-cheats.css" crc="162642145" ref="english-cheats"/>
     <file name="index.css" crc="4039473136" ref="index"/>
-    <file name="spanish-cheats.css" crc="273583010" ref="spanish-cheats"/>
+    <file name="spanish-cheats.css" crc="174385792" ref="spanish-cheats"/>
     <file name="autohotkey-scripts.css" crc="4014459323" ref="autohotkey-scripts"/>
     <file name="pirating.css" crc="4109366381" ref="pirating"/>
     <file name="misc.css" crc="4003485484" ref="misc"/>
@@ -97,7 +97,7 @@
     <file name="aphg.css" crc="118038303" ref="aphg"/>
     <file name="master_games-bf1-infantry.css" crc="513181882" ref="guns:scout:infantry-guides"/>
     <file name="master_games-civ.css" crc="4219933345" ref="combat:tier-list:civilization"/>
-    <file name="master_school-master.css" crc="42832532" ref="spanish-cheats:gt-biology:aphg:english-cheats:school"/>
+    <file name="master_school-master.css" crc="6927363" ref="spanish-cheats:gt-biology:aphg:english-cheats:school"/>
     <file name="master_games-bf1-vehicle.css" crc="4186753660" ref="tanker:airplane-guide:vehicle-guides:cavalry"/>
     <file name="master_games-opening-master.css" crc="304543979" ref="games:pokemon"/>
     <file name="master_misc-master.css" crc="280247566" ref="pirating:autohotkey-scripts:misc"/>
@@ -119,7 +119,7 @@
   </folder>
   <file name="index.html" crc="3868247160" seo="true" mt="1487115365198" redirect="true"/>
   <file name="school.html" crc="4082928961" seo="true" mt="1487115276849" redirect="true"/>
-  <file name="spanish-cheats.html" crc="4018150086" seo="true" mt="1487115148649" redirect="true"/>
+  <file name="spanish-cheats.html" crc="509076718" seo="true" mt="1487198222861" redirect="true"/>
   <file name="english-cheats.html" crc="154255235" seo="true" mt="1487115104355" redirect="true"/>
   <file name="misc.html" crc="224972627" seo="true" mt="1487040515734" redirect="true"/>
   <file name="autohotkey-scripts.html" crc="51688667" seo="true" mt="1487040515734" redirect="true"/>
