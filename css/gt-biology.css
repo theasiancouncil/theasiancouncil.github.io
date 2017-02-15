@@ -1,7 +1,7 @@
 .version.gt_biology /* version checker */
 {
-	color: #0000EE;
-	background-color: #1F0CC7;
+	color: #00001D;
+	background-color: #316BE7;
 }
 
 #muse_css_mq
@@ -284,7 +284,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u8331-38
+#u8331-40
 {
 	z-index: 80;
 	min-height: 592px;
@@ -705,7 +705,7 @@
 
 #menuu9444
 {
-	z-index: 118;
+	z-index: 120;
 	margin-top: 262px;
 	position: relative;
 	width: 96.26%;

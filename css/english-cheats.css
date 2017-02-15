@@ -1,7 +1,7 @@
 .version.english_cheats /* version checker */
 {
-	color: #0000F4;
-	background-color: #B391B1;
+	color: #000009;
+	background-color: #B1B8E1;
 }
 
 #muse_css_mq
@@ -284,7 +284,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u713-305
+#u713-307
 {
 	z-index: 80;
 	min-height: 503px;
@@ -294,26 +294,26 @@
 	width: 99.92%;
 }
 
-#u713-23
+#u713-25
 {
 	font-weight: bold;
 }
 
-#u713-54
+#u713-56
 {
 	font-size: 16px;
 	font-weight: bold;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u713-52
+#u713-54
 {
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 17px;
 }
 
-#u713-22,#u713-50,#u713-51,#u713-93
+#u713-24,#u713-52,#u713-53,#u713-95
 {
 	font-size: 16px;
 	line-height: 19px;
@@ -731,7 +731,7 @@
 
 #menuu9444
 {
-	z-index: 385;
+	z-index: 387;
 	margin-top: 262px;
 	position: relative;
 	width: 96.26%;

@@ -1,7 +1,7 @@
 .version.spanish_cheats /* version checker */
 {
-	color: #000016;
-	background-color: #58A3C6;
+	color: #000010;
+	background-color: #4E8BA2;
 }
 
 #muse_css_mq
@@ -285,7 +285,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u353-299
+#u353-305
 {
 	z-index: 80;
 	min-height: 400px;
@@ -295,7 +295,7 @@
 	width: 99.92%;
 }
 
-#u353-55
+#u353-61
 {
 	text-decoration: underline;
 }
@@ -711,7 +711,7 @@
 
 #menuu9444
 {
-	z-index: 379;
+	z-index: 385;
 	margin-top: 262px;
 	position: relative;
 	width: 96.26%;
@@ -949,7 +949,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 3623px);
+	height: calc(100vh - 3691px);
 }
 
 .html
