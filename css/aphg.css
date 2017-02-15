@@ -1,7 +1,7 @@
 .version.aphg /* version checker */
 {
-	color: #00000D;
-	background-color: #07C9EB;
+	color: #000007;
+	background-color: #1115D9;
 }
 
 #muse_css_mq
@@ -704,7 +704,7 @@
 	z-index: 27;
 	margin-right: -10000px;
 	margin-top: -195px;
-	width: 52%;
+	width: 52.78%;
 	margin-left: 33.12%;
 }
 
@@ -712,7 +712,7 @@
 {
 	z-index: 27;
 	position: relative;
-	width: 65.6%;
+	width: 64.64%;
 }
 
 #menuu9444
@@ -720,8 +720,8 @@
 	z-index: 163;
 	margin-top: 262px;
 	position: relative;
-	width: 63.15%;
-	margin-left: 0.97%;
+	width: 62.22%;
+	margin-left: 0.95%;
 }
 
 #u9452
@@ -957,8 +957,8 @@
 {
 	z-index: 162;
 	margin-top: 41px;
-	width: 47.65%;
-	margin-left: 52.36%;
+	width: 46.95%;
+	margin-left: 53.06%;
 }
 
 #u9310
@@ -971,7 +971,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 9.65%;
+	left: 6.51%;
 }
 
 #menuu9318
@@ -982,13 +982,13 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 313px;
+	margin-top: 270px;
 	width: 100%;
 }
 
 #u9319
 {
-	min-height: 34px;
+	min-height: 124px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -998,7 +998,7 @@
 #u9322
 {
 	background-color: #FFFFFF;
-	padding-bottom: 17px;
+	padding-bottom: 107px;
 	position: relative;
 	width: 100%;
 }
@@ -1030,7 +1030,7 @@
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	top: 8px;
+	top: 53px;
 	width: 100%;
 }
 
@@ -1078,4 +1078,5 @@ body
 {
 	width: 100%;
 }
+
 

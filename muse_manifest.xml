@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1487120261611">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1487120456757">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="187990196" ref="phone>secret:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>gt-biology:phone>aphg"/>
@@ -94,7 +94,7 @@
     <file name="combat.css" crc="94811695" ref="combat"/>
     <file name="tier-list.css" crc="242469247" ref="tier-list"/>
     <file name="gt-biology.css" crc="489778151" ref="gt-biology"/>
-    <file name="aphg.css" crc="218614251" ref="aphg"/>
+    <file name="aphg.css" crc="118560217" ref="aphg"/>
     <file name="master_games-bf1-infantry.css" crc="513181882" ref="guns:scout:infantry-guides"/>
     <file name="master_games-civ.css" crc="4219933345" ref="combat:tier-list:civilization"/>
     <file name="master_school-master.css" crc="6927363" ref="spanish-cheats:gt-biology:aphg:english-cheats:school"/>
@@ -136,6 +136,6 @@
   <file name="civilization.html" crc="3817816305" seo="true" mt="1487040355737" redirect="true"/>
   <file name="combat.html" crc="287512284" seo="true" mt="1487040355737" redirect="true"/>
   <file name="tier-list.html" crc="3775566395" seo="true" mt="1487040355737" redirect="true"/>
-  <file name="aphg.html" crc="4159063935" seo="true" mt="1487120116019" redirect="true"/>
+  <file name="aphg.html" crc="278867959" seo="true" mt="1487120450521" redirect="true"/>
   <file name="gt-biology.html" crc="230396604" seo="true" mt="1487115051361" redirect="true"/>
 </manifest>
