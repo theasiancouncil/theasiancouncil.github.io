@@ -1,7 +1,7 @@
 .version.aphg /* version checker */
 {
-	color: #000007;
-	background-color: #1115D9;
+	color: #0000E1;
+	background-color: #C9A0F2;
 }
 
 #muse_css_mq
@@ -982,13 +982,13 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 270px;
+	margin-top: 274px;
 	width: 100%;
 }
 
 #u9319
 {
-	min-height: 124px;
+	min-height: 120px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -998,14 +998,14 @@
 #u9322
 {
 	background-color: #FFFFFF;
-	padding-bottom: 107px;
+	padding-bottom: 103px;
 	position: relative;
 	width: 100%;
 }
 
 #u9322:active
 {
-	background-color: #002542;
+	background-color: #000242;
 	min-height: 0px;
 	width: 100%;
 	margin: 0px 0px 0px 0%;
@@ -1030,7 +1030,7 @@
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	top: 53px;
+	top: 51px;
 	width: 100%;
 }
 
