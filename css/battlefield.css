@@ -1,7 +1,7 @@
 .version.battlefield /* version checker */
 {
-	color: #000018;
-	background-color: #8312E7;
+	color: #000011;
+	background-color: #059ECE;
 }
 
 #muse_css_mq
@@ -35,15 +35,31 @@
 	left: 22px;
 }
 
+#pu10462
+{
+	z-index: 87;
+	margin-right: -10000px;
+	margin-top: 64px;
+	width: 3.51%;
+	margin-left: 1.56%;
+}
+
 #u10462
 {
 	z-index: 87;
 	width: 60px;
 	min-height: 60px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 64px;
-	left: 1.56%;
+}
+
+#u10467
+{
+	z-index: 88;
+	width: 50px;
+	min-height: 25px;
+	margin-top: 16px;
+	position: relative;
+	margin-left: 20.64%;
 }
 
 #pmenuu97
@@ -356,14 +372,14 @@
 
 #pu1768-199
 {
-	z-index: 88;
+	z-index: 89;
 	margin-top: 4px;
 	width: 99.92%;
 }
 
 #u1768-199
 {
-	z-index: 88;
+	z-index: 89;
 	min-height: 423px;
 	background-color: transparent;
 	position: relative;
@@ -383,7 +399,7 @@
 
 #u2470
 {
-	z-index: 287;
+	z-index: 288;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -802,7 +818,7 @@
 
 #menuu10028
 {
-	z-index: 289;
+	z-index: 290;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;

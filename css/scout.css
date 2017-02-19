@@ -1,7 +1,7 @@
 .version.scout /* version checker */
 {
-	color: #0000F4;
-	background-color: #1FEA0E;
+	color: #00001B;
+	background-color: #28244A;
 }
 
 #muse_css_mq
@@ -361,55 +361,66 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#pu2213-143
+#pu10467
 {
-	z-index: 89;
+	z-index: 88;
 	margin-top: -3px;
-	width: 96.11%;
-	margin-left: 3.83%;
+	width: 99.13%;
+	margin-left: 0.88%;
+}
+
+#u10467
+{
+	z-index: 88;
+	width: 50px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
 }
 
 #u2213-143
 {
-	z-index: 89;
+	z-index: 90;
 	min-height: 620px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	width: 86.6%;
-	left: 13.41%;
+	width: 83.96%;
+	left: 16.05%;
 }
 
 #u2216
 {
-	z-index: 251;
+	z-index: 252;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1072px;
-	width: 30.94%;
+	width: 30%;
+	left: 2.98%;
 }
 
 #u2226
 {
-	z-index: 253;
+	z-index: 254;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1396px;
-	width: 55.8%;
-	left: 10.2%;
+	width: 54.1%;
+	left: 12.87%;
 }
 
 #u2241
 {
-	z-index: 255;
+	z-index: 256;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 776px;
-	width: 26.4%;
-	left: 3.29%;
+	width: 25.6%;
+	left: 6.17%;
 }
 
 #pamphletu8180
@@ -822,7 +833,7 @@
 
 #menuu9690
 {
-	z-index: 232;
+	z-index: 233;
 	margin-top: 211px;
 	position: relative;
 	width: 65.48%;
@@ -1010,7 +1021,7 @@
 
 #u2253
 {
-	z-index: 257;
+	z-index: 258;
 	background-color: transparent;
 	margin-top: 554px;
 	position: relative;
@@ -1020,7 +1031,7 @@
 
 #u2263
 {
-	z-index: 88;
+	z-index: 89;
 	height: 13px;
 	background-color: #FFF9E0;
 	margin-top: 553px;

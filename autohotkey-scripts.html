@@ -18,9 +18,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Autohotkey scripts</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=209684137"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=535261833"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=425899830"/>
   <link rel="stylesheet" type="text/css" href="css/master_misc-master.css?crc=280247566"/>
-  <link rel="stylesheet" type="text/css" href="css/autohotkey-scripts.css?crc=4286629716" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/autohotkey-scripts.css?crc=226680365" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -60,8 +60,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 	<section class="blocks">
 
    </div>
-   <div class="size_fixed grpelem" id="u10462"><!-- custom html -->
-      
+   <div class="clearfix grpelem" id="pu10462"><!-- column -->
+    <div class="size_fixed colelem" id="u10462"><!-- custom html -->
+       
+    </div>
+    <div class="size_fixed colelem" id="u10467"><!-- custom html -->
+     
+            
+    </div>
    </div>
    <div class="clearfix grpelem" id="pmenuu97"><!-- column -->
     <nav class="MenuBar clearfix colelem" id="menuu97"><!-- horizontal box -->
@@ -385,5 +391,19 @@ for(i=0; i < 112; i++) {
 				console.log("Google Analytics - Version 1.0 - MuseThemes.com");
 			</script>
 		
+<script language=javascript>
+$(function() {
+  	var pageTitle = $("title").text();
+
+	$(window).blur(function() {
+	  $("title").text("Pssst… don't forget this tab");
+	});
+
+	$(window).focus(function() {
+	  $("title").text(pageTitle);
+	});
+});
+</script>
+
    </body>
 </html>

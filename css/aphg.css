@@ -1,7 +1,7 @@
 .version.aphg /* version checker */
 {
-	color: #000010;
-	background-color: #8623A9;
+	color: #0000E7;
+	background-color: #A88D5F;
 }
 
 #muse_css_mq
@@ -34,15 +34,31 @@
 	left: 22px;
 }
 
+#pu10462
+{
+	z-index: 87;
+	margin-right: -10000px;
+	margin-top: 64px;
+	width: 3.51%;
+	margin-left: 1.56%;
+}
+
 #u10462
 {
 	z-index: 87;
 	width: 60px;
 	min-height: 60px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 64px;
-	left: 1.56%;
+}
+
+#u10467
+{
+	z-index: 88;
+	width: 50px;
+	min-height: 25px;
+	margin-top: 16px;
+	position: relative;
+	margin-left: 20.64%;
 }
 
 #pmenuu97
@@ -355,7 +371,7 @@
 
 #pu8305-81
 {
-	z-index: 88;
+	z-index: 89;
 	margin-top: 10px;
 	width: 99.6%;
 	margin-left: 0.09%;
@@ -363,7 +379,7 @@
 
 #u8305-81
 {
-	z-index: 88;
+	z-index: 89;
 	min-height: 701px;
 	background-color: transparent;
 	position: relative;
@@ -373,7 +389,7 @@
 
 #u8308
 {
-	z-index: 169;
+	z-index: 170;
 	width: 378px;
 	min-height: 147px;
 	border-width: 0px;
@@ -780,9 +796,10 @@
 #pu6144
 {
 	z-index: 33;
+	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: -195px;
-	width: 52.78%;
+	width: 34.12%;
 	margin-left: 33.12%;
 }
 
@@ -790,16 +807,16 @@
 {
 	z-index: 33;
 	position: relative;
-	width: 64.64%;
+	width: 100%;
 }
 
 #menuu9444
 {
-	z-index: 171;
+	z-index: 173;
 	margin-top: 262px;
 	position: relative;
-	width: 62.22%;
-	margin-left: 0.95%;
+	width: 96.26%;
+	margin-left: 1.47%;
 }
 
 #u9452
@@ -1031,17 +1048,32 @@
 	margin: 0px -10000px 0px 0%;
 }
 
+#u10477
+{
+	z-index: 172;
+	width: 50px;
+	min-height: 25px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 511px;
+	left: 877px;
+}
+
 #pu9310
 {
-	z-index: 170;
-	margin-top: 41px;
-	width: 46.95%;
-	margin-left: 53.06%;
+	z-index: 171;
+	margin-right: -10000px;
+	margin-top: 470px;
+	width: 24.78%;
+	margin-left: 61.06%;
 }
 
 #u9310
 {
-	z-index: 170;
+	z-index: 171;
 	width: 380px;
 	min-height: 450px;
 	border-width: 0px;
@@ -1054,7 +1086,7 @@
 
 #menuu9318
 {
-	z-index: 196;
+	z-index: 198;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -1165,4 +1197,5 @@ body
 {
 	width: 100%;
 }
+
 
