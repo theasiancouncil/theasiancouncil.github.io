@@ -1,7 +1,7 @@
 .version.school /* version checker */
 {
-	color: #00001C;
-	background-color: #4582A6;
+	color: #0000F6;
+	background-color: #CB2A39;
 }
 
 #muse_css_mq
@@ -341,7 +341,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u184-51
+#u184-88
 {
 	z-index: 86;
 	min-height: 343px;
@@ -354,6 +354,19 @@
 
 #u184
 {
+	font-weight: bold;
+}
+
+#u184-32
+{
+	font-size: 16px;
+	line-height: 19px;
+}
+
+#u184-34
+{
+	font-size: 16px;
+	line-height: 19px;
 	font-weight: bold;
 }
 
@@ -752,7 +765,6 @@
 #pu6144
 {
 	z-index: 33;
-	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: -195px;
 	width: 34.12%;
@@ -768,7 +780,7 @@
 
 #menuu9444
 {
-	z-index: 139;
+	z-index: 177;
 	margin-top: 262px;
 	position: relative;
 	width: 96.26%;
@@ -1006,17 +1018,31 @@
 
 #u2115
 {
-	z-index: 137;
+	z-index: 174;
 	background-color: transparent;
-	margin-top: 48px;
+	margin-top: 279px;
 	position: relative;
 	width: 93.82%;
-	margin-left: 1.47%;
+	margin-left: 2.61%;
+}
+
+#u10427
+{
+	z-index: 176;
+	width: 565px;
+	min-height: 109px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 494px;
+	left: 616px;
 }
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1314px);
+	height: calc(100vh - 1674px);
 }
 
 .html
