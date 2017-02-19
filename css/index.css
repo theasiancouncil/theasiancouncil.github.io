@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000017;
-	background-color: #369E83;
+	color: #000005;
+	background-color: #C489F3;
 }
 
 #muse_css_mq
@@ -32,6 +32,17 @@
 	margin-right: -10000px;
 	margin-top: 117px;
 	left: 22px;
+}
+
+#u10462
+{
+	z-index: 87;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 1.56%;
 }
 
 #pmenuu97
@@ -352,7 +363,7 @@
 
 #u94-68
 {
-	z-index: 87;
+	z-index: 88;
 	min-height: 314px;
 	background-color: transparent;
 	margin-top: 14px;

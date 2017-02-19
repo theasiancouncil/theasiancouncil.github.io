@@ -1,7 +1,7 @@
 .version.aphg /* version checker */
 {
-	color: #00000D;
-	background-color: #FB5A48;
+	color: #000010;
+	background-color: #8623A9;
 }
 
 #muse_css_mq
@@ -32,6 +32,17 @@
 	margin-right: -10000px;
 	margin-top: 117px;
 	left: 22px;
+}
+
+#u10462
+{
+	z-index: 87;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 1.56%;
 }
 
 #pmenuu97
@@ -344,7 +355,7 @@
 
 #pu8305-81
 {
-	z-index: 87;
+	z-index: 88;
 	margin-top: 10px;
 	width: 99.6%;
 	margin-left: 0.09%;
@@ -352,7 +363,7 @@
 
 #u8305-81
 {
-	z-index: 87;
+	z-index: 88;
 	min-height: 701px;
 	background-color: transparent;
 	position: relative;
@@ -362,7 +373,7 @@
 
 #u8308
 {
-	z-index: 168;
+	z-index: 169;
 	width: 378px;
 	min-height: 147px;
 	border-width: 0px;
@@ -784,7 +795,7 @@
 
 #menuu9444
 {
-	z-index: 170;
+	z-index: 171;
 	margin-top: 262px;
 	position: relative;
 	width: 62.22%;
@@ -1022,7 +1033,7 @@
 
 #pu9310
 {
-	z-index: 169;
+	z-index: 170;
 	margin-top: 41px;
 	width: 46.95%;
 	margin-left: 53.06%;
@@ -1030,7 +1041,7 @@
 
 #u9310
 {
-	z-index: 169;
+	z-index: 170;
 	width: 380px;
 	min-height: 450px;
 	border-width: 0px;
@@ -1043,7 +1054,7 @@
 
 #menuu9318
 {
-	z-index: 195;
+	z-index: 196;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;

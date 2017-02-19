@@ -1,7 +1,7 @@
 .version.school /* version checker */
 {
-	color: #000013;
-	background-color: #F8946D;
+	color: #00001E;
+	background-color: #565972;
 }
 
 #muse_css_mq
@@ -32,6 +32,17 @@
 	margin-right: -10000px;
 	margin-top: 117px;
 	left: 22px;
+}
+
+#u10462
+{
+	z-index: 87;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 1.56%;
 }
 
 #pmenuu97
@@ -353,7 +364,7 @@
 
 #u184-88
 {
-	z-index: 87;
+	z-index: 88;
 	min-height: 343px;
 	background-color: transparent;
 	margin-top: 5px;
@@ -790,7 +801,7 @@
 
 #menuu9444
 {
-	z-index: 178;
+	z-index: 179;
 	margin-top: 262px;
 	position: relative;
 	width: 96.26%;
@@ -1028,7 +1039,7 @@
 
 #u2115
 {
-	z-index: 175;
+	z-index: 176;
 	background-color: transparent;
 	margin-top: 279px;
 	position: relative;
@@ -1038,7 +1049,7 @@
 
 #u10427
 {
-	z-index: 177;
+	z-index: 178;
 	width: 565px;
 	min-height: 109px;
 	border-width: 0px;

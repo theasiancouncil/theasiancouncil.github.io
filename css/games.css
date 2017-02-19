@@ -1,7 +1,7 @@
 .version.games /* version checker */
 {
-	color: #000008;
-	background-color: #060B5E;
+	color: #0000E6;
+	background-color: #867801;
 }
 
 #muse_css_mq
@@ -25,7 +25,7 @@
 
 #u10094-3
 {
-	z-index: 95;
+	z-index: 96;
 	min-height: 44px;
 	background-color: transparent;
 	position: relative;
@@ -44,6 +44,17 @@
 	margin-right: -10000px;
 	margin-top: 117px;
 	left: 22px;
+}
+
+#u10462
+{
+	z-index: 87;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 1.56%;
 }
 
 #pmenuu97
@@ -365,7 +376,7 @@
 
 #u1779-8
 {
-	z-index: 87;
+	z-index: 88;
 	min-height: 476px;
 	background-color: transparent;
 	margin-top: 12px;
@@ -783,7 +794,7 @@
 
 #menuu9608
 {
-	z-index: 98;
+	z-index: 99;
 	width: 591px;
 	margin-top: 212px;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.misc /* version checker */
 {
-	color: #0000FF;
-	background-color: #FC6CDA;
+	color: #0000EC;
+	background-color: #B48DF3;
 }
 
 #muse_css_mq
@@ -32,6 +32,17 @@
 	margin-right: -10000px;
 	margin-top: 117px;
 	left: 22px;
+}
+
+#u10462
+{
+	z-index: 87;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 1.56%;
 }
 
 #pmenuu97
@@ -343,7 +354,7 @@
 
 #u594-22
 {
-	z-index: 87;
+	z-index: 88;
 	min-height: 347px;
 	background-color: transparent;
 	margin-top: 10px;
@@ -761,7 +772,7 @@
 
 #menuu9547
 {
-	z-index: 109;
+	z-index: 110;
 	margin-top: 211px;
 	position: relative;
 	width: 93.98%;
