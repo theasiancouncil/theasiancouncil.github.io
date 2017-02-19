@@ -1,7 +1,7 @@
 .version.aphg /* version checker */
 {
-	color: #0000F3;
-	background-color: #EFC1AC;
+	color: #00001E;
+	background-color: #E48A6E;
 }
 
 #muse_css_mq
@@ -1060,15 +1060,15 @@
 	width: 100%;
 }
 
-#u9322:active
+#u9322:hover
 {
-	background-color: #000242;
+	background-color: #7F7F7F;
 	min-height: 0px;
 	width: 100%;
 	margin: 0px 0px 0px 0%;
 }
 
-#u9322.MuseMenuActive
+#u9322:active
 {
 	background-color: #FFFFFF;
 	min-height: 0px;
@@ -1091,7 +1091,16 @@
 	width: 100%;
 }
 
-#u10155.MuseMenuActive #u10157-4,#u9322:active #u9325-4
+#u10155.MuseMenuActive #u10157-4,#u9322:hover #u9325-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 100%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u9322:active #u9325-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -1135,4 +1144,5 @@ body
 {
 	width: 100%;
 }
+
 
