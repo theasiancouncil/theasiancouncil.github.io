@@ -159,6 +159,25 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.Latest-News-Title
+{
+	color: #FFFFFF;
+	font-family: pt-sans-narrow, sans-serif;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 34px;
+	padding: 0px;
+}
+
+.Latest-News-Text
+{
+	color: #FFFFFF;
+	font-family: pt-sans, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 0px;
+}
+
 .Menu-Buttons
 {
 	color: #383838;

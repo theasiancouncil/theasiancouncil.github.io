@@ -1,7 +1,7 @@
 .version.spanish_cheats /* version checker */
 {
-	color: #00001B;
-	background-color: #33BC8B;
+	color: #000003;
+	background-color: #6EA423;
 }
 
 #muse_css_mq
@@ -236,14 +236,14 @@
 	margin-top: 35px;
 }
 
-#pu4402-298
+#pu4402-363
 {
 	z-index: 23;
 	margin-top: 16px;
 	width: 100%;
 }
 
-#u4402-298
+#u4402-363
 {
 	z-index: 23;
 	min-height: 445px;
@@ -254,14 +254,14 @@
 	left: 1.06%;
 }
 
-#u4402-54
+#u4402-119
 {
 	text-decoration: underline;
 }
 
 #menuu8947
 {
-	z-index: 321;
+	z-index: 386;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -303,8 +303,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -355,8 +355,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -415,8 +415,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -477,8 +477,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -522,7 +522,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 3855px);
+	height: calc(100vh - 4586px);
 }
 
 .html

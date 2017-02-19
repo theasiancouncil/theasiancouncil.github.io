@@ -1,7 +1,7 @@
-.version.civilization /* version checker */
+.version.about /* version checker */
 {
-	color: #0000F8;
-	background-color: #61F209;
+	color: #000019;
+	background-color: #83CDF4;
 }
 
 #muse_css_mq
@@ -24,12 +24,348 @@
 	margin-right: auto;
 }
 
+#u10181
+{
+	z-index: 86;
+	width: 1280px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 217px;
+	left: 256px;
+}
+
+#pamphletu10182
+{
+	z-index: 87;
+	width: 0.01px;
+	height: 802px;
+	padding-bottom: 19px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u10185
+{
+	position: absolute;
+	width: 1280px;
+	background-color: transparent;
+}
+
+#u10185popup
+{
+	z-index: 88;
+}
+
+#u10187
+{
+	z-index: 89;
+	width: 1280px;
+	height: 720px;
+	border-width: 0px;
+	border-color: transparent;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin-right: -10000px;
+	position: relative;
+	background: #7F7F7F url("../images/fashion-man-person-beach-large.jpg?crc=4250478044") no-repeat center center;
+	background-size: cover;
+}
+
+#u10186
+{
+	z-index: 90;
+	width: 1280px;
+	height: 720px;
+	border-width: 0px;
+	border-color: transparent;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin-right: -10000px;
+	position: relative;
+	background: #7F7F7F url("../images/1280x720%20vincent%20meme%203.jpg?crc=4045956188") no-repeat center center;
+	background-size: cover;
+}
+
+#u10188
+{
+	z-index: 91;
+	width: 1280px;
+	height: 720px;
+	border-width: 0px;
+	border-color: transparent;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin-right: -10000px;
+	position: relative;
+	background: #7F7F7F url("../images/person-holiday-vacation-woman-large.jpg?crc=3922162110") no-repeat right top;
+	background-size: cover;
+}
+
+#u10189
+{
+	z-index: 92;
+	width: 1280px;
+	height: 720px;
+	border-width: 0px;
+	border-color: transparent;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin-right: -10000px;
+	position: relative;
+	background: #7F7F7F url("../images/sea-beach-holiday-vacation-large.jpg?crc=91167421") no-repeat center center;
+	background-size: cover;
+}
+
+#u10344
+{
+	z-index: 93;
+	width: 1280px;
+	height: 720px;
+	border-width: 0px;
+	border-color: transparent;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin-right: -10000px;
+	position: relative;
+	background: #7F7F7F url("../images/desktop%202.jpg?crc=89100174") no-repeat center center;
+	background-size: cover;
+}
+
+#u10194
+{
+	z-index: 94;
+	width: 1275px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 741px;
+}
+
+#u10198
+{
+	position: absolute;
+	width: 253px;
+	border-width: 0px;
+	background-color: #1C935D;
+	padding-top: 22px;
+	padding-bottom: 19.000000000000227px;
+	top: -19px;
+}
+
+#u10199-4
+{
+	z-index: 96;
+	width: 245px;
+	min-height: 35px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u10200-3
+{
+	z-index: 100;
+	width: 245px;
+	min-height: 24px;
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	position: relative;
+}
+
+#u10195
+{
+	position: absolute;
+	width: 253px;
+	border-width: 0px;
+	background-color: #1C935D;
+	padding-top: 21px;
+	padding-bottom: 20.000000000000227px;
+	top: -19px;
+	left: 256px;
+}
+
+#u10196-4
+{
+	z-index: 104;
+	width: 245px;
+	min-height: 35px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u10197-3
+{
+	z-index: 108;
+	width: 245px;
+	min-height: 24px;
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	position: relative;
+}
+
+#u10201
+{
+	position: absolute;
+	width: 253px;
+	border-width: 0px;
+	background-color: #1C935D;
+	padding-top: 21px;
+	padding-bottom: 20.000000000000227px;
+	top: -19px;
+	left: 513px;
+}
+
+#u10203-4
+{
+	z-index: 112;
+	width: 245px;
+	min-height: 35px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u10202-3
+{
+	z-index: 116;
+	width: 245px;
+	min-height: 24px;
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	position: relative;
+}
+
+#u10204
+{
+	position: absolute;
+	width: 253px;
+	border-width: 0px;
+	background-color: #1C935D;
+	padding-top: 21px;
+	padding-bottom: 20.000000000000227px;
+	top: -19px;
+	left: 770px;
+}
+
+#u10205-4
+{
+	z-index: 120;
+	width: 245px;
+	min-height: 35px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u10206-3
+{
+	z-index: 124;
+	width: 245px;
+	min-height: 24px;
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	position: relative;
+}
+
+#u10198.PamphletThumbSelected #u10200-3,#u10195.PamphletThumbSelected #u10197-3,#u10201.PamphletThumbSelected #u10202-3,#u10204.PamphletThumbSelected #u10206-3
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 245px;
+	margin: 0px;
+}
+
+#u10349
+{
+	position: absolute;
+	width: 253px;
+	border-width: 0px;
+	background-color: #1C935D;
+	padding-top: 19px;
+	padding-bottom: 20px;
+	top: -19px;
+	left: 1027px;
+}
+
+#u10198.PamphletThumbSelected,#u10195.PamphletThumbSelected,#u10201.PamphletThumbSelected,#u10204.PamphletThumbSelected,#u10349.PamphletThumbSelected
+{
+	background-color: #22B573;
+	width: 253px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10359-4
+{
+	z-index: 128;
+	width: 245px;
+	min-height: 35px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u10198.PamphletThumbSelected #u10199-4,#u10195.PamphletThumbSelected #u10196-4,#u10201.PamphletThumbSelected #u10203-4,#u10204.PamphletThumbSelected #u10205-4,#u10349.PamphletThumbSelected #u10359-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 35px;
+	width: 245px;
+	margin: 0px;
+}
+
+#u10198.PamphletThumbSelected #u10199-4 p,#u10195.PamphletThumbSelected #u10196-4 p,#u10201.PamphletThumbSelected #u10203-4 p,#u10204.PamphletThumbSelected #u10205-4 p,#u10349.PamphletThumbSelected #u10359-4 p
+{
+	text-transform: uppercase;
+}
+
+#u10363-3
+{
+	z-index: 132;
+	width: 245px;
+	min-height: 24px;
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	margin-left: 3px;
+	margin-top: 2px;
+	position: relative;
+}
+
+#u10349.PamphletThumbSelected #u10363-3
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 245px;
+	margin: 2px 0px 0px 3px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
 #pmenuu97
 {
 	z-index: 2;
+	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 61px;
-	width: 68.95%;
+	width: 69%;
 	margin-left: 15.39%;
 }
 
@@ -37,7 +373,7 @@
 {
 	z-index: 2;
 	position: relative;
-	width: 99.92%;
+	width: 99.84%;
 	margin-left: 0.09%;
 }
 
@@ -341,14 +677,14 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u3617-4
+#u10414-6
 {
-	z-index: 86;
-	min-height: 432px;
+	z-index: 135;
+	min-height: 434px;
 	background-color: transparent;
-	margin-top: 12px;
+	margin-top: 5px;
 	position: relative;
-	width: 99.92%;
+	width: 100%;
 }
 
 #pamphletu8180
@@ -743,213 +1079,19 @@
 	left: 5px;
 }
 
-#pu6144
-{
-	z-index: 33;
-	margin-right: -10000px;
-	margin-top: -195px;
-	width: 34.12%;
-	margin-left: 33.12%;
-}
-
 #u6144
 {
 	z-index: 33;
 	position: relative;
-	width: 100%;
-}
-
-#menuu9962
-{
-	z-index: 90;
-	width: 591px;
-	margin-top: 211px;
-	position: relative;
-	margin-left: 1.63%;
-}
-
-#u9977
-{
-	width: 591px;
-	position: relative;
-}
-
-#u9980
-{
-	width: 591px;
-	min-height: 17px;
-	padding-bottom: 34px;
-	position: relative;
 	margin-right: -10000px;
-}
-
-#u9980:hover
-{
-	width: 591px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9980:active
-{
-	width: 591px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9981-4
-{
-	width: 591px;
-	min-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	top: 17px;
-}
-
-#u9980:hover #u9981-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 591px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9980:active #u9981-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 591px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9964
-{
-	width: 591px;
-	min-height: 17px;
-	padding-bottom: 34px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u9980.MuseMenuActive,#u9964:hover
-{
-	width: 591px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9964:active
-{
-	width: 591px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9965-4
-{
-	width: 591px;
-	min-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	top: 17px;
-}
-
-#u9980.MuseMenuActive #u9981-4,#u9964:hover #u9965-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 591px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9964:active #u9965-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 591px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9963,#u9970
-{
-	width: 591px;
-	margin-top: 2px;
-	position: relative;
-}
-
-#u9973
-{
-	width: 591px;
-	min-height: 17px;
-	padding-bottom: 34px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u9964.MuseMenuActive,#u9973:hover
-{
-	width: 591px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9973:active
-{
-	width: 591px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9973.MuseMenuActive
-{
-	width: 591px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9974-4
-{
-	width: 591px;
-	min-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	top: 17px;
-}
-
-#u9964.MuseMenuActive #u9965-4,#u9973:hover #u9974-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 591px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9973:active #u9974-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 591px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9973.MuseMenuActive #u9974-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 591px;
-	margin: 0px -10000px 0px 0px;
+	margin-top: -195px;
+	width: 34.12%;
+	left: 33.12%;
 }
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 799px);
+	height: calc(100vh - 1299px);
 }
 
 .html
@@ -968,4 +1110,5 @@ body
 {
 	width: 100%;
 }
+
 
