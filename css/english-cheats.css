@@ -1,7 +1,7 @@
 .version.english_cheats /* version checker */
 {
-	color: #0000EB;
-	background-color: #33A30C;
+	color: #000019;
+	background-color: #17A287;
 }
 
 #muse_css_mq
@@ -22,6 +22,17 @@
 	max-width: 1800px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#u10452
+{
+	z-index: 86;
+	width: 1751px;
+	min-height: 1385px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 117px;
+	left: 22px;
 }
 
 #pmenuu97
@@ -343,7 +354,7 @@
 
 #u713-307
 {
-	z-index: 86;
+	z-index: 87;
 	min-height: 503px;
 	background-color: transparent;
 	margin-top: 11px;
@@ -788,7 +799,7 @@
 
 #menuu9444
 {
-	z-index: 393;
+	z-index: 394;
 	margin-top: 262px;
 	position: relative;
 	width: 96.26%;

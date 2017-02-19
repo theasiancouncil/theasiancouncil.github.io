@@ -1,7 +1,7 @@
 .version.aphg /* version checker */
 {
-	color: #00001E;
-	background-color: #E48A6E;
+	color: #00000D;
+	background-color: #FB5A48;
 }
 
 #muse_css_mq
@@ -12,16 +12,26 @@
 #page
 {
 	z-index: 1;
-	min-height: 438px;
+	min-height: 500px;
 	background-image: none;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	padding-bottom: 62px;
 	width: 100%;
 	max-width: 1800px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#u10452
+{
+	z-index: 86;
+	width: 1751px;
+	min-height: 1385px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 117px;
+	left: 22px;
 }
 
 #pmenuu97
@@ -334,7 +344,7 @@
 
 #pu8305-81
 {
-	z-index: 86;
+	z-index: 87;
 	margin-top: 10px;
 	width: 99.6%;
 	margin-left: 0.09%;
@@ -342,7 +352,7 @@
 
 #u8305-81
 {
-	z-index: 86;
+	z-index: 87;
 	min-height: 701px;
 	background-color: transparent;
 	position: relative;
@@ -352,7 +362,7 @@
 
 #u8308
 {
-	z-index: 167;
+	z-index: 168;
 	width: 378px;
 	min-height: 147px;
 	border-width: 0px;
@@ -774,7 +784,7 @@
 
 #menuu9444
 {
-	z-index: 169;
+	z-index: 170;
 	margin-top: 262px;
 	position: relative;
 	width: 62.22%;
@@ -1012,7 +1022,7 @@
 
 #pu9310
 {
-	z-index: 168;
+	z-index: 169;
 	margin-top: 41px;
 	width: 46.95%;
 	margin-left: 53.06%;
@@ -1020,7 +1030,7 @@
 
 #u9310
 {
-	z-index: 168;
+	z-index: 169;
 	width: 380px;
 	min-height: 450px;
 	border-width: 0px;
@@ -1033,7 +1043,7 @@
 
 #menuu9318
 {
-	z-index: 194;
+	z-index: 195;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -1125,7 +1135,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1318px);
+	height: calc(100vh - 2146px);
 }
 
 .html
@@ -1144,5 +1154,4 @@ body
 {
 	width: 100%;
 }
-
 

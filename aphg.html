@@ -24,9 +24,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>APHG</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=209684137"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3823540144"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3768255982"/>
   <link rel="stylesheet" type="text/css" href="css/master_school-master.css?crc=4014483611"/>
-  <link rel="stylesheet" type="text/css" href="css/aphg.css?crc=518294126" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/aphg.css?crc=234576456" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -39,7 +39,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
     <!--HTML Widget code-->
-  	
+  
+		<style>
+.block { width: 6.25%; float: left; position: relative; transition: opacity 500ms ease; background-color: transparent; transition: all 3s linear; }
+.block:before { content: ""; display: block; padding-top: 100%; }
+.block:hover { background-color: rgba(0,0,0, 0.25); transition: all 100ms linear; }
+</style>
+		
 		<style>		
 			
 				.arial { font-family: Arial,"Helvetica Neue",Helvetica,sans-serif!important; }
@@ -233,6 +239,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- group -->
+   <div class="size_fixed grpelem" id="u10452"><!-- custom html -->
+    
+<!-- This Adobe Muse widget was created by the team at MuseFree.com -->
+	<section class="blocks">
+
+   </div>
    <div class="clearfix grpelem" id="pmenuu97"><!-- column -->
     <nav class="MenuBar clearfix colelem" id="menuu97"><!-- horizontal box -->
      <div class="MenuItemContainer borderbox clearfix grpelem" id="u98"><!-- vertical box -->
@@ -426,7 +438,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </nav>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="1057" data-content-above-spacer="1257" data-content-below-spacer="61"></div>
+   <div class="verticalspacer" data-offset-top="1057" data-content-above-spacer="1702" data-content-below-spacer="444"></div>
   </div>
   <!-- JS includes -->
   <script type="text/javascript">
@@ -467,7 +479,17 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
   <script src="scripts/require.js?crc=244322403" type="text/javascript" async data-main="scripts/museconfig.js?crc=168988563" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
   
   <!--HTML Widget code-->
-  		
+  
+<script>
+        var i = 0,
+    newBlock = '<div class="block"></div>',
+    $blockContainer = $(".blocks");
+
+for(i=0; i < 112; i++) {
+  $blockContainer.append(newBlock);
+}
+        </script>
+			
 <script>
 /*global window */
 /**

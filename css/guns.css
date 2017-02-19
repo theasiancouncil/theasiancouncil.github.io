@@ -1,7 +1,7 @@
 .version.guns /* version checker */
 {
-	color: #000004;
-	background-color: #18DFAE;
+	color: #00001E;
+	background-color: #8259FA;
 }
 
 #muse_css_mq
@@ -22,6 +22,17 @@
 	max-width: 1800px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#u10452
+{
+	z-index: 86;
+	width: 1751px;
+	min-height: 1385px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 117px;
+	left: 22px;
 }
 
 #pmenuu97
@@ -335,14 +346,14 @@
 
 #pu2498-198
 {
-	z-index: 86;
+	z-index: 87;
 	margin-top: 18px;
 	width: 99.92%;
 }
 
 #u2498-198
 {
-	z-index: 86;
+	z-index: 87;
 	min-height: 540px;
 	background-color: transparent;
 	position: relative;
@@ -352,7 +363,7 @@
 
 #u2513
 {
-	z-index: 303;
+	z-index: 304;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -363,7 +374,7 @@
 
 #u2523
 {
-	z-index: 305;
+	z-index: 306;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -374,7 +385,7 @@
 
 #u2584
 {
-	z-index: 307;
+	z-index: 308;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -385,7 +396,7 @@
 
 #u2615
 {
-	z-index: 309;
+	z-index: 310;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -396,7 +407,7 @@
 
 #u2625
 {
-	z-index: 311;
+	z-index: 312;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -816,7 +827,7 @@
 
 #menuu9690
 {
-	z-index: 284;
+	z-index: 285;
 	margin-top: 211px;
 	position: relative;
 	width: 65.48%;
