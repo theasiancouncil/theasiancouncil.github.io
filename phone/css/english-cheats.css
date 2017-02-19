@@ -1,7 +1,7 @@
 .version.english_cheats /* version checker */
 {
-	color: #0000E3;
-	background-color: #BA1D35;
+	color: #000011;
+	background-color: #1386F0;
 }
 
 #muse_css_mq
@@ -23,8 +23,14 @@
 
 #page_position_content
 {
-	margin-top: -116px;
+	margin-top: -120px;
 	padding-bottom: 71px;
+	width: 100%;
+}
+
+#pu6166
+{
+	z-index: 21;
 	width: 100%;
 }
 
@@ -32,8 +38,20 @@
 {
 	z-index: 21;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
 	width: 85.79%;
-	margin-left: 6.85%;
+	left: 6.85%;
+}
+
+#u10488
+{
+	z-index: 23;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	left: 1.06%;
 }
 
 #menuu4405
@@ -238,14 +256,14 @@
 
 #pu5007-229
 {
-	z-index: 23;
+	z-index: 24;
 	margin-top: 16px;
 	width: 100%;
 }
 
 #u5007-229
 {
-	z-index: 23;
+	z-index: 24;
 	min-height: 457px;
 	background-color: transparent;
 	position: relative;
@@ -288,7 +306,7 @@
 
 #menuu9034
 {
-	z-index: 252;
+	z-index: 253;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -330,8 +348,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -382,8 +400,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -436,8 +454,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -505,8 +523,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;

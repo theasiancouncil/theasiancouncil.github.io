@@ -1,7 +1,7 @@
 .version.airplane_guide /* version checker */
 {
-	color: #00000E;
-	background-color: #664D62;
+	color: #0000F9;
+	background-color: #A1C6F4;
 }
 
 #muse_css_mq
@@ -28,7 +28,7 @@
 {
 	z-index: 86;
 	width: 1751px;
-	min-height: 1385px;
+	min-height: 884px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 117px;

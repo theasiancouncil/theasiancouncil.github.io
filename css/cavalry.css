@@ -1,7 +1,7 @@
 .version.cavalry /* version checker */
 {
-	color: #000008;
-	background-color: #C0B631;
+	color: #00001E;
+	background-color: #34EAC7;
 }
 
 #muse_css_mq
@@ -28,7 +28,7 @@
 {
 	z-index: 86;
 	width: 1751px;
-	min-height: 1385px;
+	min-height: 884px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 117px;

@@ -1,7 +1,7 @@
 .version.english_cheats /* version checker */
 {
-	color: #00001C;
-	background-color: #CADC70;
+	color: #0000F0;
+	background-color: #0B3D48;
 }
 
 #muse_css_mq
@@ -28,7 +28,7 @@
 {
 	z-index: 86;
 	width: 1751px;
-	min-height: 1385px;
+	min-height: 884px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 117px;

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000014;
-	background-color: #DFC3DB;
+	color: #0000FB;
+	background-color: #8C1553;
 }
 
 #muse_css_mq
@@ -27,7 +27,7 @@
 {
 	z-index: 86;
 	width: 1751px;
-	min-height: 1385px;
+	min-height: 884px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 117px;
@@ -802,7 +802,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 2364px);
+	height: calc(100vh - 1362px);
 }
 
 .html

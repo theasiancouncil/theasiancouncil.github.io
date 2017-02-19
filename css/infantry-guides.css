@@ -1,7 +1,7 @@
 .version.infantry_guides /* version checker */
 {
-	color: #0000FE;
-	background-color: #89F5E9;
+	color: #0000E0;
+	background-color: #8D3470;
 }
 
 #muse_css_mq
@@ -27,7 +27,7 @@
 {
 	z-index: 86;
 	width: 1751px;
-	min-height: 1385px;
+	min-height: 884px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 117px;
@@ -979,7 +979,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 2574px);
+	height: calc(100vh - 1572px);
 }
 
 .html

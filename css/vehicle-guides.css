@@ -1,7 +1,7 @@
 .version.vehicle_guides /* version checker */
 {
-	color: #0000F4;
-	background-color: #3EA7FA;
+	color: #000006;
+	background-color: #6DEFE9;
 }
 
 #muse_css_mq
@@ -27,7 +27,7 @@
 {
 	z-index: 86;
 	width: 1751px;
-	min-height: 1385px;
+	min-height: 884px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 117px;
@@ -1029,7 +1029,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 2491px);
+	height: calc(100vh - 1489px);
 }
 
 .html

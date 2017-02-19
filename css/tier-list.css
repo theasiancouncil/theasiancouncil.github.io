@@ -1,7 +1,7 @@
 .version.tier_list /* version checker */
 {
-	color: #0000E1;
-	background-color: #A70F2B;
+	color: #0000ED;
+	background-color: #E874F5;
 }
 
 #muse_css_mq
@@ -12,11 +12,12 @@
 #page
 {
 	z-index: 1;
-	min-height: 500px;
+	min-height: 485px;
 	background-image: none;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
+	padding-bottom: 15px;
 	width: 100%;
 	max-width: 1800px;
 	margin-left: auto;
@@ -27,7 +28,7 @@
 {
 	z-index: 86;
 	width: 1751px;
-	min-height: 1385px;
+	min-height: 884px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 117px;
@@ -986,7 +987,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 2250px);
+	height: calc(100vh - 1262px);
 }
 
 .html

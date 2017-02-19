@@ -1,7 +1,7 @@
 .version.school /* version checker */
 {
-	color: #00001A;
-	background-color: #1F9B0B;
+	color: #0000FC;
+	background-color: #AEA167;
 }
 
 #muse_css_mq
@@ -23,8 +23,14 @@
 
 #page_position_content
 {
-	margin-top: -116px;
+	margin-top: -120px;
 	padding-bottom: 159px;
+	width: 100%;
+}
+
+#pu6166
+{
+	z-index: 21;
 	width: 100%;
 }
 
@@ -32,8 +38,20 @@
 {
 	z-index: 21;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
 	width: 85.79%;
-	margin-left: 6.85%;
+	left: 6.85%;
+}
+
+#u10488
+{
+	z-index: 23;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	left: 1.06%;
 }
 
 #menuu4405
@@ -238,14 +256,14 @@
 
 #pu4399-22
 {
-	z-index: 23;
+	z-index: 24;
 	margin-top: 16px;
 	width: 100%;
 }
 
 #u4399-22
 {
-	z-index: 23;
+	z-index: 24;
 	min-height: 316px;
 	background-color: transparent;
 }
@@ -257,13 +275,13 @@
 
 #u4399-22-bw
 {
-	z-index: 23;
+	z-index: 24;
 	min-height: 316px;
 }
 
 #menuu4564
 {
-	z-index: 45;
+	z-index: 46;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -305,8 +323,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -357,8 +375,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -409,8 +427,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -477,8 +495,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;

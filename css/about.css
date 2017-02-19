@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #000007;
-	background-color: #04D1B9;
+	color: #0000E1;
+	background-color: #2CF0A7;
 }
 
 #muse_css_mq
@@ -12,11 +12,12 @@
 #page
 {
 	z-index: 1;
-	min-height: 500px;
+	min-height: 478px;
 	background-image: none;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
+	padding-bottom: 22px;
 	width: 100%;
 	max-width: 1800px;
 	margin-left: auto;
@@ -27,7 +28,7 @@
 {
 	z-index: 86;
 	width: 1751px;
-	min-height: 1385px;
+	min-height: 884px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 117px;
@@ -1128,7 +1129,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 2165px);
+	height: calc(100vh - 1259px);
 }
 
 .html

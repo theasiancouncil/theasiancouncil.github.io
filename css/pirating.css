@@ -1,7 +1,7 @@
 .version.pirating /* version checker */
 {
-	color: #00001B;
-	background-color: #45018C;
+	color: #000013;
+	background-color: #A76C6F;
 }
 
 #muse_css_mq
@@ -27,7 +27,7 @@
 {
 	z-index: 86;
 	width: 1751px;
-	min-height: 1385px;
+	min-height: 884px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 117px;
@@ -927,7 +927,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 2406px);
+	height: calc(100vh - 1404px);
 }
 
 .html

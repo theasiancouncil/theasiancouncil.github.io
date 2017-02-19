@@ -1,7 +1,7 @@
 .version.airplane_guide /* version checker */
 {
-	color: #0000E0;
-	background-color: #B8B0A9;
+	color: #00001E;
+	background-color: #71AE06;
 }
 
 #muse_css_mq
@@ -23,8 +23,14 @@
 
 #page_position_content
 {
-	margin-top: -116px;
+	margin-top: -120px;
 	padding-bottom: 515px;
+	width: 100%;
+}
+
+#pu6166
+{
+	z-index: 21;
 	width: 100%;
 }
 
@@ -32,8 +38,20 @@
 {
 	z-index: 21;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
 	width: 85.79%;
-	margin-left: 6.85%;
+	left: 6.85%;
+}
+
+#u10488
+{
+	z-index: 23;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	left: 1.06%;
 }
 
 #menuu4405

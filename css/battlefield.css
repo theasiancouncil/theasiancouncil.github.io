@@ -1,7 +1,7 @@
 .version.battlefield /* version checker */
 {
-	color: #000011;
-	background-color: #059ECE;
+	color: #00000D;
+	background-color: #703DB8;
 }
 
 #muse_css_mq
@@ -28,7 +28,7 @@
 {
 	z-index: 86;
 	width: 1751px;
-	min-height: 1385px;
+	min-height: 884px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 117px;

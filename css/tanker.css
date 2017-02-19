@@ -1,7 +1,7 @@
 .version.tanker /* version checker */
 {
-	color: #0000ED;
-	background-color: #003C83;
+	color: #0000EB;
+	background-color: #08D50A;
 }
 
 #muse_css_mq
@@ -28,7 +28,7 @@
 {
 	z-index: 86;
 	width: 1751px;
-	min-height: 1385px;
+	min-height: 884px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 117px;
