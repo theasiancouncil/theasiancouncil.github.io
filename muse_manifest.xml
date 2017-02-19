@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1487544740748">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1487545784833">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="458430596" ref="phone>secret:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>gt-biology:phone>aphg"/>
@@ -79,7 +79,7 @@
   <folder name="css">
     <file name="site_global.css" crc="209684137"/>
     <file name="master_a-master.css" crc="425899830" ref="school:english-cheats:index:spanish-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns:infantry-guides:airplane-guide:vehicle-guides:cavalry:civilization:combat:tier-list:gt-biology:aphg:secret:about"/>
-    <file name="school.css" crc="422121603" ref="school"/>
+    <file name="school.css" crc="518566471" ref="school"/>
     <file name="english-cheats.css" crc="4027268424" ref="english-cheats"/>
     <file name="index.css" crc="4220261715" ref="index"/>
     <file name="spanish-cheats.css" crc="430238774" ref="spanish-cheats"/>
@@ -126,7 +126,7 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="about"/>
   </folder>
   <file name="index.html" crc="392685056" seo="true" mt="1487542704150" redirect="true"/>
-  <file name="school.html" crc="3850167226" seo="true" mt="1487544734095" redirect="true"/>
+  <file name="school.html" crc="3770314417" seo="true" mt="1487545772832" redirect="true"/>
   <file name="spanish-cheats.html" crc="166056546" seo="true" mt="1487542704150" redirect="true"/>
   <file name="english-cheats.html" crc="327335424" seo="true" mt="1487542704150" redirect="true"/>
   <file name="misc.html" crc="244066123" seo="true" mt="1487542704150" redirect="true"/>
