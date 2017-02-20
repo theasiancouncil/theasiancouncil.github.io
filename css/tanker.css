@@ -1,7 +1,7 @@
 .version.tanker /* version checker */
 {
-	color: #0000EB;
-	background-color: #08D50A;
+	color: #0000F5;
+	background-color: #C84E86;
 }
 
 #muse_css_mq
@@ -35,49 +35,22 @@
 	left: 22px;
 }
 
-#pu10462
-{
-	z-index: 87;
-	margin-right: -10000px;
-	margin-top: 64px;
-	width: 3.51%;
-	margin-left: 1.56%;
-}
-
-#u10462
-{
-	z-index: 87;
-	width: 60px;
-	min-height: 60px;
-	position: relative;
-}
-
-#u10467
-{
-	z-index: 88;
-	width: 50px;
-	min-height: 25px;
-	margin-top: 16px;
-	position: relative;
-	margin-left: 20.64%;
-}
-
 #pmenuu97
 {
 	z-index: 2;
-	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 61px;
-	width: 69.12%;
-	margin-left: 15.23%;
+	width: 83.12%;
+	margin-left: 1.23%;
 }
 
 #menuu97
 {
 	z-index: 2;
 	position: relative;
-	width: 99.68%;
-	margin-left: 0.33%;
+	margin-right: -10000px;
+	width: 82.89%;
+	left: 17.12%;
 }
 
 #u98
@@ -371,14 +344,59 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u2446-430
+#u10462
+{
+	z-index: 87;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 0.41%;
+}
+
+#u10467
+{
+	z-index: 88;
+	width: 50px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 79px;
+	left: 1.28%;
+}
+
+#u10821
 {
 	z-index: 89;
+	min-height: 604px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 151px;
+	width: 20.06%;
+}
+
+#u10826-4
+{
+	z-index: 90;
+	min-height: 130px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 331px;
+	width: 9.43%;
+	left: 3.01%;
+}
+
+#u2446-430
+{
+	z-index: 95;
 	min-height: 461px;
 	background-color: transparent;
-	margin-top: 13px;
 	position: relative;
-	width: 99.68%;
+	margin-right: -10000px;
+	margin-top: 47px;
+	width: 82.89%;
+	left: 16.85%;
 }
 
 #u2446-51
@@ -819,7 +837,7 @@
 
 #menuu9859
 {
-	z-index: 519;
+	z-index: 525;
 	margin-top: 211px;
 	position: relative;
 	width: 71.99%;
@@ -1053,6 +1071,17 @@
 	min-height: 17px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
+}
+
+#u10829
+{
+	z-index: 94;
+	min-height: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 237px;
+	width: 11.12%;
+	left: 87.5%;
 }
 
 .css_verticalspacer .verticalspacer

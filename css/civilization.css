@@ -1,7 +1,7 @@
 .version.civilization /* version checker */
 {
-	color: #0000FB;
-	background-color: #CA139C;
+	color: #000019;
+	background-color: #35871A;
 }
 
 #muse_css_mq
@@ -34,48 +34,22 @@
 	left: 22px;
 }
 
-#pu10462
-{
-	z-index: 87;
-	margin-right: -10000px;
-	margin-top: 64px;
-	width: 3.51%;
-	margin-left: 1.56%;
-}
-
-#u10462
-{
-	z-index: 87;
-	width: 60px;
-	min-height: 60px;
-	position: relative;
-}
-
-#u10467
-{
-	z-index: 88;
-	width: 50px;
-	min-height: 25px;
-	margin-top: 16px;
-	position: relative;
-	margin-left: 20.64%;
-}
-
 #pmenuu97
 {
 	z-index: 2;
 	margin-right: -10000px;
 	margin-top: 61px;
-	width: 68.95%;
-	margin-left: 15.39%;
+	width: 83.12%;
+	margin-left: 1.23%;
 }
 
 #menuu97
 {
 	z-index: 2;
 	position: relative;
-	width: 99.92%;
-	margin-left: 0.09%;
+	margin-right: -10000px;
+	width: 82.89%;
+	left: 17.12%;
 }
 
 #u98
@@ -378,14 +352,59 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u3617-4
+#u10462
+{
+	z-index: 87;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 0.41%;
+}
+
+#u10467
+{
+	z-index: 88;
+	width: 50px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 79px;
+	left: 1.28%;
+}
+
+#u10821
 {
 	z-index: 89;
+	min-height: 604px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 151px;
+	width: 20.06%;
+}
+
+#u10826-4
+{
+	z-index: 90;
+	min-height: 130px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 331px;
+	width: 9.43%;
+	left: 3.01%;
+}
+
+#u3617-4
+{
+	z-index: 95;
 	min-height: 432px;
 	background-color: transparent;
-	margin-top: 12px;
 	position: relative;
-	width: 99.92%;
+	margin-right: -10000px;
+	margin-top: 46px;
+	width: 82.89%;
+	left: 17.05%;
 }
 
 #pamphletu8180
@@ -798,7 +817,7 @@
 
 #menuu9962
 {
-	z-index: 93;
+	z-index: 99;
 	width: 591px;
 	margin-top: 211px;
 	position: relative;
@@ -982,6 +1001,17 @@
 	min-height: 17px;
 	width: 591px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u10829
+{
+	z-index: 94;
+	min-height: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 237px;
+	width: 11.12%;
+	left: 87.5%;
 }
 
 .css_verticalspacer .verticalspacer

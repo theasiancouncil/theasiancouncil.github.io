@@ -1,7 +1,7 @@
 .version.airplane_guide /* version checker */
 {
-	color: #0000F9;
-	background-color: #A1C6F4;
+	color: #0000FE;
+	background-color: #DDBB4D;
 }
 
 #muse_css_mq
@@ -35,48 +35,22 @@
 	left: 22px;
 }
 
-#pu10462
-{
-	z-index: 87;
-	margin-right: -10000px;
-	margin-top: 64px;
-	width: 3.51%;
-	margin-left: 1.56%;
-}
-
-#u10462
-{
-	z-index: 87;
-	width: 60px;
-	min-height: 60px;
-	position: relative;
-}
-
-#u10467
-{
-	z-index: 88;
-	width: 50px;
-	min-height: 25px;
-	margin-top: 16px;
-	position: relative;
-	margin-left: 20.64%;
-}
-
 #pmenuu97
 {
 	z-index: 2;
-	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 61px;
-	width: 68.89%;
-	margin-left: 15.45%;
+	width: 83.12%;
+	margin-left: 1.23%;
 }
 
 #menuu97
 {
 	z-index: 2;
 	position: relative;
-	width: 100%;
+	margin-right: -10000px;
+	width: 82.89%;
+	left: 17.12%;
 }
 
 #u98
@@ -370,14 +344,59 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u2758-276
+#u10462
+{
+	z-index: 87;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 0.41%;
+}
+
+#u10467
+{
+	z-index: 88;
+	width: 50px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 79px;
+	left: 1.28%;
+}
+
+#u10821
 {
 	z-index: 89;
+	min-height: 604px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 151px;
+	width: 20.06%;
+}
+
+#u10826-4
+{
+	z-index: 90;
+	min-height: 130px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 331px;
+	width: 9.43%;
+	left: 3.01%;
+}
+
+#u2758-276
+{
+	z-index: 95;
 	min-height: 501px;
 	background-color: transparent;
-	margin-top: 17px;
 	position: relative;
-	width: 100%;
+	margin-right: -10000px;
+	margin-top: 51px;
+	width: 82.89%;
+	left: 17.12%;
 }
 
 #u2758-31,#u2758-35,#u2758-99,#u2758-118,#u2758-131,#u2758-152,#u2758-158,#u2758-164
@@ -820,7 +839,7 @@
 
 #menuu9859
 {
-	z-index: 365;
+	z-index: 371;
 	margin-top: 211px;
 	position: relative;
 	width: 71.99%;
@@ -1054,6 +1073,17 @@
 	min-height: 17px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
+}
+
+#u10829
+{
+	z-index: 94;
+	min-height: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 237px;
+	width: 11.12%;
+	left: 87.5%;
 }
 
 .css_verticalspacer .verticalspacer

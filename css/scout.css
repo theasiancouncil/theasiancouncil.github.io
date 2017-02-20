@@ -1,7 +1,7 @@
 .version.scout /* version checker */
 {
-	color: #000005;
-	background-color: #E26457;
+	color: #0000E6;
+	background-color: #42B9FF;
 }
 
 #muse_css_mq
@@ -41,14 +41,15 @@
 	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 61px;
-	width: 82.78%;
-	margin-left: 1.56%;
+	width: 83.12%;
+	margin-left: 1.23%;
 }
 
 #pu10462
 {
 	z-index: 87;
-	width: 100%;
+	width: 99.6%;
+	margin-left: 0.41%;
 }
 
 #u10462
@@ -365,8 +366,7 @@
 {
 	z-index: 88;
 	margin-top: -3px;
-	width: 99.13%;
-	margin-left: 0.88%;
+	width: 99.94%;
 }
 
 #u10467
@@ -377,50 +377,72 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 19px;
+	left: 1.28%;
+}
+
+#u10821
+{
+	z-index: 89;
+	min-height: 604px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 91px;
+	width: 20.07%;
+}
+
+#u10826-4
+{
+	z-index: 90;
+	min-height: 130px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 271px;
+	width: 9.44%;
+	left: 3.02%;
 }
 
 #u2213-143
 {
-	z-index: 90;
+	z-index: 96;
 	min-height: 620px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	width: 83.96%;
-	left: 16.05%;
+	width: 82.95%;
+	left: 17.06%;
 }
 
 #u2216
 {
-	z-index: 252;
+	z-index: 258;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1072px;
-	width: 30%;
-	left: 2.98%;
+	width: 29.64%;
+	left: 4.22%;
 }
 
 #u2226
 {
-	z-index: 254;
+	z-index: 260;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1396px;
-	width: 54.1%;
-	left: 12.87%;
+	width: 53.45%;
+	left: 13.98%;
 }
 
 #u2241
 {
-	z-index: 256;
+	z-index: 262;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 776px;
-	width: 25.6%;
-	left: 6.17%;
+	width: 25.29%;
+	left: 7.36%;
 }
 
 #pamphletu8180
@@ -833,7 +855,7 @@
 
 #menuu9690
 {
-	z-index: 233;
+	z-index: 239;
 	margin-top: 211px;
 	position: relative;
 	width: 65.48%;
@@ -1021,7 +1043,7 @@
 
 #u2253
 {
-	z-index: 258;
+	z-index: 264;
 	background-color: transparent;
 	margin-top: 554px;
 	position: relative;
@@ -1031,13 +1053,24 @@
 
 #u2263
 {
-	z-index: 89;
+	z-index: 95;
 	height: 13px;
 	background-color: #FFF9E0;
 	margin-top: 553px;
 	position: relative;
 	width: 2.94%;
 	margin-left: 50.33%;
+}
+
+#u10829
+{
+	z-index: 94;
+	min-height: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 237px;
+	width: 11.12%;
+	left: 87.5%;
 }
 
 .css_verticalspacer .verticalspacer

@@ -1,7 +1,7 @@
 .version.school /* version checker */
 {
-	color: #0000E2;
-	background-color: #A90B5C;
+	color: #0000FF;
+	background-color: #1850D4;
 }
 
 #muse_css_mq
@@ -35,48 +35,22 @@
 	left: 22px;
 }
 
-#pu10462
-{
-	z-index: 87;
-	margin-right: -10000px;
-	margin-top: 64px;
-	width: 3.51%;
-	margin-left: 1.56%;
-}
-
-#u10462
-{
-	z-index: 87;
-	width: 60px;
-	min-height: 60px;
-	position: relative;
-}
-
-#u10467
-{
-	z-index: 88;
-	width: 50px;
-	min-height: 25px;
-	margin-top: 16px;
-	position: relative;
-	margin-left: 20.64%;
-}
-
 #pmenuu97
 {
 	z-index: 2;
-	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 61px;
-	width: 69.17%;
-	margin-left: 15.45%;
+	width: 83.39%;
+	margin-left: 1.23%;
 }
 
 #menuu97
 {
 	z-index: 2;
 	position: relative;
-	width: 99.6%;
+	margin-right: -10000px;
+	width: 82.62%;
+	left: 17.06%;
 }
 
 #u98
@@ -370,15 +344,59 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u184-88
+#u10462
+{
+	z-index: 87;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 0.4%;
+}
+
+#u10467
+{
+	z-index: 88;
+	width: 50px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 79px;
+	left: 1.27%;
+}
+
+#u10821
 {
 	z-index: 89;
+	min-height: 604px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 151px;
+	width: 19.99%;
+}
+
+#u10826-4
+{
+	z-index: 90;
+	min-height: 130px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 331px;
+	width: 9.4%;
+	left: 3%;
+}
+
+#u184-88
+{
+	z-index: 95;
 	min-height: 343px;
 	background-color: transparent;
-	margin-top: 5px;
 	position: relative;
-	width: 99.6%;
-	margin-left: 0.41%;
+	margin-right: -10000px;
+	margin-top: 39px;
+	width: 82.62%;
+	left: 17.39%;
 }
 
 #u184
@@ -810,7 +828,7 @@
 
 #menuu9444
 {
-	z-index: 199;
+	z-index: 205;
 	margin-top: 262px;
 	position: relative;
 	width: 96.26%;
@@ -1048,7 +1066,7 @@
 
 #u10427
 {
-	z-index: 179;
+	z-index: 185;
 	width: 565px;
 	min-height: 109px;
 	border-width: 0px;
@@ -1065,42 +1083,42 @@
 	z-index: 0;
 	padding-bottom: 0px;
 	margin-right: -10000px;
-	margin-top: 637px;
+	margin-top: 622px;
 	width: 32%;
 	margin-left: 34.45%;
 }
 
 #pu10498
 {
-	z-index: 180;
+	z-index: 186;
 	width: 61.81%;
 	margin-left: 18.75%;
 }
 
 #u10498
 {
-	z-index: 180;
+	z-index: 186;
 	min-height: 604px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 15px;
+	margin-top: 30px;
 	width: 100%;
 }
 
 #menuu10502
 {
-	z-index: 181;
+	z-index: 187;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 112px;
+	margin-top: 104px;
 	width: 44.11%;
-	left: 31.47%;
+	left: 31.18%;
 }
 
 #u10503
@@ -1141,20 +1159,20 @@
 
 #menuu10632
 {
-	z-index: 187;
+	z-index: 193;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 343px;
+	margin-top: 477px;
 	width: 48.04%;
-	left: 28.66%;
+	left: 27.25%;
 }
 
 #u10633
 {
-	min-height: 24px;
+	min-height: 54px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -1164,7 +1182,7 @@
 #u10636
 {
 	background-color: #FFFFFF;
-	padding-bottom: 7px;
+	padding-bottom: 37px;
 	position: relative;
 	width: 100%;
 }
@@ -1180,13 +1198,13 @@
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	top: 3px;
+	top: 18px;
 	width: 100%;
 }
 
 #menuu10762
 {
-	z-index: 193;
+	z-index: 199;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -1247,11 +1265,22 @@
 
 #u2115
 {
-	z-index: 177;
+	z-index: 183;
 	background-color: transparent;
 	margin-top: 107px;
 	position: relative;
 	width: 100%;
+}
+
+#u10829
+{
+	z-index: 94;
+	min-height: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 237px;
+	width: 11.12%;
+	left: 87.5%;
 }
 
 .css_verticalspacer .verticalspacer

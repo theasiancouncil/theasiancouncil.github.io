@@ -1,7 +1,7 @@
 .version.spanish_cheats /* version checker */
 {
-	color: #000019;
-	background-color: #A4EC36;
+	color: #0000F2;
+	background-color: #67BCD4;
 }
 
 #muse_css_mq
@@ -35,49 +35,22 @@
 	left: 22px;
 }
 
-#pu10462
-{
-	z-index: 87;
-	margin-right: -10000px;
-	margin-top: 64px;
-	width: 3.51%;
-	margin-left: 1.56%;
-}
-
-#u10462
-{
-	z-index: 87;
-	width: 60px;
-	min-height: 60px;
-	position: relative;
-}
-
-#u10467
-{
-	z-index: 88;
-	width: 50px;
-	min-height: 25px;
-	margin-top: 16px;
-	position: relative;
-	margin-left: 20.64%;
-}
-
 #pmenuu97
 {
 	z-index: 2;
-	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 61px;
-	width: 68.95%;
-	margin-left: 15.39%;
+	width: 83.12%;
+	margin-left: 1.23%;
 }
 
 #menuu97
 {
 	z-index: 2;
 	position: relative;
-	width: 99.92%;
-	margin-left: 0.09%;
+	margin-right: -10000px;
+	width: 82.89%;
+	left: 17.12%;
 }
 
 #u98
@@ -380,17 +353,62 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u353-370
+#u10462
 {
-	z-index: 89;
-	min-height: 400px;
-	background-color: transparent;
-	margin-top: 20px;
+	z-index: 87;
+	width: 60px;
+	min-height: 60px;
 	position: relative;
-	width: 99.92%;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 0.41%;
 }
 
-#u353-126
+#u10467
+{
+	z-index: 88;
+	width: 50px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 79px;
+	left: 1.28%;
+}
+
+#u10821
+{
+	z-index: 89;
+	min-height: 604px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 151px;
+	width: 20.06%;
+}
+
+#u10826-4
+{
+	z-index: 90;
+	min-height: 130px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 331px;
+	width: 9.43%;
+	left: 3.01%;
+}
+
+#u353-369
+{
+	z-index: 95;
+	min-height: 400px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 54px;
+	width: 82.89%;
+	left: 17.05%;
+}
+
+#u353-125
 {
 	text-decoration: underline;
 }
@@ -790,10 +808,10 @@
 #pu6144
 {
 	z-index: 33;
-	padding-bottom: 0px;
+	padding-bottom: 1px;
 	margin-right: -10000px;
 	margin-top: -195px;
-	width: 34.12%;
+	width: 36.95%;
 	margin-left: 33.12%;
 }
 
@@ -801,16 +819,16 @@
 {
 	z-index: 33;
 	position: relative;
-	width: 100%;
+	width: 92.34%;
 }
 
 #menuu9444
 {
-	z-index: 459;
+	z-index: 465;
 	margin-top: 262px;
 	position: relative;
-	width: 96.26%;
-	margin-left: 1.47%;
+	width: 88.88%;
+	margin-left: 1.36%;
 }
 
 #u9452
@@ -1040,6 +1058,31 @@
 	min-height: 18px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
+}
+
+#u10810
+{
+	z-index: 464;
+	height: 304px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	max-width: 100000px;
+	margin-top: 84px;
+	position: relative;
+	width: 81.21%;
+	margin-left: 18.8%;
+}
+
+#u10829
+{
+	z-index: 94;
+	min-height: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 237px;
+	width: 11.12%;
+	left: 87.5%;
 }
 
 .css_verticalspacer .verticalspacer

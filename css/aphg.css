@@ -1,7 +1,7 @@
 .version.aphg /* version checker */
 {
-	color: #000004;
-	background-color: #325DD2;
+	color: #00000B;
+	background-color: #7089EB;
 }
 
 #muse_css_mq
@@ -35,48 +35,22 @@
 	left: 22px;
 }
 
-#pu10462
-{
-	z-index: 87;
-	margin-right: -10000px;
-	margin-top: 64px;
-	width: 3.51%;
-	margin-left: 1.56%;
-}
-
-#u10462
-{
-	z-index: 87;
-	width: 60px;
-	min-height: 60px;
-	position: relative;
-}
-
-#u10467
-{
-	z-index: 88;
-	width: 50px;
-	min-height: 25px;
-	margin-top: 16px;
-	position: relative;
-	margin-left: 20.64%;
-}
-
 #pmenuu97
 {
 	z-index: 2;
-	padding-bottom: 1px;
 	margin-right: -10000px;
 	margin-top: 61px;
-	width: 68.89%;
-	margin-left: 15.45%;
+	width: 83.12%;
+	margin-left: 1.23%;
 }
 
 #menuu97
 {
 	z-index: 2;
 	position: relative;
-	width: 100%;
+	margin-right: -10000px;
+	width: 82.89%;
+	left: 17.12%;
 }
 
 #u98
@@ -370,27 +344,64 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#pu8305-81
+#u10462
+{
+	z-index: 87;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 0.41%;
+}
+
+#u10467
+{
+	z-index: 88;
+	width: 50px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 79px;
+	left: 1.28%;
+}
+
+#u10821
 {
 	z-index: 89;
-	margin-top: 10px;
-	width: 99.6%;
-	margin-left: 0.09%;
+	min-height: 604px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 151px;
+	width: 20.06%;
+}
+
+#u10826-4
+{
+	z-index: 90;
+	min-height: 130px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 331px;
+	width: 9.43%;
+	left: 3.01%;
 }
 
 #u8305-81
 {
-	z-index: 89;
+	z-index: 95;
 	min-height: 701px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	width: 100%;
+	margin-top: 44px;
+	width: 82.56%;
+	left: 17.18%;
 }
 
 #u8308
 {
-	z-index: 170;
+	z-index: 176;
 	width: 378px;
 	min-height: 147px;
 	border-width: 0px;
@@ -398,8 +409,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 400px;
-	left: 1.62%;
+	margin-top: 444px;
+	left: 18.52%;
 }
 
 #pamphletu8180
@@ -812,7 +823,7 @@
 
 #menuu9444
 {
-	z-index: 172;
+	z-index: 178;
 	margin-top: 262px;
 	position: relative;
 	width: 62.35%;
@@ -1050,7 +1061,7 @@
 
 #pu9310
 {
-	z-index: 171;
+	z-index: 177;
 	margin-top: 41px;
 	width: 47.05%;
 	margin-left: 52.96%;
@@ -1058,7 +1069,7 @@
 
 #u9310
 {
-	z-index: 171;
+	z-index: 177;
 	width: 380px;
 	min-height: 450px;
 	border-width: 0px;
@@ -1071,7 +1082,7 @@
 
 #menuu9318
 {
-	z-index: 197;
+	z-index: 203;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -1161,6 +1172,17 @@
 	cursor: pointer;
 }
 
+#u10829
+{
+	z-index: 94;
+	min-height: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 237px;
+	width: 11.12%;
+	left: 87.5%;
+}
+
 .css_verticalspacer .verticalspacer
 {
 	height: calc(100vh - 1318px);
@@ -1182,5 +1204,4 @@ body
 {
 	width: 100%;
 }
-
 
