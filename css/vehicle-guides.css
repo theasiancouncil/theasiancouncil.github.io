@@ -1,7 +1,7 @@
 .version.vehicle_guides /* version checker */
 {
-	color: #0000F7;
-	background-color: #270A18;
+	color: #0000FD;
+	background-color: #EF22EF;
 }
 
 #muse_css_mq
@@ -375,20 +375,9 @@
 	width: 20.05%;
 }
 
-#u10826-4
-{
-	z-index: 90;
-	min-height: 130px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 331px;
-	width: 9.42%;
-	left: 3.01%;
-}
-
 #u2941-4
 {
-	z-index: 95;
+	z-index: 91;
 	min-height: 601px;
 	background-color: transparent;
 	position: relative;
@@ -809,7 +798,7 @@
 
 #menuu9859
 {
-	z-index: 99;
+	z-index: 95;
 	margin-top: 211px;
 	position: relative;
 	width: 71.99%;
@@ -1047,7 +1036,7 @@
 
 #u10829
 {
-	z-index: 94;
+	z-index: 90;
 	min-height: 100px;
 	position: relative;
 	margin-right: -10000px;

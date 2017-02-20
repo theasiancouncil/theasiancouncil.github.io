@@ -1,7 +1,7 @@
 .version.school /* version checker */
 {
-	color: #0000FF;
-	background-color: #1850D4;
+	color: #000009;
+	background-color: #E6ECDF;
 }
 
 #muse_css_mq
@@ -376,20 +376,9 @@
 	width: 19.99%;
 }
 
-#u10826-4
-{
-	z-index: 90;
-	min-height: 130px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 331px;
-	width: 9.4%;
-	left: 3%;
-}
-
 #u184-88
 {
-	z-index: 95;
+	z-index: 91;
 	min-height: 343px;
 	background-color: transparent;
 	position: relative;
@@ -828,7 +817,7 @@
 
 #menuu9444
 {
-	z-index: 205;
+	z-index: 201;
 	margin-top: 262px;
 	position: relative;
 	width: 96.26%;
@@ -1066,7 +1055,7 @@
 
 #u10427
 {
-	z-index: 185;
+	z-index: 181;
 	width: 565px;
 	min-height: 109px;
 	border-width: 0px;
@@ -1090,14 +1079,14 @@
 
 #pu10498
 {
-	z-index: 186;
+	z-index: 182;
 	width: 61.81%;
 	margin-left: 18.75%;
 }
 
 #u10498
 {
-	z-index: 186;
+	z-index: 182;
 	min-height: 604px;
 	border-width: 0px;
 	border-color: transparent;
@@ -1110,7 +1099,7 @@
 
 #menuu10502
 {
-	z-index: 187;
+	z-index: 183;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -1159,7 +1148,7 @@
 
 #menuu10632
 {
-	z-index: 193;
+	z-index: 189;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -1204,7 +1193,7 @@
 
 #menuu10762
 {
-	z-index: 199;
+	z-index: 195;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -1265,7 +1254,7 @@
 
 #u2115
 {
-	z-index: 183;
+	z-index: 179;
 	background-color: transparent;
 	margin-top: 107px;
 	position: relative;
@@ -1274,7 +1263,7 @@
 
 #u10829
 {
-	z-index: 94;
+	z-index: 90;
 	min-height: 100px;
 	position: relative;
 	margin-right: -10000px;

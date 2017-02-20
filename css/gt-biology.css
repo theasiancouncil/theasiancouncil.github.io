@@ -1,7 +1,7 @@
 .version.gt_biology /* version checker */
 {
-	color: #0000E1;
-	background-color: #204B82;
+	color: #0000FC;
+	background-color: #5B6BB9;
 }
 
 #muse_css_mq
@@ -384,20 +384,9 @@
 	width: 20.06%;
 }
 
-#u10826-4
-{
-	z-index: 90;
-	min-height: 130px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 331px;
-	width: 9.43%;
-	left: 3.01%;
-}
-
 #u8331-40
 {
-	z-index: 95;
+	z-index: 91;
 	min-height: 592px;
 	background-color: transparent;
 	position: relative;
@@ -818,7 +807,7 @@
 
 #menuu9444
 {
-	z-index: 135;
+	z-index: 131;
 	margin-top: 262px;
 	position: relative;
 	width: 96.26%;
@@ -1056,7 +1045,7 @@
 
 #u10829
 {
-	z-index: 94;
+	z-index: 90;
 	min-height: 100px;
 	position: relative;
 	margin-right: -10000px;

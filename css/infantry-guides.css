@@ -1,7 +1,7 @@
 .version.infantry_guides /* version checker */
 {
-	color: #0000F2;
-	background-color: #A7C29A;
+	color: #00000D;
+	background-color: #8EE3AD;
 }
 
 #muse_css_mq
@@ -375,20 +375,9 @@
 	width: 20.06%;
 }
 
-#u10826-4
-{
-	z-index: 90;
-	min-height: 130px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 331px;
-	width: 9.43%;
-	left: 3.01%;
-}
-
 #u2815-5
 {
-	z-index: 95;
+	z-index: 91;
 	min-height: 514px;
 	background-color: transparent;
 	position: relative;
@@ -809,7 +798,7 @@
 
 #menuu9690
 {
-	z-index: 100;
+	z-index: 96;
 	margin-top: 211px;
 	position: relative;
 	width: 65.48%;
@@ -997,7 +986,7 @@
 
 #u10829
 {
-	z-index: 94;
+	z-index: 90;
 	min-height: 100px;
 	position: relative;
 	margin-right: -10000px;

@@ -1,7 +1,7 @@
 .version.cavalry /* version checker */
 {
-	color: #0000F5;
-	background-color: #00E62C;
+	color: #000009;
+	background-color: #281773;
 }
 
 #muse_css_mq
@@ -376,20 +376,9 @@
 	width: 20.06%;
 }
 
-#u10826-4
-{
-	z-index: 90;
-	min-height: 130px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 331px;
-	width: 9.43%;
-	left: 3.01%;
-}
-
 #u2755-84
 {
-	z-index: 95;
+	z-index: 91;
 	min-height: 528px;
 	background-color: transparent;
 	position: relative;
@@ -827,7 +816,7 @@
 
 #menuu9859
 {
-	z-index: 179;
+	z-index: 175;
 	margin-top: 211px;
 	position: relative;
 	width: 71.99%;
@@ -1065,7 +1054,7 @@
 
 #u10829
 {
-	z-index: 94;
+	z-index: 90;
 	min-height: 100px;
 	position: relative;
 	margin-right: -10000px;

@@ -1,7 +1,7 @@
 .version.pirating /* version checker */
 {
-	color: #0000FA;
-	background-color: #6FB2E9;
+	color: #000015;
+	background-color: #8EDC0C;
 }
 
 #muse_css_mq
@@ -388,20 +388,9 @@
 	width: 20.09%;
 }
 
-#u10826-4
-{
-	z-index: 90;
-	min-height: 130px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 274px;
-	width: 9.44%;
-	left: 3.02%;
-}
-
 #u2266-53
 {
-	z-index: 95;
+	z-index: 91;
 	min-height: 442px;
 	background-color: transparent;
 	position: relative;
@@ -820,7 +809,7 @@
 
 #menuu9547
 {
-	z-index: 148;
+	z-index: 144;
 	margin-top: 211px;
 	position: relative;
 	width: 93.98%;
@@ -958,7 +947,7 @@
 
 #u10829
 {
-	z-index: 94;
+	z-index: 90;
 	min-height: 100px;
 	position: relative;
 	margin-right: -10000px;

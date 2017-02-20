@@ -1,7 +1,7 @@
 .version.autohotkey_scripts /* version checker */
 {
-	color: #0000EE;
-	background-color: #C83823;
+	color: #0000F8;
+	background-color: #9C530F;
 }
 
 #muse_css_mq
@@ -376,20 +376,9 @@
 	width: 20.05%;
 }
 
-#u10826-4
-{
-	z-index: 90;
-	min-height: 130px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 331px;
-	width: 9.42%;
-	left: 3.01%;
-}
-
 #u710-274
 {
-	z-index: 95;
+	z-index: 91;
 	min-height: 320px;
 	background-color: transparent;
 	position: relative;
@@ -815,7 +804,7 @@
 
 #menuu9547
 {
-	z-index: 369;
+	z-index: 365;
 	margin-top: 211px;
 	position: relative;
 	width: 93.98%;
@@ -953,7 +942,7 @@
 
 #u10829
 {
-	z-index: 94;
+	z-index: 90;
 	min-height: 100px;
 	position: relative;
 	margin-right: -10000px;

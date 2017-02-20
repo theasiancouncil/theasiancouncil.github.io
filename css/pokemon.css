@@ -1,7 +1,7 @@
 .version.pokemon /* version checker */
 {
-	color: #000002;
-	background-color: #FF5632;
+	color: #000011;
+	background-color: #2A1DC5;
 }
 
 #muse_css_mq
@@ -384,20 +384,9 @@
 	width: 20.06%;
 }
 
-#u10826-4
-{
-	z-index: 90;
-	min-height: 130px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 331px;
-	width: 9.43%;
-	left: 3.01%;
-}
-
 #u2146-59
 {
-	z-index: 95;
+	z-index: 91;
 	min-height: 534px;
 	background-color: transparent;
 	position: relative;
@@ -817,7 +806,7 @@
 
 #menuu9608
 {
-	z-index: 154;
+	z-index: 150;
 	width: 591px;
 	margin-top: 212px;
 	position: relative;
@@ -1005,7 +994,7 @@
 
 #u10829
 {
-	z-index: 94;
+	z-index: 90;
 	min-height: 100px;
 	position: relative;
 	margin-right: -10000px;
