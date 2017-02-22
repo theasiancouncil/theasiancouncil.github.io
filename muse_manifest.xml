@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1487728457935">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1487732297557">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="458430596" ref="phone>secret:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>gt-biology:phone>aphg"/>
@@ -6,7 +6,7 @@
       <file name="games.css" crc="3930149120" ref="phone>games"/>
       <file name="combat.css" crc="510766598" ref="phone>combat"/>
       <file name="guns.css" crc="3800443497" ref="phone>guns"/>
-      <file name="index.css" crc="4077732442" ref="phone>index"/>
+      <file name="index.css" crc="4282219446" ref="phone>index"/>
       <file name="airplane-guide.css" crc="510766598" ref="phone>airplane-guide"/>
       <file name="scout.css" crc="3988991474" ref="phone>scout"/>
       <file name="tier-list.css" crc="510766598" ref="phone>tier-list"/>
@@ -22,11 +22,11 @@
       <file name="gt-biology.css" crc="511617106" ref="phone>gt-biology"/>
       <file name="aphg.css" crc="3850001960" ref="phone>aphg"/>
     </folder>
-    <file name="index.html" crc="3993954741" seo="true" mt="1487541765099" redirect="true"/>
+    <file name="index.html" crc="4207696407" seo="true" mt="1487732184419" redirect="true"/>
     <file name="secret.html" crc="522450232" seo="true" mt="1487541765099" redirect="true"/>
     <file name="school.html" crc="104652582" seo="true" mt="1487541765099" redirect="true"/>
     <file name="spanish-cheats.html" crc="112507667" seo="true" mt="1487541765099" redirect="true"/>
-    <file name="english-cheats.html" crc="535132462" seo="true" mt="1487541765099" redirect="true"/>
+    <file name="english-cheats.html" crc="535132462" seo="true" mt="1487732231015" redirect="true"/>
     <file name="games.html" crc="4162315519" seo="true" mt="1487541765099" redirect="true"/>
     <file name="battlefield.html" crc="4095632780" seo="true" mt="1487541765099" redirect="true"/>
     <file name="scout.html" crc="4227866140" seo="true" mt="1487541765099" redirect="true"/>
