@@ -1,7 +1,7 @@
 .version.spanish_cheats /* version checker */
 {
-	color: #0000E6;
-	background-color: #5DC2C5;
+	color: #0000FE;
+	background-color: #E373DE;
 }
 
 #muse_css_mq
@@ -790,10 +790,9 @@
 #pu6144
 {
 	z-index: 33;
-	padding-bottom: 1px;
 	margin-right: -10000px;
 	margin-top: -195px;
-	width: 36.95%;
+	width: 51.06%;
 	margin-left: 33.12%;
 }
 
@@ -801,7 +800,7 @@
 {
 	z-index: 33;
 	position: relative;
-	width: 92.34%;
+	width: 66.82%;
 }
 
 #menuu9444
@@ -809,8 +808,8 @@
 	z-index: 408;
 	margin-top: 262px;
 	position: relative;
-	width: 88.88%;
-	margin-left: 1.36%;
+	width: 64.31%;
+	margin-left: 0.98%;
 }
 
 #u9452
@@ -1045,15 +1044,15 @@
 #u10810
 {
 	z-index: 407;
-	height: 304px;
+	height: 498px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	max-width: 100000px;
-	margin-top: 84px;
+	margin-top: 10px;
 	position: relative;
-	width: 81.21%;
-	margin-left: 18.8%;
+	width: 92.93%;
+	margin-left: 7.08%;
 }
 
 .css_verticalspacer .verticalspacer
@@ -1077,4 +1076,5 @@ body
 {
 	width: 100%;
 }
+
 
