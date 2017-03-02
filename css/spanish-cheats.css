@@ -1,7 +1,7 @@
 .version.spanish_cheats /* version checker */
 {
-	color: #000016;
-	background-color: #F78A81;
+	color: #0000F1;
+	background-color: #D5C5D8;
 }
 
 #muse_css_mq
@@ -35,55 +35,30 @@
 	left: 22px;
 }
 
-#pu10462
-{
-	z-index: 36;
-	margin-right: -10000px;
-	margin-top: 64px;
-	width: 3.51%;
-	margin-left: 1.56%;
-}
-
 #u10462
 {
 	z-index: 36;
 	width: 60px;
 	min-height: 60px;
 	position: relative;
-}
-
-#u10467
-{
-	z-index: 37;
-	width: 50px;
-	min-height: 25px;
-	margin-top: 16px;
-	position: relative;
-	margin-left: 20.64%;
-}
-
-#pu11188
-{
-	z-index: 38;
 	margin-right: -10000px;
-	margin-top: -49px;
+	margin-top: 64px;
+	left: 1.56%;
+}
+
+#pmenuu97
+{
+	z-index: 2;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 61px;
 	width: 68.95%;
 	margin-left: 15.39%;
-}
-
-#u11188
-{
-	z-index: 38;
-	min-height: 100px;
-	position: relative;
-	width: 58.67%;
-	margin-left: 16.77%;
 }
 
 #menuu97
 {
 	z-index: 2;
-	margin-top: 10px;
 	position: relative;
 	width: 99.92%;
 	margin-left: 0.09%;
@@ -391,10 +366,10 @@
 
 #u353-369
 {
-	z-index: 39;
+	z-index: 37;
 	min-height: 400px;
 	background-color: transparent;
-	margin-top: 21px;
+	margin-top: 20px;
 	position: relative;
 	width: 99.92%;
 }
@@ -406,7 +381,7 @@
 
 #pamphletu8180
 {
-	z-index: 434;
+	z-index: 432;
 	width: 0.01px;
 	height: 144px;
 	position: fixed;
@@ -422,12 +397,12 @@
 
 #u8181popup
 {
-	z-index: 435;
+	z-index: 433;
 }
 
 #u8182
 {
-	z-index: 436;
+	z-index: 434;
 	width: 1159px;
 	height: 144px;
 	margin-right: -10000px;
@@ -436,14 +411,14 @@
 
 #pbuttonu8187
 {
-	z-index: 465;
+	z-index: 463;
 	width: 0.01px;
 	margin-right: -10000px;
 }
 
 #buttonu8187
 {
-	z-index: 465;
+	z-index: 463;
 	width: 185px;
 	height: 143px;
 	position: relative;
@@ -452,7 +427,7 @@
 
 #u8188-4
 {
-	z-index: 466;
+	z-index: 464;
 	width: 122px;
 	min-height: 24px;
 }
@@ -471,7 +446,7 @@
 
 #u8189
 {
-	z-index: 470;
+	z-index: 468;
 	width: 17px;
 }
 
@@ -493,7 +468,7 @@
 
 #pbuttonu8192
 {
-	z-index: 456;
+	z-index: 454;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 186px;
@@ -501,7 +476,7 @@
 
 #buttonu8192
 {
-	z-index: 456;
+	z-index: 454;
 	width: 185px;
 	height: 143px;
 	position: relative;
@@ -510,7 +485,7 @@
 
 #u8195-4
 {
-	z-index: 457;
+	z-index: 455;
 	width: 122px;
 	min-height: 24px;
 }
@@ -529,7 +504,7 @@
 
 #u8193
 {
-	z-index: 461;
+	z-index: 459;
 	width: 17px;
 }
 
@@ -551,7 +526,7 @@
 
 #pbuttonu8183
 {
-	z-index: 438;
+	z-index: 436;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 372px;
@@ -559,7 +534,7 @@
 
 #buttonu8183
 {
-	z-index: 438;
+	z-index: 436;
 	width: 185px;
 	height: 143px;
 	position: relative;
@@ -568,7 +543,7 @@
 
 #u8186-4
 {
-	z-index: 439;
+	z-index: 437;
 	width: 122px;
 	min-height: 24px;
 }
@@ -587,7 +562,7 @@
 
 #u8184
 {
-	z-index: 443;
+	z-index: 441;
 	width: 17px;
 }
 
@@ -609,7 +584,7 @@
 
 #pbuttonu8196
 {
-	z-index: 447;
+	z-index: 445;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 558px;
@@ -617,7 +592,7 @@
 
 #buttonu8196
 {
-	z-index: 447;
+	z-index: 445;
 	width: 185px;
 	height: 143px;
 	position: relative;
@@ -638,7 +613,7 @@
 
 #u8199-4
 {
-	z-index: 448;
+	z-index: 446;
 	width: 122px;
 	min-height: 24px;
 }
@@ -674,7 +649,7 @@
 
 #u8197
 {
-	z-index: 452;
+	z-index: 450;
 	width: 17px;
 }
 
@@ -711,7 +686,7 @@
 
 #u8191
 {
-	z-index: 473;
+	z-index: 471;
 	width: 413px;
 	height: 144px;
 	position: relative;
@@ -721,7 +696,7 @@
 
 #u8279-4
 {
-	z-index: 474;
+	z-index: 472;
 	min-height: 39px;
 	position: relative;
 	margin-right: -10000px;
@@ -732,7 +707,7 @@
 
 #u8207
 {
-	z-index: 478;
+	z-index: 476;
 	width: 72px;
 	padding-bottom: 144px;
 	position: relative;
@@ -758,7 +733,7 @@
 
 #u8209
 {
-	z-index: 480;
+	z-index: 478;
 	width: 39px;
 	position: relative;
 	margin-right: -10000px;
@@ -788,7 +763,7 @@
 
 #u8205
 {
-	z-index: 483;
+	z-index: 481;
 	width: 60px;
 	position: relative;
 	margin-right: -10000px;
@@ -814,7 +789,7 @@
 
 #menuu9444
 {
-	z-index: 409;
+	z-index: 407;
 	margin-top: 262px;
 	position: relative;
 	width: 64.31%;
@@ -1052,7 +1027,7 @@
 
 #u10810
 {
-	z-index: 408;
+	z-index: 406;
 	height: 498px;
 	border-width: 0px;
 	border-color: transparent;
