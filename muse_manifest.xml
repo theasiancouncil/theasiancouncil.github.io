@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1488497880893">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1488762181226">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="458430596" ref="phone>secret:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>gt-biology:phone>aphg"/>
@@ -53,7 +53,7 @@
     <file name="ap-unit-7-ki-3-4-review.docx" crc="4273721686" seo="true" mt="1486784226000"/>
     <file name="spanish-flag.png" crc="4011490319" seo="true" mt="1487555349000"/>
     <file name="ap-unit-7-chapter-13-ki-1-2-review--by-jeff.docx" crc="4290363932" seo="true" mt="1487825218000"/>
-    <file name="the-world-urban-hierarchy-shit.docx" crc="4284104556" seo="true" mt="1488340832000"/>
+    <file name="the-world-urban-hierarchy-shit.docx" crc="66952907" seo="true" mt="1488732342000"/>
     <file name="actual-ap-unit-7-full-review.docx" crc="519242429" seo="true" mt="1488423553000"/>
   </folder>
   <folder name="images">
@@ -73,7 +73,7 @@
     <file name="pointer.png" crc="3760686964" seo="true" ref="index:school:misc:games:spanish-cheats:english-cheats:autohotkey-scripts:pirating:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:gt-biology:secret:about:online-class"/>
     <file name="close_light.png" crc="126613487" seo="true" ref="index:school:misc:games:spanish-cheats:english-cheats:autohotkey-scripts:pirating:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:gt-biology:secret:about:online-class"/>
     <file name="menu_icon_04_white_3line-crop-u8209.png" crc="4113681886" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:gt-biology:secret:about:online-class"/>
-    <file name="favicon.ico" crc="500211491" ref="index"/>
+    <file name="favicon.ico" crc="500211491" ref="index:aphg"/>
     <file name="fashion-man-person-beach-large.jpg" crc="4250478044" ref="about"/>
     <file name="person-holiday-vacation-woman-large.jpg" crc="3922162110" ref="about"/>
     <file name="sea-beach-holiday-vacation-large.jpg" crc="91167421" ref="about"/>
@@ -104,7 +104,7 @@
     <file name="combat.css" crc="311953555" ref="combat"/>
     <file name="tier-list.css" crc="290466829" ref="tier-list"/>
     <file name="gt-biology.css" crc="3947784514" ref="gt-biology"/>
-    <file name="aphg.css" crc="3781174628" ref="aphg"/>
+    <file name="aphg.css" crc="4015757850" ref="aphg"/>
     <file name="master_games-bf1-infantry.css" crc="513181882" ref="guns:scout:infantry-guides"/>
     <file name="master_games-civ.css" crc="4219933345" ref="combat:tier-list:civilization"/>
     <file name="master_school-master.css" crc="6927363" ref="spanish-cheats:gt-biology:aphg:english-cheats:school:online-class"/>
@@ -150,7 +150,7 @@
   <file name="civilization.html" crc="416878635" seo="true" mt="1488497757608" redirect="true"/>
   <file name="combat.html" crc="118338281" seo="true" mt="1488497757608" redirect="true"/>
   <file name="tier-list.html" crc="415339620" seo="true" mt="1488497757608" redirect="true"/>
-  <file name="aphg.html" crc="458791916" seo="true" mt="1488497757608" redirect="true"/>
+  <file name="aphg.html" crc="3977457006" seo="true" mt="1488762174203" redirect="true"/>
   <file name="gt-biology.html" crc="3796704543" seo="true" mt="1488497757608" redirect="true"/>
   <file name="secret.html" crc="256674127" seo="true" mt="1488497757608" redirect="true"/>
   <file name="about.html" crc="4183316398" seo="true" mt="1488497757608" redirect="true"/>
