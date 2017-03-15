@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1489017726959">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1489614128282">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="458430596" ref="phone>secret:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>gt-biology:phone>aphg"/>
@@ -20,7 +20,7 @@
       <file name="english-cheats.css" crc="286492400" ref="phone>english-cheats"/>
       <file name="cavalry.css" crc="510766598" ref="phone>cavalry"/>
       <file name="gt-biology.css" crc="511617106" ref="phone>gt-biology"/>
-      <file name="aphg.css" crc="3882665374" ref="phone>aphg"/>
+      <file name="aphg.css" crc="470176419" ref="phone>aphg"/>
     </folder>
     <file name="index.html" crc="4207696407" seo="true" mt="1487732184419" redirect="true"/>
     <file name="secret.html" crc="522450232" seo="true" mt="1487541765099" redirect="true"/>
@@ -40,7 +40,7 @@
     <file name="combat.html" crc="4204942193" seo="true" mt="1487541765099" redirect="true"/>
     <file name="tier-list.html" crc="3824246319" seo="true" mt="1487541765099" redirect="true"/>
     <file name="gt-biology.html" crc="406533319" seo="true" mt="1487541765099" redirect="true"/>
-    <file name="aphg.html" crc="4075340258" seo="true" mt="1488842543947" redirect="true"/>
+    <file name="aphg.html" crc="334577737" seo="true" mt="1489613967154" redirect="true"/>
   </folder>
   <folder name="assets">
     <file name="ender-s-game-review.docx" crc="407018635" seo="true" mt="1481507406000"/>
@@ -56,6 +56,9 @@
     <file name="the-world-urban-hierarchy-shit.docx" crc="66952907" seo="true" mt="1488732342000"/>
     <file name="actual-ap-unit-7-full-review.docx" crc="519242429" seo="true" mt="1488423553000"/>
     <file name="ap-urbanization-frq.docx" crc="4035140809" seo="true" mt="1488842346000"/>
+    <file name="ap-culture-and-stuff-guided-practice.docx" crc="518194837" seo="true" mt="1489108201000"/>
+    <file name="acculturation,-assimilation,-multiculturalism-guided-notes.docx" crc="248927805" seo="true" mt="1489109686000"/>
+    <file name="chapter-4-key-issues-1-2-review-d.docx" crc="4155565008" seo="true" mt="1489614105000"/>
   </folder>
   <folder name="images">
     <file name="rice man.jpg" crc="3931912603" seo="true" ref="school"/>
@@ -83,7 +86,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="209684137"/>
-    <file name="master_a-master.css" crc="535261833" ref="school:english-cheats:index:spanish-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns:infantry-guides:airplane-guide:vehicle-guides:cavalry:civilization:combat:tier-list:gt-biology:aphg:secret:about:online-class"/>
+    <file name="master_a-master.css" crc="3998402557" ref="school:english-cheats:index:spanish-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns:infantry-guides:airplane-guide:vehicle-guides:cavalry:civilization:combat:tier-list:gt-biology:aphg:secret:about:online-class"/>
     <file name="school.css" crc="17110111" ref="school"/>
     <file name="english-cheats.css" crc="3758767272" ref="english-cheats"/>
     <file name="index.css" crc="45912931" ref="index"/>
@@ -105,10 +108,10 @@
     <file name="combat.css" crc="311953555" ref="combat"/>
     <file name="tier-list.css" crc="290466829" ref="tier-list"/>
     <file name="gt-biology.css" crc="3947784514" ref="gt-biology"/>
-    <file name="aphg.css" crc="3799064692" ref="aphg"/>
+    <file name="aphg.css" crc="239977165" ref="aphg"/>
     <file name="master_games-bf1-infantry.css" crc="513181882" ref="guns:scout:infantry-guides"/>
     <file name="master_games-civ.css" crc="4219933345" ref="combat:tier-list:civilization"/>
-    <file name="master_school-master.css" crc="4014483611" ref="spanish-cheats:gt-biology:aphg:english-cheats:school:online-class"/>
+    <file name="master_school-master.css" crc="4267163416" ref="spanish-cheats:gt-biology:aphg:english-cheats:school:online-class"/>
     <file name="master_games-bf1-vehicle.css" crc="4186753660" ref="tanker:airplane-guide:vehicle-guides:cavalry"/>
     <file name="master_games-opening-master.css" crc="304543979" ref="games:pokemon"/>
     <file name="master_misc-master.css" crc="280247566" ref="pirating:autohotkey-scripts:misc"/>
@@ -151,7 +154,7 @@
   <file name="civilization.html" crc="416878635" seo="true" mt="1488497757608" redirect="true"/>
   <file name="combat.html" crc="118338281" seo="true" mt="1488497757608" redirect="true"/>
   <file name="tier-list.html" crc="415339620" seo="true" mt="1488497757608" redirect="true"/>
-  <file name="aphg.html" crc="4118606523" seo="true" mt="1488842517066" redirect="true"/>
+  <file name="aphg.html" crc="3955179723" seo="true" mt="1489613948139" redirect="true"/>
   <file name="gt-biology.html" crc="3796704543" seo="true" mt="1488497757608" redirect="true"/>
   <file name="secret.html" crc="256674127" seo="true" mt="1488497757608" redirect="true"/>
   <file name="about.html" crc="4183316398" seo="true" mt="1488497757608" redirect="true"/>
