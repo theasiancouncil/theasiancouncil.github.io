@@ -1,7 +1,7 @@
 .version.aphg /* version checker */
 {
-	color: #00001C;
-	background-color: #0652A3;
+	color: #0000F9;
+	background-color: #753245;
 }
 
 #muse_css_mq
@@ -270,6 +270,11 @@
 	margin-right: -10000px;
 	width: 96.58%;
 	left: 1.58%;
+}
+
+#u8933-35
+{
+	font-weight: bold;
 }
 
 #u8937
@@ -549,7 +554,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1752px);
+	height: calc(100vh - 1735px);
 }
 
 .html
