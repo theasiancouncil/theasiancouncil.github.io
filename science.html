@@ -10,23 +10,23 @@
    // Redirect to phone/tablet as necessary
 (function(a,b,c){var d=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var f=a[b]+"MaxTouchPoints";if(f in navigator&&navigator[f])return!0}try{return document.createEvent("TouchEvent"),!0}catch(d){}return!1}(),g=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var f=b[c];f.charAt(0)==" ";)f=f.substring(1,f.length);if(f.indexOf(a)==
 0)return f.substring(a.length,f.length)}return null};if(g("inbrowserediting")!="true"){var f,g=g("devicelock");g=="phone"&&c?f=c:g=="tablet"&&b&&(f=b);if(g!=a&&!f)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&c?f=c:window.matchMedia("(max-device-width: 960px)").matches&&b&&d&&(f=b);else{var a=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),g=window.screen.systemXDPI||0,i=window.screen.systemYDPI||0,g=g>0&&i>0?Math.min(screen.width/g,screen.height/i):
-0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone/gt-biology.html");
+0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone/science.html");
 
 // Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "require.js", "gt-biology.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "require.js", "science.css"], "outOfDate":[]};
 </script>
   
-  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://theasiancouncil.github.io/phone/gt-biology.html"/>
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://theasiancouncil.github.io/phone/science.html"/>
   <link rel="shortcut icon" href="images/favicon.ico?crc=500211491"/>
-  <title>GT Biology</title>
+  <title>science</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=209684137"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=535261833"/>
-  <link rel="stylesheet" type="text/css" href="css/master_school-master.css?crc=4014483611"/>
-  <link rel="stylesheet" type="text/css" href="css/gt-biology.css?crc=3947784514" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=45466707"/>
+  <link rel="stylesheet" type="text/css" href="css/master_school-master.css?crc=3987475980"/>
+  <link rel="stylesheet" type="text/css" href="css/science.css?crc=83172592" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -69,6 +69,143 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <div class="size_fixed grpelem" id="u10462"><!-- custom html -->
       
    </div>
+   <div class="size_fixed grpelem" id="u11261"><!-- custom html -->
+    
+		<script src="https://code.jquery.com/jquery-2.2.1.js"></script>		
+		<div id="popup-cookie-contenedor" style="display: block;">
+		  <a class="close">OK</a>
+			<div id="popup-cookie-window">
+			  <div class="splash-bg">
+				<a href="#" class="your-class"></a>
+				<div class='cookiemsg'>Latest update: 3/20/17: I have added the lactose packet answers  <span style='color:white;padding-left:12px'>|</span> <h5><a href='science.html' target='_self'>here</a></h5></div>
+			  </div>
+		  </div>
+		  
+		</div>
+		<style>
+		@media only screen and (max-width: 767px) {
+			#popup-cookie-contenedor .cookiemsg{
+				font-size:12px!important;
+				line-height:12px!important;
+				padding: 14px;
+			}
+			#popup-cookie-contenedor h5 a{
+				font-size:11px!important;
+				line-height:11px!important;
+			}
+			#popup-cookie-contenedor a.close {
+				font-size: 14px!important;
+				padding: 2px 4px 2px 5px!important;
+			}
+		}
+		@media only screen and (max-width: 567px) {
+			#popup-cookie-contenedor .cookiemsg{
+				font-size:10px!important;
+				line-height:10px!important;
+			}
+			#popup-cookie-contenedor h5 a{
+				font-size:9px!important;
+				line-height:9px!important;
+			}
+			#popup-cookie-contenedor a.close {
+				font-size: 12px!important;
+				padding: 2px 3px 2px 4px!important;
+				top:-5px!important;
+			}
+		}
+		@media only screen and (max-width: 400px) {
+			#popup-cookie-contenedor .cookiemsg{
+				font-size:9px!important;
+				line-height:9px!important;
+			}
+			#popup-cookie-contenedor h5 a{
+				font-size:8px!important;
+				line-height:8px!important;
+			}
+			#popup-cookie-contenedor a.close {
+				font-size: 10px!important;
+				padding: 2px 2px 2px 3px!important;
+			}
+		}
+		#active {
+		  background-color: rgba({param_mainbackgroundColor});
+		  position: absolute;
+		  width: 100%;
+		  heighT: 100% !important;
+		  top: 0;
+		  left: 0;
+		  z-index: 999;
+		}
+		#popup-cookie-contenedor .cookiemsg{
+			color:#DC3D24;
+			font-size:14px;
+			line-height:14px;
+			padding: 17px;
+		}
+		#popup-cookie-contenedor h5{
+			color:#E3AE57;
+			font-size:12px;
+			padding: 10px;
+			display: inline;
+		}
+		#popup-cookie-contenedor h5 a{
+			color:#E3AE57;
+			font-size:14px;
+			padding: 10px;
+			display: inline;
+		}
+		#popup-cookie-contenedor {
+		  box-shadow: 10px 10px 5px #888888;	
+		  margin: 0 auto;
+		  text-align:center;
+		  z-index: 999;
+		  display: none;
+		  background: #232B2B;
+		  position:fixed;
+		  height:52px;
+		  bottom:0px;
+		  left:0px;
+		  right:0px;
+		  margin-bottom:0px;
+		}
+		.modal-content {
+		  position: relative;
+		  text-align: center;
+		}
+
+		#popup-cookie-window {     
+		  position: relative; 
+		}
+		.modal-content h1,
+		.modal-content p { color: #fff; }
+		.modal-content p { padding: 20% 5% 0 5%; }
+		#popup-cookie-contenedor a.close {
+		  position: relative;
+		  float: right;
+		  top: 13px;
+		  margin-right:5px;
+		  z-index: 99;
+		  font-weight: bold;
+		  font-size: 16px;
+		  -webkit-border-radius: 5px;
+		  -moz-border-radius: 5px;
+		  border-radius: 5px;
+		  padding: 2px 5px 2px 6px;
+		  line-height: 1em;
+		  text-align: center;
+		  background: #E74C3C;
+		  border: 4px solid #E74C3C;
+		  cursor: pointer;
+		  color:#fff;
+		}
+		
+		.hidesafari{
+			display:none!important;
+		}
+		</style>
+
+		
+   </div>
    <div class="clearfix grpelem" id="pmenuu97"><!-- column -->
     <nav class="MenuBar clearfix colelem" id="menuu97"><!-- horizontal box -->
      <div class="MenuItemContainer borderbox clearfix grpelem" id="u98"><!-- vertical box -->
@@ -87,7 +224,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u10155" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u10157-4"><!-- content --><p>About</p></div></a>
      </div>
     </nav>
-    <div class="clearfix colelem" id="u8331-40"><!-- content -->
+    <div class="clearfix colelem" id="u8331-43"><!-- content -->
      <p>Welcome to GT Biology! The class where you probably learn the most out of all your other classes.</p>
      <p>Thats a lot of information!</p>
      <p>Therefore all of the important information you will need to know will be compiled in Quizlets here.</p>
@@ -109,6 +246,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <p>&nbsp;</p>
      <p>&nbsp;</p>
      <p>&nbsp;</p>
+     <p><a class="nonblock" href="assets/lactase_pedigrees_patterns_inheritance_teacher.pdf">Lactose intolerance worksheet answers</a></p>
      <p>&nbsp;</p>
      <p><a class="nonblock" href="https://quizlet.com/185463405/cell-cycle-flashcards-etc-flash-cards/">2/13/17 cancer and mitosis and meiosis test review quizlet</a></p>
      <p>&nbsp;</p>
@@ -174,7 +312,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u9455" href="aphg.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u9458-4"><!-- content --><p>AP Human Geography</p></div></a>
      </div>
      <div class="MenuItemContainer borderbox clearfix colelem" id="u9459"><!-- horizontal box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix grpelem" id="u9460" href="gt-biology.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u9463-4"><!-- content --><p>GT Biology</p></div></a>
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix grpelem" id="u9460" href="science.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u9463-4"><!-- content --><p>GT Biology</p></div></a>
      </div>
      <div class="MenuItemContainer borderbox clearfix colelem" id="u9466"><!-- horizontal box -->
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u9467" href="english-cheats.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u9469-4"><!-- content --><p>English</p></div></a>
@@ -230,5 +368,111 @@ for(i=0; i < 300; i++) {
 				console.log("Google Analytics - Version 1.0 - MuseThemes.com");
 			</script>
 		
+					<script>
+					
+					// cookie.js file
+					var cookieToday = new Date(); 
+					var expiryDate = new Date(cookieToday.getTime() + (365 * 86400000)); // a year
+
+					/* Cookie functions originally by Bill Dortsch */
+
+					function setCookie (name,value,expires,path,theDomain,secure) { 
+					   value = escape(value);
+					   var theCookie = name + "=" + value + 
+					   ((expires)    ? "; expires=" + expires.toGMTString() : "") + 
+					   ((path)       ? "; path="    + path   : "") + 
+					   ((theDomain)  ? "; domain="  + theDomain : "") + 
+					   ((secure)     ? "; secure"            : ""); 
+					   document.cookie = theCookie;
+					} 
+
+					function getCookie(Name) { 
+					   var search = Name + "=" 
+					   if (document.cookie.length > 0) { // if there are any cookies 
+						  var offset = document.cookie.indexOf(search) 
+						  if (offset != -1) { // if cookie exists 
+							 offset += search.length 
+							 // set index of beginning of value 
+							 var end = document.cookie.indexOf(";", offset) 
+							 // set index of end of cookie value 
+							 if (end == -1) end = document.cookie.length 
+							 return unescape(document.cookie.substring(offset, end)) 
+						  } 
+					   } 
+					} 
+					function delCookie(name,path,domain) {
+					   if (getCookie(name)) document.cookie = name + "=" +
+						  ((path)   ? ";path="   + path   : "") +
+						  ((domain) ? ";domain=" + domain : "") +
+						  ";expires=Thu, 01-Jan-70 00:00:01 GMT";
+					}
+					
+					
+					
+					
+					
+					jQuery(document).ready(function(){  
+					
+						var visitszz = getCookie('visits');
+						if ((visitszz == 'NaN')||(visitszz == undefined)) { visitszz = 0; setCookie("visits",0,expiryDate,"/");}
+						//alert(visitszz);
+					
+					
+
+					  jQuery('#popup-cookie-contenedor a.close').click(function(){
+						  
+						  
+						  
+						  if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1)  { 
+							   jQuery('#popup-cookie-contenedor').removeAttr('style');
+							   jQuery('#popup-cookie-contenedor').addClass('hidesafari');
+							   
+							   jQuery('#active').removeAttr('style');
+							   jQuery('#active').addClass('hidesafari');
+							}
+							else {
+								jQuery('#popup-cookie-contenedor').fadeOut();
+								jQuery('#active').fadeOut();
+							}
+						  						  
+						  var visits = visitszz;
+							visits++;
+							//jQuery.cookie('visits', visits, { expires: 1, path: '/' });
+							//Cookies.set('visits', visits, { expires: 365, path: '/' });
+							setCookie("visits",visits,expiryDate,"/");
+					  });
+					  
+					  
+					  // var visitsOK = jQuery.cookie('visits');
+					   var visitsOK = visitszz; // => 'value'
+					   //alert(visitsOK);
+					   //alert(getCookie('visits'));
+					   
+					  if ( visitsOK > 0 ) {
+						jQuery('#popup-cookie-contenedor').hide();
+						
+						
+								if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1)  { 
+								   jQuery('#popup-cookie-contenedor').removeAttr('style');
+								   jQuery('#popup-cookie-contenedor').addClass('hidesafari');
+								   
+								   jQuery('#active').removeAttr('style');
+								   jQuery('#active').addClass('hidesafari');
+								}
+								else {
+										jQuery('#popup-cookie-contenedor').fadeOut();
+										jQuery('#active').fadeOut();
+									}
+						
+						
+						} else {
+							var pageHeight = jQuery(document).height();
+							jQuery('#popup-cookie-contenedor').show();
+						}
+					  
+		
+					}); 
+					</script>		
+				
    </body>
 </html>

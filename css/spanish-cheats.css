@@ -1,7 +1,7 @@
 .version.spanish_cheats /* version checker */
 {
-	color: #00001E;
-	background-color: #1CE79F;
+	color: #0000E6;
+	background-color: #CB339E;
 }
 
 #muse_css_mq
@@ -44,6 +44,17 @@
 	margin-right: -10000px;
 	margin-top: 64px;
 	left: 1.56%;
+}
+
+#u11261
+{
+	z-index: 527;
+	width: 40px;
+	min-height: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 323px;
+	left: 8.5%;
 }
 
 #pmenuu97

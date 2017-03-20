@@ -1,7 +1,7 @@
 .version.online_class /* version checker */
 {
-	color: #000018;
-	background-color: #71C921;
+	color: #000007;
+	background-color: #ABFD4F;
 }
 
 #muse_css_mq
@@ -44,6 +44,17 @@
 	margin-right: -10000px;
 	margin-top: 64px;
 	left: 1.56%;
+}
+
+#u11261
+{
+	z-index: 200;
+	width: 40px;
+	min-height: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 323px;
+	left: 8.5%;
 }
 
 #pmenuu97

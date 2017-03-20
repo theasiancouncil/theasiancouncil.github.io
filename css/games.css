@@ -1,7 +1,7 @@
 .version.games /* version checker */
 {
-	color: #0000EF;
-	background-color: #F91EA4;
+	color: #00001A;
+	background-color: #F0F424;
 }
 
 #muse_css_mq
@@ -55,6 +55,17 @@
 	margin-right: -10000px;
 	margin-top: 64px;
 	left: 1.56%;
+}
+
+#u11261
+{
+	z-index: 118;
+	width: 40px;
+	min-height: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 323px;
+	left: 8.5%;
 }
 
 #pmenuu97

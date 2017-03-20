@@ -1,7 +1,7 @@
 .version.scout /* version checker */
 {
-	color: #0000ED;
-	background-color: #C8C1FF;
+	color: #0000E9;
+	background-color: #E97DD8;
 }
 
 #muse_css_mq
@@ -410,6 +410,17 @@
 	margin-top: 776px;
 	width: 26.4%;
 	left: 3.29%;
+}
+
+#u11261
+{
+	z-index: 259;
+	width: 40px;
+	min-height: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 202px;
+	left: 4.75%;
 }
 
 #pamphletu8180

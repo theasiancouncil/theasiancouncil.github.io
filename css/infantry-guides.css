@@ -1,7 +1,7 @@
 .version.infantry_guides /* version checker */
 {
-	color: #0000E6;
-	background-color: #51CCED;
+	color: #00000D;
+	background-color: #E6C182;
 }
 
 #muse_css_mq
@@ -43,6 +43,17 @@
 	margin-right: -10000px;
 	margin-top: 64px;
 	left: 1.56%;
+}
+
+#u11261
+{
+	z-index: 112;
+	width: 40px;
+	min-height: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 323px;
+	left: 8.5%;
 }
 
 #pmenuu97

@@ -1,7 +1,7 @@
-.version.gt_biology /* version checker */
+.version.science /* version checker */
 {
-	color: #00001E;
-	background-color: #7EA852;
+	color: #0000F6;
+	background-color: #D22E4E;
 }
 
 #muse_css_mq
@@ -254,14 +254,14 @@
 	margin-top: 35px;
 }
 
-#pu8944-33
+#pu8944-36
 {
 	z-index: 24;
 	margin-top: 17px;
 	width: 100%;
 }
 
-#u8944-33
+#u8944-36
 {
 	z-index: 24;
 	min-height: 463px;
@@ -274,7 +274,7 @@
 
 #menuu9208
 {
-	z-index: 57;
+	z-index: 60;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -535,7 +535,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 732px);
+	height: calc(100vh - 745px);
 }
 
 .html
