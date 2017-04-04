@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1490049256687">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1491343556394">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="458430596" ref="phone>secret:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>aphg:phone>science"/>
@@ -79,7 +79,7 @@
     <file name="pointer.png" crc="3760686964" seo="true" ref="index:school:misc:games:spanish-cheats:english-cheats:autohotkey-scripts:pirating:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:secret:about:online-class:science"/>
     <file name="close_light.png" crc="126613487" seo="true" ref="index:school:misc:games:spanish-cheats:english-cheats:autohotkey-scripts:pirating:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:secret:about:online-class:science"/>
     <file name="menu_icon_04_white_3line-crop-u8209.png" crc="4113681886" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:secret:about:online-class:science"/>
-    <file name="favicon.ico" crc="500211491" ref="index"/>
+    <file name="favicon.ico" crc="500211491" ref="index:aphg"/>
     <file name="fashion-man-person-beach-large.jpg" crc="4250478044" ref="about"/>
     <file name="person-holiday-vacation-woman-large.jpg" crc="3922162110" ref="about"/>
     <file name="sea-beach-holiday-vacation-large.jpg" crc="91167421" ref="about"/>
@@ -88,7 +88,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="209684137"/>
-    <file name="master_a-master.css" crc="45466707" ref="school:english-cheats:index:spanish-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns:infantry-guides:airplane-guide:vehicle-guides:cavalry:civilization:combat:tier-list:aphg:secret:about:online-class:science"/>
+    <file name="master_a-master.css" crc="4076892455" ref="school:english-cheats:index:spanish-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns:infantry-guides:airplane-guide:vehicle-guides:cavalry:civilization:combat:tier-list:aphg:secret:about:online-class:science"/>
     <file name="school.css" crc="319227246" ref="school"/>
     <file name="english-cheats.css" crc="4055138191" ref="english-cheats"/>
     <file name="index.css" crc="3895387279" ref="index"/>
@@ -109,10 +109,10 @@
     <file name="civilization.css" crc="263065550" ref="civilization"/>
     <file name="combat.css" crc="64543058" ref="combat"/>
     <file name="tier-list.css" crc="217831547" ref="tier-list"/>
-    <file name="aphg.css" crc="504939259" ref="aphg"/>
+    <file name="aphg.css" crc="4234443195" ref="aphg"/>
     <file name="master_games-bf1-infantry.css" crc="513181882" ref="guns:scout:infantry-guides"/>
     <file name="master_games-civ.css" crc="4219933345" ref="combat:tier-list:civilization"/>
-    <file name="master_school-master.css" crc="3987475980" ref="spanish-cheats:aphg:english-cheats:school:online-class:science"/>
+    <file name="master_school-master.css" crc="313901858" ref="spanish-cheats:aphg:english-cheats:school:online-class:science"/>
     <file name="master_games-bf1-vehicle.css" crc="4186753660" ref="tanker:airplane-guide:vehicle-guides:cavalry"/>
     <file name="master_games-opening-master.css" crc="304543979" ref="games:pokemon"/>
     <file name="master_misc-master.css" crc="280247566" ref="pirating:autohotkey-scripts:misc"/>
@@ -156,7 +156,7 @@
   <file name="civilization.html" crc="4144522277" seo="true" mt="1490049195845" redirect="true"/>
   <file name="combat.html" crc="3796486532" seo="true" mt="1490049195845" redirect="true"/>
   <file name="tier-list.html" crc="64511519" seo="true" mt="1490049195845" redirect="true"/>
-  <file name="aphg.html" crc="125333317" seo="true" mt="1490049195845" redirect="true"/>
+  <file name="aphg.html" crc="3941214372" seo="true" mt="1491343387893" redirect="true"/>
   <file name="secret.html" crc="4040116834" seo="true" mt="1490049195845" redirect="true"/>
   <file name="about.html" crc="6878925" seo="true" mt="1490049195845" redirect="true"/>
   <file name="online-class.html" crc="4285546199" seo="true" mt="1490049195845" redirect="true"/>
