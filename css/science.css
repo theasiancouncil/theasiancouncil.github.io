@@ -1,7 +1,7 @@
 .version.science /* version checker */
 {
-	color: #000004;
-	background-color: #F51CF0;
+	color: #000003;
+	background-color: #F9CC95;
 }
 
 #muse_css_mq
@@ -12,37 +12,38 @@
 #page
 {
 	z-index: 1;
-	min-height: 500px;
+	min-height: 438px;
 	background-image: none;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
+	padding-bottom: 62px;
 	width: 100%;
 	max-width: 1800px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#u10452
-{
-	z-index: 35;
-	width: 1751px;
-	min-height: 884px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 117px;
-	left: 22px;
-}
-
 #u10462
 {
-	z-index: 36;
+	z-index: 35;
 	width: 60px;
 	min-height: 60px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 64px;
 	left: 1.56%;
+}
+
+#u11287
+{
+	z-index: 36;
+	width: 40px;
+	min-height: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 399px;
+	left: 89px;
 }
 
 #u11261
@@ -1032,7 +1033,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1505px);
+	height: calc(100vh - 957px);
 }
 
 .html
