@@ -1,7 +1,7 @@
 .version.spanish_cheats /* version checker */
 {
-	color: #000009;
-	background-color: #6340FD;
+	color: #000013;
+	background-color: #3AB933;
 }
 
 #muse_css_mq
@@ -24,37 +24,43 @@
 	margin-right: auto;
 }
 
+#pu10462
+{
+	z-index: 35;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 64px;
+	width: 4.73%;
+	margin-left: 1.56%;
+}
+
 #u10462
 {
 	z-index: 35;
 	width: 60px;
 	min-height: 60px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 64px;
-	left: 1.56%;
-}
-
-#u11287
-{
-	z-index: 36;
-	width: 40px;
-	min-height: 40px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 399px;
-	left: 89px;
 }
 
 #u11261
+{
+	z-index: 602;
+	width: 40px;
+	min-height: 40px;
+	margin-top: 199px;
+	position: relative;
+	margin-left: 52.95%;
+}
+
+#u11287
 {
 	z-index: 603;
 	width: 40px;
 	min-height: 40px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 323px;
-	left: 8.5%;
+	margin-top: 399px;
+	left: 89px;
 }
 
 #pmenuu97
@@ -377,7 +383,7 @@
 
 #u353-489
 {
-	z-index: 37;
+	z-index: 36;
 	min-height: 400px;
 	background-color: transparent;
 	margin-top: 20px;
@@ -392,7 +398,7 @@
 
 #pamphletu8180
 {
-	z-index: 552;
+	z-index: 551;
 	width: 0.01px;
 	height: 144px;
 	position: fixed;
@@ -408,12 +414,12 @@
 
 #u8181popup
 {
-	z-index: 553;
+	z-index: 552;
 }
 
 #u8182
 {
-	z-index: 554;
+	z-index: 553;
 	width: 1159px;
 	height: 144px;
 	margin-right: -10000px;
@@ -422,14 +428,14 @@
 
 #pbuttonu8187
 {
-	z-index: 583;
+	z-index: 582;
 	width: 0.01px;
 	margin-right: -10000px;
 }
 
 #buttonu8187
 {
-	z-index: 583;
+	z-index: 582;
 	width: 185px;
 	height: 143px;
 	position: relative;
@@ -438,7 +444,7 @@
 
 #u8188-4
 {
-	z-index: 584;
+	z-index: 583;
 	width: 122px;
 	min-height: 24px;
 }
@@ -457,7 +463,7 @@
 
 #u8189
 {
-	z-index: 588;
+	z-index: 587;
 	width: 17px;
 }
 
@@ -479,7 +485,7 @@
 
 #pbuttonu8192
 {
-	z-index: 574;
+	z-index: 573;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 186px;
@@ -487,7 +493,7 @@
 
 #buttonu8192
 {
-	z-index: 574;
+	z-index: 573;
 	width: 185px;
 	height: 143px;
 	position: relative;
@@ -496,7 +502,7 @@
 
 #u8195-4
 {
-	z-index: 575;
+	z-index: 574;
 	width: 122px;
 	min-height: 24px;
 }
@@ -515,7 +521,7 @@
 
 #u8193
 {
-	z-index: 579;
+	z-index: 578;
 	width: 17px;
 }
 
@@ -537,7 +543,7 @@
 
 #pbuttonu8183
 {
-	z-index: 556;
+	z-index: 555;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 372px;
@@ -545,7 +551,7 @@
 
 #buttonu8183
 {
-	z-index: 556;
+	z-index: 555;
 	width: 185px;
 	height: 143px;
 	position: relative;
@@ -554,7 +560,7 @@
 
 #u8186-4
 {
-	z-index: 557;
+	z-index: 556;
 	width: 122px;
 	min-height: 24px;
 }
@@ -573,7 +579,7 @@
 
 #u8184
 {
-	z-index: 561;
+	z-index: 560;
 	width: 17px;
 }
 
@@ -595,7 +601,7 @@
 
 #pbuttonu8196
 {
-	z-index: 565;
+	z-index: 564;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 558px;
@@ -603,7 +609,7 @@
 
 #buttonu8196
 {
-	z-index: 565;
+	z-index: 564;
 	width: 185px;
 	height: 143px;
 	position: relative;
@@ -624,7 +630,7 @@
 
 #u8199-4
 {
-	z-index: 566;
+	z-index: 565;
 	width: 122px;
 	min-height: 24px;
 }
@@ -660,7 +666,7 @@
 
 #u8197
 {
-	z-index: 570;
+	z-index: 569;
 	width: 17px;
 }
 
@@ -697,7 +703,7 @@
 
 #u8191
 {
-	z-index: 591;
+	z-index: 590;
 	width: 413px;
 	height: 144px;
 	position: relative;
@@ -707,7 +713,7 @@
 
 #u8279-4
 {
-	z-index: 592;
+	z-index: 591;
 	min-height: 39px;
 	position: relative;
 	margin-right: -10000px;
@@ -718,7 +724,7 @@
 
 #u8207
 {
-	z-index: 596;
+	z-index: 595;
 	width: 72px;
 	padding-bottom: 144px;
 	position: relative;
@@ -744,7 +750,7 @@
 
 #u8209
 {
-	z-index: 598;
+	z-index: 597;
 	width: 39px;
 	position: relative;
 	margin-right: -10000px;
@@ -774,7 +780,7 @@
 
 #u8205
 {
-	z-index: 601;
+	z-index: 600;
 	width: 60px;
 	position: relative;
 	margin-right: -10000px;
@@ -800,7 +806,7 @@
 
 #menuu9444
 {
-	z-index: 527;
+	z-index: 526;
 	margin-top: 262px;
 	position: relative;
 	width: 64.31%;
@@ -1038,7 +1044,7 @@
 
 #u10810
 {
-	z-index: 526;
+	z-index: 525;
 	height: 498px;
 	border-width: 0px;
 	border-color: transparent;
