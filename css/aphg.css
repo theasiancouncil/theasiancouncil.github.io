@@ -1,7 +1,7 @@
 .version.aphg /* version checker */
 {
-	color: #00001D;
-	background-color: #86BA9F;
+	color: #000009;
+	background-color: #770180;
 }
 
 #muse_css_mq
@@ -24,37 +24,20 @@
 	margin-right: auto;
 }
 
-#pu10462
-{
-	z-index: 35;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 64px;
-	width: 4.73%;
-	margin-left: 1.56%;
-}
-
 #u10462
 {
 	z-index: 35;
 	width: 60px;
 	min-height: 60px;
 	position: relative;
-}
-
-#u11261
-{
-	z-index: 279;
-	width: 40px;
-	min-height: 40px;
-	margin-top: 199px;
-	position: relative;
-	margin-left: 52.95%;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 1.56%;
 }
 
 #u11287
 {
-	z-index: 280;
+	z-index: 279;
 	width: 40px;
 	min-height: 40px;
 	position: relative;
@@ -63,22 +46,48 @@
 	left: 89px;
 }
 
+#u8305-158
+{
+	z-index: 36;
+	min-height: 701px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 187px;
+	width: 68.62%;
+	left: 10.95%;
+}
+
+#u8305-43
+{
+	font-weight: bold;
+}
+
+#u11956
+{
+	z-index: 280;
+	width: 1239px;
+	min-height: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 278px;
+}
+
 #pmenuu97
 {
 	z-index: 2;
-	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 61px;
-	width: 73.39%;
-	margin-left: 10.95%;
+	width: 68.89%;
+	margin-left: 15.45%;
 }
 
 #menuu97
 {
 	z-index: 2;
 	position: relative;
-	width: 93.87%;
-	margin-left: 6.14%;
+	width: 100%;
 }
 
 #u98
@@ -372,28 +381,6 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#pu8305-158
-{
-	z-index: 36;
-	margin-top: 92px;
-	width: 93.49%;
-}
-
-#u8305-158
-{
-	z-index: 36;
-	min-height: 701px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	width: 100%;
-}
-
-#u8305-43
-{
-	font-weight: bold;
-}
-
 #u8308
 {
 	z-index: 194;
@@ -402,10 +389,9 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	margin-top: 411px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 318px;
-	left: 8.26%;
+	margin-left: 1.7%;
 }
 
 #pamphletu8180

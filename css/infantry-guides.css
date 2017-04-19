@@ -1,7 +1,7 @@
 .version.infantry_guides /* version checker */
 {
-	color: #0000E4;
-	background-color: #DAEA03;
+	color: #000018;
+	background-color: #191660;
 }
 
 #muse_css_mq
@@ -24,37 +24,20 @@
 	margin-right: auto;
 }
 
-#pu10462
-{
-	z-index: 35;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 64px;
-	width: 4.73%;
-	margin-left: 1.56%;
-}
-
 #u10462
 {
 	z-index: 35;
 	width: 60px;
 	min-height: 60px;
 	position: relative;
-}
-
-#u11261
-{
-	z-index: 111;
-	width: 40px;
-	min-height: 40px;
-	margin-top: 199px;
-	position: relative;
-	margin-left: 52.95%;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 1.56%;
 }
 
 #u11287
 {
-	z-index: 112;
+	z-index: 111;
 	width: 40px;
 	min-height: 40px;
 	position: relative;
@@ -63,22 +46,37 @@
 	left: 89px;
 }
 
-#pmenuu97
+#u2815-5
 {
-	z-index: 2;
-	padding-bottom: 0px;
+	z-index: 36;
+	min-height: 514px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
-	margin-top: 61px;
-	width: 69.28%;
-	margin-left: 15.06%;
+	margin-top: 115px;
+	width: 68.89%;
+	left: 15.06%;
+}
+
+#u11956
+{
+	z-index: 112;
+	width: 1239px;
+	min-height: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 278px;
 }
 
 #menuu97
 {
 	z-index: 2;
 	position: relative;
-	width: 99.44%;
-	margin-left: 0.57%;
+	margin-right: -10000px;
+	margin-top: 61px;
+	width: 68.89%;
+	left: 15.45%;
 }
 
 #u98
@@ -370,16 +368,6 @@
 	min-height: 17px;
 	width: 100%;
 	margin: 0px -10000px 0px 0%;
-}
-
-#u2815-5
-{
-	z-index: 36;
-	min-height: 514px;
-	background-color: transparent;
-	margin-top: 20px;
-	position: relative;
-	width: 99.44%;
 }
 
 #pamphletu8180

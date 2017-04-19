@@ -1,7 +1,7 @@
 .version.science /* version checker */
 {
-	color: #0000F8;
-	background-color: #13FAA9;
+	color: #0000F1;
+	background-color: #9683DA;
 }
 
 #muse_css_mq
@@ -24,43 +24,37 @@
 	margin-right: auto;
 }
 
-#pu10462
-{
-	z-index: 35;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 64px;
-	width: 4.73%;
-	margin-left: 1.56%;
-}
-
 #u10462
 {
 	z-index: 35;
 	width: 60px;
 	min-height: 60px;
 	position: relative;
-}
-
-#u11261
-{
-	z-index: 155;
-	width: 40px;
-	min-height: 40px;
-	margin-top: 199px;
-	position: relative;
-	margin-left: 52.95%;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 1.56%;
 }
 
 #u11287
 {
-	z-index: 156;
+	z-index: 155;
 	width: 40px;
 	min-height: 40px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 399px;
 	left: 89px;
+}
+
+#u11956
+{
+	z-index: 156;
+	width: 1239px;
+	min-height: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 278px;
 }
 
 #pmenuu97

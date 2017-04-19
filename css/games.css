@@ -1,7 +1,7 @@
 .version.games /* version checker */
 {
-	color: #000013;
-	background-color: #2BC61E;
+	color: #000004;
+	background-color: #086BED;
 }
 
 #muse_css_mq
@@ -30,7 +30,7 @@
 	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 64px;
-	width: 8.34%;
+	width: 6.95%;
 	margin-left: -2.06%;
 }
 
@@ -40,7 +40,7 @@
 	width: 60px;
 	min-height: 60px;
 	position: relative;
-	margin-left: 43.34%;
+	margin-left: 52%;
 }
 
 #u10094-3
@@ -50,28 +50,29 @@
 	background-color: transparent;
 	margin-top: 112px;
 	position: relative;
-	width: 45.34%;
-}
-
-#u11261
-{
-	z-index: 117;
-	width: 40px;
-	min-height: 40px;
-	margin-top: 43px;
-	position: relative;
-	margin-left: 73.34%;
+	width: 54.41%;
 }
 
 #u11287
 {
-	z-index: 118;
+	z-index: 117;
 	width: 40px;
 	min-height: 40px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 399px;
 	left: 89px;
+}
+
+#u11956
+{
+	z-index: 118;
+	width: 1239px;
+	min-height: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 278px;
 }
 
 #pmenuu97
