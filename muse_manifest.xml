@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1494889388931">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1494976676512">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="458430596" ref="phone>secret:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>aphg:phone>science"/>
@@ -87,7 +87,7 @@
     <file name="pointer.png" crc="3760686964" seo="true" ref="index:school:misc:games:spanish-cheats:english-cheats:autohotkey-scripts:pirating:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:secret:about:online-class:science"/>
     <file name="close_light.png" crc="126613487" seo="true" ref="index:school:misc:games:spanish-cheats:english-cheats:autohotkey-scripts:pirating:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:secret:about:online-class:science"/>
     <file name="menu_icon_04_white_3line-crop-u8209.png" crc="4113681886" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:secret:about:online-class:science"/>
-    <file name="favicon.ico" crc="500211491" ref="index"/>
+    <file name="favicon.ico" crc="500211491" ref="index:spanish-cheats"/>
     <file name="fashion-man-person-beach-large.jpg" crc="4250478044" ref="about"/>
     <file name="person-holiday-vacation-woman-large.jpg" crc="3922162110" ref="about"/>
     <file name="sea-beach-holiday-vacation-large.jpg" crc="91167421" ref="about"/>
@@ -100,7 +100,7 @@
     <file name="school.css" crc="4123959027" ref="school"/>
     <file name="english-cheats.css" crc="459341875" ref="english-cheats"/>
     <file name="index.css" crc="4213753057" ref="index"/>
-    <file name="spanish-cheats.css" crc="31829946" ref="spanish-cheats"/>
+    <file name="spanish-cheats.css" crc="4172311067" ref="spanish-cheats"/>
     <file name="autohotkey-scripts.css" crc="338257568" ref="autohotkey-scripts"/>
     <file name="pirating.css" crc="4068770870" ref="pirating"/>
     <file name="misc.css" crc="24461454" ref="misc"/>
@@ -146,7 +146,7 @@
   </folder>
   <file name="index.html" crc="3968474750" seo="true" mt="1494889277490" redirect="true"/>
   <file name="school.html" crc="54175699" seo="true" mt="1494889140957" redirect="true"/>
-  <file name="spanish-cheats.html" crc="518572436" seo="true" mt="1494889140957" redirect="true"/>
+  <file name="spanish-cheats.html" crc="4214157081" seo="true" mt="1494975671788" redirect="true"/>
   <file name="english-cheats.html" crc="3808302854" seo="true" mt="1494889140957" redirect="true"/>
   <file name="misc.html" crc="238598389" seo="true" mt="1494889140957" redirect="true"/>
   <file name="autohotkey-scripts.html" crc="3970156473" seo="true" mt="1494889140957" redirect="true"/>
