@@ -1,7 +1,7 @@
 .version.spanish_cheats /* version checker */
 {
-	color: #0000F8;
-	background-color: #B06A1B;
+	color: #000013;
+	background-color: #825033;
 }
 
 #muse_css_mq
@@ -37,7 +37,7 @@
 
 #u11287
 {
-	z-index: 709;
+	z-index: 711;
 	width: 40px;
 	min-height: 40px;
 	position: relative;
@@ -46,15 +46,43 @@
 	left: 89px;
 }
 
-#u11956
+#u12000
 {
-	z-index: 710;
-	width: 1239px;
-	min-height: 40px;
+	z-index: 37;
+	height: 97px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 10px;
-	left: 278px;
+	margin-top: -127px;
+	width: 18.39%;
+	left: 5.28%;
+}
+
+#pu11993
+{
+	z-index: 36;
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: -100px;
+	margin-left: 113px;
+}
+
+#u11993
+{
+	z-index: 36;
+	width: 250px;
+	min-height: 31px;
+	position: relative;
+}
+
+#u11956
+{
+	z-index: 712;
+	width: 1239px;
+	min-height: 40px;
+	margin-left: 165px;
+	margin-top: 79px;
+	position: relative;
 }
 
 #pmenuu97
@@ -377,7 +405,7 @@
 
 #u353-596
 {
-	z-index: 36;
+	z-index: 38;
 	min-height: 400px;
 	background-color: transparent;
 	margin-top: 20px;
@@ -392,7 +420,7 @@
 
 #pamphletu8180
 {
-	z-index: 658;
+	z-index: 660;
 	width: 0.01px;
 	height: 144px;
 	position: fixed;
@@ -408,12 +436,12 @@
 
 #u8181popup
 {
-	z-index: 659;
+	z-index: 661;
 }
 
 #u8182
 {
-	z-index: 660;
+	z-index: 662;
 	width: 1159px;
 	height: 144px;
 	margin-right: -10000px;
@@ -422,14 +450,14 @@
 
 #pbuttonu8187
 {
-	z-index: 689;
+	z-index: 691;
 	width: 0.01px;
 	margin-right: -10000px;
 }
 
 #buttonu8187
 {
-	z-index: 689;
+	z-index: 691;
 	width: 185px;
 	height: 143px;
 	position: relative;
@@ -438,7 +466,7 @@
 
 #u8188-4
 {
-	z-index: 690;
+	z-index: 692;
 	width: 122px;
 	min-height: 24px;
 }
@@ -457,7 +485,7 @@
 
 #u8189
 {
-	z-index: 694;
+	z-index: 696;
 	width: 17px;
 }
 
@@ -479,7 +507,7 @@
 
 #pbuttonu8192
 {
-	z-index: 680;
+	z-index: 682;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 186px;
@@ -487,7 +515,7 @@
 
 #buttonu8192
 {
-	z-index: 680;
+	z-index: 682;
 	width: 185px;
 	height: 143px;
 	position: relative;
@@ -496,7 +524,7 @@
 
 #u8195-4
 {
-	z-index: 681;
+	z-index: 683;
 	width: 122px;
 	min-height: 24px;
 }
@@ -515,7 +543,7 @@
 
 #u8193
 {
-	z-index: 685;
+	z-index: 687;
 	width: 17px;
 }
 
@@ -537,7 +565,7 @@
 
 #pbuttonu8183
 {
-	z-index: 662;
+	z-index: 664;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 372px;
@@ -545,7 +573,7 @@
 
 #buttonu8183
 {
-	z-index: 662;
+	z-index: 664;
 	width: 185px;
 	height: 143px;
 	position: relative;
@@ -554,7 +582,7 @@
 
 #u8186-4
 {
-	z-index: 663;
+	z-index: 665;
 	width: 122px;
 	min-height: 24px;
 }
@@ -573,7 +601,7 @@
 
 #u8184
 {
-	z-index: 667;
+	z-index: 669;
 	width: 17px;
 }
 
@@ -595,7 +623,7 @@
 
 #pbuttonu8196
 {
-	z-index: 671;
+	z-index: 673;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 558px;
@@ -603,7 +631,7 @@
 
 #buttonu8196
 {
-	z-index: 671;
+	z-index: 673;
 	width: 185px;
 	height: 143px;
 	position: relative;
@@ -624,7 +652,7 @@
 
 #u8199-4
 {
-	z-index: 672;
+	z-index: 674;
 	width: 122px;
 	min-height: 24px;
 }
@@ -660,7 +688,7 @@
 
 #u8197
 {
-	z-index: 676;
+	z-index: 678;
 	width: 17px;
 }
 
@@ -697,7 +725,7 @@
 
 #u8191
 {
-	z-index: 697;
+	z-index: 699;
 	width: 413px;
 	height: 144px;
 	position: relative;
@@ -707,7 +735,7 @@
 
 #u8279-4
 {
-	z-index: 698;
+	z-index: 700;
 	min-height: 39px;
 	position: relative;
 	margin-right: -10000px;
@@ -718,7 +746,7 @@
 
 #u8207
 {
-	z-index: 702;
+	z-index: 704;
 	width: 72px;
 	padding-bottom: 144px;
 	position: relative;
@@ -744,7 +772,7 @@
 
 #u8209
 {
-	z-index: 704;
+	z-index: 706;
 	width: 39px;
 	position: relative;
 	margin-right: -10000px;
@@ -774,7 +802,7 @@
 
 #u8205
 {
-	z-index: 707;
+	z-index: 709;
 	width: 60px;
 	position: relative;
 	margin-right: -10000px;
@@ -800,7 +828,7 @@
 
 #menuu9444
 {
-	z-index: 633;
+	z-index: 635;
 	margin-top: 262px;
 	position: relative;
 	width: 64.31%;
@@ -1038,7 +1066,7 @@
 
 #u10810
 {
-	z-index: 632;
+	z-index: 634;
 	height: 498px;
 	border-width: 0px;
 	border-color: transparent;
@@ -1071,5 +1099,4 @@ body
 {
 	width: 100%;
 }
-
 
