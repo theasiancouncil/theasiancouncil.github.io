@@ -7,26 +7,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   
   <script type="text/javascript">
-   // Redirect to phone/tablet as necessary
-(function(a,b,c){var d=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var f=a[b]+"MaxTouchPoints";if(f in navigator&&navigator[f])return!0}try{return document.createEvent("TouchEvent"),!0}catch(d){}return!1}(),g=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var f=b[c];f.charAt(0)==" ";)f=f.substring(1,f.length);if(f.indexOf(a)==
-0)return f.substring(a.length,f.length)}return null};if(g("inbrowserediting")!="true"){var f,g=g("devicelock");g=="phone"&&c?f=c:g=="tablet"&&b&&(f=b);if(g!=a&&!f)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&c?f=c:window.matchMedia("(max-device-width: 960px)").matches&&b&&d&&(f=b);else{var a=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),g=window.screen.systemXDPI||0,i=window.screen.systemYDPI||0,g=g>0&&i>0?Math.min(screen.width/g,screen.height/i):
-0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone/combat.html");
-
-// Update the 'nojs'/'js' class on the html node
+   // Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "combat.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "bns.css"], "outOfDate":[]};
 </script>
   
-  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://theasiancouncil.github.io/phone/combat.html"/>
   <link rel="shortcut icon" href="images/favicon.ico?crc=500211491"/>
-  <title>Combat</title>
+  <title>BNS</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=1784155"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=2696354"/>
-  <link rel="stylesheet" type="text/css" href="css/master_games-civ.css?crc=4219933345"/>
-  <link rel="stylesheet" type="text/css" href="css/combat.css?crc=3930224744" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4022460418"/>
+  <link rel="stylesheet" type="text/css" href="css/bns.css?crc=324255676" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -1024,65 +1017,196 @@ div.mejs-speed-button {
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u10155" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u10157-4"><!-- content --><p>About</p></div></a>
      </div>
     </nav>
-    <div class="clearfix colelem" id="pu3669-59"><!-- group -->
-     <div class="clearfix grpelem" id="u3669-59"><!-- content -->
-      <p>Civilization six combat:</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>First ~70 turns: 3 melee units and 3 archers = one city. Use battering rams when they have walls.</p>
-      <p>Make sure to not waste any production. Try and get about 4 cities in this phase, and get a few horses.</p>
-      <p>&nbsp;After the first 70 turns your troops become obsolete, so work on infrastructure for a bit, and settle about 2 cities.</p>
-      <p>&nbsp;</p>
-      <p>Starting from about turn ~110 to about turn ~155 you want to make an army of ~4 knights and some crossbowman. Mostly use the crossbowmen to pick off enemy troops, then use the knights to destroy the city.</p>
-      <p>Battering Rams &gt; siege towers</p>
-      <p>&nbsp;</p>
-      <p>When it is about turn ~160, make about ~4 field cannons.</p>
-      <p>Start building bombards (like 2) and musketmen when you can. Use bombards and field cannons to destroy the walls before going for the kill.</p>
-      <p>Around turn ~190 you want to start building a few infantry. Make a few knight and field cannon corps. Make an observation balloon to help out the bombards.</p>
-      <p>Around turn ~210 upgrade the bombards to artillery</p>
-      <p>Around ~220 building biplanes is an option. Also start to upgrade the knights into tanks.</p>
-      <p>&nbsp;</p>
-      <p>Turn ~250 war should consist of a few infantry and tanks, and a bunch of artillery and field cannons.</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>Later in the game, around turn 275 to turn 300, get mechanized infantry, rocket artillery, modern armor, etc. use nukes and planes and all of that good stuff, and if you were doing well in the early game, you should be able to stomp here in the late game. Try and focus down the leaders, such as in culture and religion, so they can’t win.</p>
-      <p>Make sure to try and preserve the amount of promotions you have. When making a corp, always put a level 0 troop with a high level troop, this way you don’t waste experience. When you get a promotion, spend it ASAP, because you can’t earn experience if you still have a promotion to use.</p>
-      <p>It is a good idea to try and get level 4 knights when you start off, so your tanks will be able to throw multiple attacks at an enemy, which is very deadly.</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-     </div>
-     <nav class="MenuBar clearfix grpelem" id="menuu9962"><!-- vertical box -->
-      <div class="MenuItemContainer clearfix colelem" id="u9977"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u9980" href="civilization.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u9981-4"><!-- content --><p>Home</p></div></a>
-      </div>
-      <div class="MenuItemContainer clearfix colelem" id="u9963"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix grpelem" id="u9964" href="combat.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u9965-4"><!-- content --><p>Combat</p></div></a>
-      </div>
-      <div class="MenuItemContainer clearfix colelem" id="u9970"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u9973" href="tier-list.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u9974-4"><!-- content --><p>Slightly outdated tier list</p></div></a>
-      </div>
-     </nav>
+    <div class="clearfix colelem" id="u12031-267"><!-- content -->
+     <p>Here are a bunch of Blade and Soul quick AF dungeon guides that I've written up for myself.</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>BIG 4</p>
+     <p>&nbsp;</p>
+     <p>Ebondrake citadel normal mode:</p>
+     <p>&nbsp;</p>
+     <p>first boss= you stun at the throat</p>
+     <p>you kd at the legs</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>Second boss= all you do is kill the adds and DPS constantly. only 8 million health, easy.</p>
+     <p>&nbsp;</p>
+     <p>The mechanic occurs at 90, 60, and 30.</p>
+     <p>Boss marks the furthest person while everyone else must huddle under it, and the people huddling MUST not attack. You must wait for a summoner or assassin to stealth you. The boss then hits the marker with 4 attacks, this will give everyone else in the party a bunch of dps. Later, the boss will root everyone in place and do this heavens break thing. You won't take any damage if you did the mechanic correctly.</p>
+     <p>&nbsp;</p>
+     <p>If there is no stealth in the party the force master/any other class can just party iframe the heavens break thing. However the mechanic will not be done correctly and the boss will not take any extra damage.</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>Desolate tomb.</p>
+     <p>first boss. There is a destroyer with 2 wifes. do not kill the wives.</p>
+     <p>Tank the one on the left.</p>
+     <p>Knock down the health of the wives to 70%, this makes the forcemaster lose his shield.</p>
+     <p>The mechanic occurs at 70 and 40. The wives will jump to the forcemaster's side, at this point use ice tab and wait it out.</p>
+     <p>You must punch the wives back down to 70 and then kill him.</p>
+     <p>&nbsp;</p>
+     <p>second boss. at 70, 30,&nbsp; the mechanic happens, spawning some bots. kill the bots. More bots will spawn. Kill them. Then 2 people take the shields.</p>
+     <p>Don't be the furthest person, the boss will spit some shit at the furthest dude.</p>
+     <p>shield bearers will block 3 lightning things, then quickly throw the shield at the boss.</p>
+     <p>You don't HAVE to do the mechanics</p>
+     <p>&nbsp;</p>
+     <p>final boss. mechs at 90 60 30.&nbsp; At 90% and 30% it will watch the furthest person from it, at 60% it will watch the closest person instead.</p>
+     <p>There will be some electric spheres that spawn at 3 and 9 o clock. DO NOT GET HIT BY THEM MORE THAN 2 TIMES.</p>
+     <p>Eventually the boss throws electricity at the watched person, and the electricity chains on to a few other people nearby.</p>
+     <p>The boss will now grab the furthest person. The person that got grabbed will now need to be the marker for the next rotation.</p>
+     <p>The boss will attempt to do a few ground slams, the others in the party will need to delay this.</p>
+     <p>&nbsp;</p>
+     <p>The first 3 people that attack the boss will be marked. The boss will pound its chest and jump to the furthest player, and then the time bombs will start ticking over your head.</p>
+     <p>Right after you iframe the timebomb, the boss will throw a puddle of lava at you, If you are moving it won't hit you. For the time bomb, make sure to hit the iframe when its at &quot;1&quot;.</p>
+     <p>After the boss throws his final pool of lava, get a party iframe ready.</p>
+     <p>&nbsp;</p>
+     <p>http://imgur.com/vJxBpnR - this guide shows all of the mechanics that you need to know for the boss. The marker should stand at the NORTH side of the map, therefore:</p>
+     <p>the 3-3 should stand on the right side of the minimap, the 3-9 should stand on the left side of the minimap.</p>
+     <p>If it is not your turn to share the lightning bolts, all you gotta do is stand behind the boss (or at the bottom of the minimap).</p>
+     <p>&nbsp;</p>
+     <p>After the marker gets the orb/gets the marker he should move forwards to like 5 m away from the boss before backing up again.</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>Naryu Foundry-</p>
+     <p>Corrider, run throiugh and kill the elite mobs</p>
+     <p>First boss- throws lava at the tank, be careful of that. Does lots of DOT</p>
+     <p>Every once a while the Boss's CC bars will turn black, make sure to CC him here or he'll do a ton of damage (this happens after he throws the lava)</p>
+     <p>&nbsp;</p>
+     <p>Corridor: more mobs and trash</p>
+     <p>Second boss- you have a minute to DPS him down, do not get hit by the fire or you get one shot. ez</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>third boss (actually hard) Rocnar</p>
+     <p>&nbsp;</p>
+     <p>every minute 30, the boss summons a fire wall. Make sure to iframe the wall or you get raped. Stun the boss so the others can knock it up</p>
+     <p>&nbsp;</p>
+     <p>Then the boss will spawn a bunch of flowers and stuff. 2 people need to pick up 3 each, one on the left and one on the right. One person picks up 2 flowers, and they need to go into stealth or go jumping at the edge of the room.</p>
+     <p>Make sure to ice v when the boss says, &quot;rocnar absorbs heatwaves&quot;.</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>fourth boss, spend most of your time DPS since you have low mobility.</p>
+     <p>&nbsp;</p>
+     <p>Other than that it often says that the boss has &quot;heatwaves&quot; when that happens the 2 closest dudes are selected to be the ball driver people. They just need to fill in the vents.</p>
+     <p>Each tick turns the vents by 90 degrees clockwise.&nbsp; This job is done by people that have mobility.</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>Naryu Sanctum-</p>
+     <p>First boss (Granite titan)</p>
+     <p>This is the boss with the throwing axes and the granite soldiers.</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>Miniboss (giant naryu augerite)</p>
+     <p>All you do with this guy is to cc the ads.</p>
+     <p>&nbsp;</p>
+     <p>Second boss(agoni)- This is very easy if you aren't the marker, just don't stay too far away, DPS, pick up lightning rods and throw them at the boss, rinse and repeat.</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>Miniboss (naryu guardian archer)</p>
+     <p>Burst him down fast af as you don't want to get rekt by the other statues on the walll.</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>Final boss-</p>
+     <p>This is very hard. This is harder if you are the tank or the marker.</p>
+     <p>&nbsp;</p>
+     <p>Firstly, try to not get hit by the bosses attacks. He has many attacks that do a lot of damage, so know his rotation:</p>
+     <p>&nbsp;</p>
+     <p>1. Left Arm Swipe + Right Arm Swipe in front of him, both hits APPLY knockdown (blockable)</p>
+     <p>2. Criss-Cross Slams: Creates AoE lines to the left and right, then in front and behind, knocks down and APPLIES Darkness stack</p>
+     <p>3. Light Circles: Create a circle of light at 0-8m, then 8-14m, then 0-8m again, each circle will knock up. If there are other party iframers, a Blade Master, Blade Dancer, and Force Master can party iframe with Winged Protector, Maelstrom, and Frost Sheath respectively on this, with Winged Protector persisting long ENOUGH to iframe the next attack.</p>
+     <p>4. Laser Beam: Shoots a laser beam in front and behind him, applies knockback and knockdown.</p>
+     <p>5. Rectangle Slam: Does an AoE slam in a rectangle where Xanos is facing, applying daze and a darkness stack. Can be CC’d during this attack, and should be CC’d with specific forms (explained below). After the first marking phase, he will teleport behind the tank before doing the slam.</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>After 2 rotations of that (every 45 second)^^ there will be a message: &quot;Xanos has chosen a target for sacrifice&quot;. He will teleport to the furthest person, then he'll do 2 attacks</p>
+     <p>&nbsp;</p>
+     <p>1. Dark pits: Everyone needs to group up next to the boss and use a iframe.</p>
+     <p>2. Projectiles: Use divine veil.</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>At 70 and 30 (one fake eye at 30) there'll be a marking phase.</p>
+     <p>He'll jump to the center of the room, and then there is a 10 meter light radius.</p>
+     <p>&nbsp;</p>
+     <p>The TANK will be the CLOSEST person.</p>
+     <p>The other members should be standing in the middle of the light zone.</p>
+     <p>The MARKER will be the FURTHEST person, he should be standing in the DARK ZONE, at 16meters away from xanos in the dark zone with their long personal iframe.</p>
+     <p>&nbsp;</p>
+     <p>The 2 people who are the CLOSEST and the FURTHEST look at the eyes of xanos to see which one of them are the marker.</p>
+     <p>&nbsp;</p>
+     <p>After the light and dark zones have been created, and the marker chosen, Xanos will create a large explosion (party iframe) And then you knock him down ASAP. He will create a large light explosion (turn away from him after he is knocked down ASAP).</p>
+     <p>Then there will be a message &quot;xanos demands a sacrifice to the darkness&quot;.</p>
+     <p>There will be a dark circle and a light circle.</p>
+     <p>The marker will enter the dark circle once EVERYONE has entered the light circle.</p>
+     <p>&nbsp;</p>
+     <p>After that there will be a message &quot;xanos has completed his sacrifice&quot; and you must STUN him here. (he tries to lift the marker)</p>
+     <p>&nbsp;</p>
+     <p>Then, he does 5 rapid AOE bursts, party iframe</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>Skybreak spire:</p>
+     <p>Will do this guide when i can get into a raid group (soon&gt;?)</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>First boss:</p>
+     <p>This one is probably a complete joke compared to the other bosses, but it probably still is challenging to some degree :p</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="873" data-content-above-spacer="1072" data-content-below-spacer="61"></div>
+   <div class="verticalspacer" data-offset-top="3389" data-content-above-spacer="3588" data-content-below-spacer="21"></div>
   </div>
   <!-- JS includes -->
   <script type="text/javascript">

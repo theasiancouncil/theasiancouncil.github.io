@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1495246518360">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1496624730120">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="458430596" ref="phone>secret:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>aphg:phone>science"/>
@@ -70,6 +70,7 @@
     <file name="zzzzzz-notes.docx" crc="123219261" seo="true" mt="1491791551000"/>
     <file name="all-the-answers.docx" crc="163910812" seo="true" mt="1491791529000"/>
     <file name="hymn-project.mp3" crc="3768990972" seo="true" mt="1495246291000"/>
+    <file name="doc.png" crc="4020422862" seo="true" mt="1496623191000"/>
   </folder>
   <folder name="images">
     <file name="rice man.jpg" crc="3931912603" seo="true" ref="school"/>
@@ -83,28 +84,30 @@
     <file name="support weaponss.jpg" crc="3926442828" seo="true" ref="guns"/>
     <file name="all gun variants meaningss.jpg" crc="4158992555" seo="true" ref="guns"/>
     <file name="scout weaponss.jpg" crc="3930396014" seo="true" ref="guns"/>
-    <file name="logomakr_2hkmcf.png" crc="4101696920" seo="true" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:secret:about:online-class:science"/>
+    <file name="logomakr_2hkmcf.png" crc="4101696920" seo="true" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:secret:about:online-class:science:bns:rainbow-six:iq:doc"/>
     <file name="logomakr_9a9qwa.png" crc="203387318" seo="true" ref="phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:phone>aphg:phone>science"/>
-    <file name="favicon.ico" crc="500211491" ref="index"/>
+    <file name="favicon.ico" crc="500211491" ref="index:games:rainbow-six"/>
     <file name="fashion-man-person-beach-large.jpg" crc="4250478044" ref="about"/>
     <file name="person-holiday-vacation-woman-large.jpg" crc="3922162110" ref="about"/>
     <file name="sea-beach-holiday-vacation-large.jpg" crc="91167421" ref="about"/>
     <file name="1280x720 vincent meme 3.jpg" crc="4045956188" ref="about"/>
     <file name="desktop 2.jpg" crc="89100174" ref="about"/>
+    <file name="test.jpg" crc="210255410" seo="true" ref="rainbow-six:iq:doc"/>
+    <file name="doc.png" crc="506328227" seo="true" ref="rainbow-six:iq:doc"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="1784155"/>
-    <file name="master_a-master.css" crc="2696354" ref="school:english-cheats:index:spanish-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns:infantry-guides:airplane-guide:vehicle-guides:cavalry:civilization:combat:tier-list:aphg:secret:about:online-class:science"/>
+    <file name="master_a-master.css" crc="4022460418" ref="school:english-cheats:index:spanish-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns:infantry-guides:airplane-guide:vehicle-guides:cavalry:civilization:combat:tier-list:aphg:secret:about:online-class:science:bns:doc:rainbow-six:iq"/>
     <file name="school.css" crc="164074196" ref="school"/>
     <file name="english-cheats.css" crc="4176327701" ref="english-cheats"/>
-    <file name="index.css" crc="3932410063" ref="index"/>
+    <file name="index.css" crc="70605574" ref="index"/>
     <file name="spanish-cheats.css" crc="4247100569" ref="spanish-cheats"/>
     <file name="autohotkey-scripts.css" crc="4041137403" ref="autohotkey-scripts"/>
     <file name="pirating.css" crc="4242351245" ref="pirating"/>
     <file name="misc.css" crc="232235195" ref="misc"/>
-    <file name="games.css" crc="482495933" ref="games"/>
+    <file name="games.css" crc="207036971" ref="games"/>
     <file name="battlefield.css" crc="3901419716" ref="battlefield"/>
-    <file name="pokemon.css" crc="3896795380" ref="pokemon"/>
+    <file name="pokemon.css" crc="4181765762" ref="pokemon"/>
     <file name="scout.css" crc="3903087154" ref="scout"/>
     <file name="tanker.css" crc="3845799480" ref="tanker"/>
     <file name="guns.css" crc="77584294" ref="guns"/>
@@ -118,53 +121,62 @@
     <file name="aphg.css" crc="4017313181" ref="aphg"/>
     <file name="master_games-bf1-infantry.css" crc="513181882" ref="guns:scout:infantry-guides"/>
     <file name="master_games-civ.css" crc="4219933345" ref="combat:tier-list:civilization"/>
-    <file name="master_school-master.css" crc="4014483611" ref="spanish-cheats:aphg:english-cheats:school:online-class:science"/>
+    <file name="master_school-master.css" crc="4267163416" ref="spanish-cheats:aphg:english-cheats:school:online-class:science"/>
     <file name="master_games-bf1-vehicle.css" crc="4186753660" ref="tanker:airplane-guide:vehicle-guides:cavalry"/>
-    <file name="master_games-opening-master.css" crc="304543979" ref="games:pokemon"/>
+    <file name="master_games-opening-master.css" crc="440896714" ref="games:pokemon"/>
     <file name="master_misc-master.css" crc="280247566" ref="pirating:autohotkey-scripts:misc"/>
     <file name="secret.css" crc="3984616813" ref="secret"/>
-    <file name="about.css" crc="3859270187" ref="about"/>
+    <file name="about.css" crc="43542268" ref="about"/>
     <file name="online-class.css" crc="296628166" ref="online-class"/>
     <file name="science.css" crc="4075016341" ref="science"/>
+    <file name="bns.css" crc="324255676" ref="bns"/>
+    <file name="master_rainbow.css" crc="4023509619" ref="doc:rainbow-six:iq"/>
+    <file name="doc.css" crc="4168506193" ref="doc"/>
+    <file name="rainbow-six.css" crc="408924618" ref="rainbow-six"/>
+    <file name="iq.css" crc="345055394" ref="iq"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science"/>
-    <file name="museutils.js" crc="163421577" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science"/>
-    <file name="whatinput.js" crc="86476730" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science"/>
-    <file name="museconfig.js" crc="168988563" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science"/>
-    <file name="require.js" crc="244322403" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science:bns:rainbow-six:iq:doc"/>
+    <file name="museutils.js" crc="163421577" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science:bns:rainbow-six:iq:doc"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science:bns:rainbow-six:iq:doc"/>
+    <file name="museconfig.js" crc="168988563" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science:bns:rainbow-six:iq:doc"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science:bns:rainbow-six:iq:doc"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science:bns:rainbow-six:iq:doc"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science:bns:rainbow-six:iq:doc"/>
+    <file name="require.js" crc="244322403" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:aphg:phone>aphg:secret:about:online-class:science:phone>science:bns:rainbow-six:iq:doc"/>
     <file name="webpro.js" crc="3848665353" ref="about"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="about"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="about"/>
     <file name="touchswipe.js" crc="404375771" ref="about"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="about"/>
   </folder>
-  <file name="index.html" crc="3790236542" seo="true" mt="1495246492458" redirect="true"/>
-  <file name="school.html" crc="30033392" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="spanish-cheats.html" crc="4063757289" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="english-cheats.html" crc="389535054" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="misc.html" crc="416646789" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="autohotkey-scripts.html" crc="3960797765" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="pirating.html" crc="3880846215" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="games.html" crc="3886447840" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="battlefield.html" crc="365490077" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="pokemon.html" crc="436542512" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="scout.html" crc="3964287485" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="tanker.html" crc="137322661" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="guns.html" crc="4161811167" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="cavalry.html" crc="292882576" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="airplane-guide.html" crc="331512021" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="infantry-guides.html" crc="246165755" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="vehicle-guides.html" crc="30694356" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="civilization.html" crc="4215491023" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="combat.html" crc="531161833" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="tier-list.html" crc="251611420" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="aphg.html" crc="392300492" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="secret.html" crc="4154747072" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="about.html" crc="4238104178" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="online-class.html" crc="4152942744" seo="true" mt="1495246347721" redirect="true"/>
-  <file name="science.html" crc="4284814812" seo="true" mt="1495246347721" redirect="true"/>
+  <file name="index.html" crc="298573890" seo="true" mt="1496358090637" redirect="true"/>
+  <file name="school.html" crc="48539251" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="spanish-cheats.html" crc="3867758582" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="english-cheats.html" crc="4104954615" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="misc.html" crc="4176136712" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="autohotkey-scripts.html" crc="4043423514" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="pirating.html" crc="4195662891" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="games.html" crc="4023140766" seo="true" mt="1496624464549" redirect="true"/>
+  <file name="battlefield.html" crc="193495932" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="pokemon.html" crc="4123555103" seo="true" mt="1496624464549" redirect="true"/>
+  <file name="scout.html" crc="4201098356" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="tanker.html" crc="201340805" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="guns.html" crc="3803294759" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="cavalry.html" crc="3872729121" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="airplane-guide.html" crc="272174126" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="infantry-guides.html" crc="321167210" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="vehicle-guides.html" crc="3795816092" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="civilization.html" crc="58464886" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="combat.html" crc="53196714" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="tier-list.html" crc="86170202" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="aphg.html" crc="4044579780" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="secret.html" crc="235482290" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="about.html" crc="4089850241" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="online-class.html" crc="4175489980" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="science.html" crc="3965769974" seo="true" mt="1496358040159" redirect="true"/>
+  <file name="bns.html" crc="525376257" seo="true" mt="1496599899213" redirect="true"/>
+  <file name="rainbow-six.html" crc="161978591" seo="true" mt="1496624713726" redirect="true"/>
+  <file name="iq.html" crc="201257054" seo="true" mt="1496624713726" redirect="true"/>
+  <file name="doc.html" crc="11583885" seo="true" mt="1496624713726" redirect="true"/>
 </manifest>
