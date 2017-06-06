@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1496624730120">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="theasiancouncil.github.io" resolutions="1x" timestamp="1496719767938">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="458430596" ref="phone>secret:phone>games:phone>combat:phone>guns:phone>index:phone>airplane-guide:phone>scout:phone>tier-list:phone>battlefield:phone>school:phone>tanker:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>spanish-cheats:phone>english-cheats:phone>cavalry:phone>aphg:phone>science"/>
@@ -86,7 +86,7 @@
     <file name="scout weaponss.jpg" crc="3930396014" seo="true" ref="guns"/>
     <file name="logomakr_2hkmcf.png" crc="4101696920" seo="true" ref="index:school:spanish-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns:cavalry:airplane-guide:infantry-guides:vehicle-guides:civilization:combat:tier-list:aphg:secret:about:online-class:science:bns:rainbow-six:iq:doc"/>
     <file name="logomakr_9a9qwa.png" crc="203387318" seo="true" ref="phone>index:phone>secret:phone>school:phone>spanish-cheats:phone>english-cheats:phone>games:phone>battlefield:phone>scout:phone>tanker:phone>cavalry:phone>airplane-guide:phone>guns:phone>infantry-guides:phone>vehicle-guides:phone>civilization:phone>combat:phone>tier-list:phone>aphg:phone>science"/>
-    <file name="favicon.ico" crc="500211491" ref="index:games:rainbow-six"/>
+    <file name="favicon.ico" crc="500211491" ref="index:games:rainbow-six:bns"/>
     <file name="fashion-man-person-beach-large.jpg" crc="4250478044" ref="about"/>
     <file name="person-holiday-vacation-woman-large.jpg" crc="3922162110" ref="about"/>
     <file name="sea-beach-holiday-vacation-large.jpg" crc="91167421" ref="about"/>
@@ -129,7 +129,7 @@
     <file name="about.css" crc="43542268" ref="about"/>
     <file name="online-class.css" crc="296628166" ref="online-class"/>
     <file name="science.css" crc="4075016341" ref="science"/>
-    <file name="bns.css" crc="324255676" ref="bns"/>
+    <file name="bns.css" crc="347846655" ref="bns"/>
     <file name="master_rainbow.css" crc="4023509619" ref="doc:rainbow-six:iq"/>
     <file name="doc.css" crc="4168506193" ref="doc"/>
     <file name="rainbow-six.css" crc="408924618" ref="rainbow-six"/>
@@ -175,7 +175,7 @@
   <file name="about.html" crc="4089850241" seo="true" mt="1496358040159" redirect="true"/>
   <file name="online-class.html" crc="4175489980" seo="true" mt="1496358040159" redirect="true"/>
   <file name="science.html" crc="3965769974" seo="true" mt="1496358040159" redirect="true"/>
-  <file name="bns.html" crc="525376257" seo="true" mt="1496599899213" redirect="true"/>
+  <file name="bns.html" crc="193469024" seo="true" mt="1496712596390" redirect="true"/>
   <file name="rainbow-six.html" crc="161978591" seo="true" mt="1496624713726" redirect="true"/>
   <file name="iq.html" crc="201257054" seo="true" mt="1496624713726" redirect="true"/>
   <file name="doc.html" crc="11583885" seo="true" mt="1496624713726" redirect="true"/>
